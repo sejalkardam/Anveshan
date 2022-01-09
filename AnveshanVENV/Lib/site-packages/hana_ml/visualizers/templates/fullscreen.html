@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"
+    />
+	
+    {% block styles %}
+    <style>
+      {% include "fullscreen.css" %}
+    </style>
+    {% endblock %}
+	
+    <script>
+      window.routerBase = "./";
+    </script>
+
+    <script type="text/javascript">
+      const iframe_id = '{{ iframe_id }}'
+	  const iframe_type = '{{ iframe_type }}'
+    </script>    
+  </head>
+  <body>
+    <div id="root"></div>
+
+    {% block javascript %}
+    <script type="text/javascript">
+      {% include "fullscreen.js" %}
+    </script>
+    {% endblock %}
+  </body>
+</html>

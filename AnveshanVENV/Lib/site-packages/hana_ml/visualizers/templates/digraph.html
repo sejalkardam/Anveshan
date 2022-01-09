@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"
+    />
+	
+    {% block styles %}
+    <style>
+      {% include "digraph.css" %}
+    </style>
+    {% endblock %}
+	
+    <script>
+      window.routerBase = "./";
+	    const project_name = '{{ project_name }}';
+      const layout = '{{ layout }}';
+      let globalNodeSep = {{ nodeSep }};
+      let globalRankSep = {{ rankSep }};
+	    const start_time = '{{ start_time }}';
+	    const data_json = {{ data_json }};
+	    const makeTextCenter = {{ makeTextCenter }};
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+
+    {% block javascript %}
+    <script type="text/javascript">
+      {% include "digraph.js" %}
+    </script>
+
+    <script type="text/javascript" data-namespace="pythonIconFont.js">
+      {% include "pythonIconFont.js" %}
+    </script>
+    {% endblock %}
+		
+  </body>
+</html>
