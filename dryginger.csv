@@ -1,0 +1,3009 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+0,427,2000,Whole Year,Dry ginger,36.0,100.0
+0,427,2001,Whole Year,Dry ginger,46.0,100.0
+0,427,2002,Whole Year,Dry ginger,47.3,133.0
+0,427,2003,Whole Year,Dry ginger,102.0,326.4
+0,427,2004,Whole Year,Dry ginger,118.0,366.0
+0,427,2006,Whole Year,Dry ginger,6.0,21.0
+0,427,2010,Rabi,Dry ginger,7.0,9.64
+0,429,2000,Whole Year,Dry ginger,352.0,1120.0
+0,429,2001,Whole Year,Dry ginger,344.0,1124.0
+0,429,2006,Whole Year,Dry ginger,98.66,929.0
+0,429,2010,Rabi,Dry ginger,110.0,1011.84
+0,559,2002,Whole Year,Dry ginger,352.0,1145.0
+0,559,2003,Whole Year,Dry ginger,406.0,1299.2
+0,559,2004,Whole Year,Dry ginger,410.0,1462.0
+0,559,2005,Whole Year,Dry ginger,200.0,1800.0
+0,559,2006,Whole Year,Dry ginger,100.9,900.0
+0,559,2010,Rabi,Dry ginger,94.0,828.52
+1,172,2005,Whole Year,Dry ginger,7.0,19.0
+1,172,2006,Whole Year,Dry ginger,7.0,20.0
+1,172,2008,Whole Year,Dry ginger,8.0,25.0
+1,274,2004,Whole Year,Dry ginger,1.0,3.0
+1,274,2012,Rabi,Dry ginger,1.0,8.0
+1,335,2000,Whole Year,Dry ginger,15.0,28.0
+1,335,2001,Whole Year,Dry ginger,14.0,37.0
+1,335,2002,Whole Year,Dry ginger,12.0,20.0
+1,335,2003,Whole Year,Dry ginger,13.0,37.0
+1,335,2004,Whole Year,Dry ginger,8.0,22.0
+1,335,2005,Whole Year,Dry ginger,34.0,94.0
+1,335,2006,Whole Year,Dry ginger,21.0,59.0
+1,335,2008,Whole Year,Dry ginger,21.0,50.0
+1,335,2009,Whole Year,Dry ginger,57.0,111.0
+1,335,2010,Whole Year,Dry ginger,43.0,401.0
+1,335,2011,Whole Year,Dry ginger,55.0,508.0
+1,335,2012,Kharif,Dry ginger,53.0,414.0
+1,335,2013,Kharif,Dry ginger,53.0,351.0
+1,335,2013,Whole Year,Dry ginger,53.0,351.0
+1,335,2014,Kharif,Dry ginger,53.0,330.0
+1,340,2006,Whole Year,Dry ginger,1.0,3.0
+1,340,2014,Rabi,Dry ginger,36.0,103.0
+1,463,2012,Kharif,Dry ginger,8.0,62.0
+1,567,2000,Whole Year,Dry ginger,144.0,273.0
+1,567,2001,Whole Year,Dry ginger,131.0,345.0
+1,567,2002,Whole Year,Dry ginger,140.0,229.0
+1,567,2003,Whole Year,Dry ginger,140.0,398.0
+1,567,2004,Whole Year,Dry ginger,143.0,391.0
+1,567,2005,Whole Year,Dry ginger,139.0,383.0
+1,567,2006,Whole Year,Dry ginger,139.0,391.0
+1,567,2008,Whole Year,Dry ginger,139.0,292.0
+1,567,2009,Whole Year,Dry ginger,83.0,162.0
+1,567,2010,Whole Year,Dry ginger,76.0,709.0
+1,567,2011,Whole Year,Dry ginger,76.0,702.0
+1,567,2012,Kharif,Dry ginger,60.0,469.0
+1,567,2013,Kharif,Dry ginger,42.0,278.0
+1,567,2013,Whole Year,Dry ginger,42.0,278.0
+1,567,2014,Kharif,Dry ginger,37.0,23.0
+1,625,2000,Whole Year,Dry ginger,1125.0,2130.0
+1,625,2001,Whole Year,Dry ginger,1158.0,3047.0
+1,625,2002,Whole Year,Dry ginger,1167.0,1908.0
+1,625,2003,Whole Year,Dry ginger,868.0,2466.0
+1,625,2004,Whole Year,Dry ginger,840.0,2294.0
+1,625,2005,Whole Year,Dry ginger,812.0,2236.0
+1,625,2006,Whole Year,Dry ginger,812.0,2283.0
+1,625,2008,Whole Year,Dry ginger,619.0,1518.0
+1,625,2009,Whole Year,Dry ginger,432.0,842.0
+1,625,2010,Whole Year,Dry ginger,601.0,1613.0
+1,625,2011,Whole Year,Dry ginger,586.0,1448.0
+1,625,2012,Kharif,Dry ginger,581.0,1642.0
+1,625,2013,Kharif,Dry ginger,263.0,740.0
+1,625,2013,Whole Year,Dry ginger,263.0,740.0
+1,625,2014,Kharif,Dry ginger,285.0,719.0
+1,626,2002,Whole Year,Dry ginger,8.0,13.0
+1,626,2003,Whole Year,Dry ginger,8.0,23.0
+1,626,2004,Whole Year,Dry ginger,16.0,44.0
+1,626,2005,Whole Year,Dry ginger,14.0,39.0
+1,626,2006,Whole Year,Dry ginger,34.0,96.0
+1,626,2008,Whole Year,Dry ginger,33.0,79.0
+1,626,2009,Whole Year,Dry ginger,16.0,31.0
+1,626,2010,Whole Year,Dry ginger,28.0,261.0
+1,626,2011,Whole Year,Dry ginger,5.0,46.0
+1,626,2014,Kharif,Dry ginger,16.0,46.0
+1,633,2005,Whole Year,Dry ginger,1.0,3.0
+1,633,2006,Whole Year,Dry ginger,8.0,22.0
+1,633,2010,Whole Year,Dry ginger,2.0,19.0
+1,633,2011,Whole Year,Dry ginger,12.0,111.0
+2,26,2004,Whole Year,Dry ginger,60.0,420.0
+2,26,2005,Whole Year,Dry ginger,65.0,455.0
+2,26,2006,Whole Year,Dry ginger,158.0,1199.0
+2,26,2007,Whole Year,Dry ginger,160.0,1179.0
+2,26,2008,Whole Year,Dry ginger,168.0,1267.0
+2,26,2009,Whole Year,Dry ginger,200.0,1600.0
+2,26,2010,Whole Year,Dry ginger,115.0,920.0
+2,26,2011,Whole Year,Dry ginger,118.0,950.0
+2,26,2012,Whole Year,Dry ginger,120.0,980.0
+2,26,2013,Whole Year,Dry ginger,120.0,980.0
+2,26,2014,Whole Year,Dry ginger,63.0,1270.0
+2,113,1998,Whole Year,Dry ginger,150.0,795.0
+2,113,1999,Whole Year,Dry ginger,155.0,850.0
+2,113,2000,Whole Year,Dry ginger,437.0,2308.0
+2,113,2001,Whole Year,Dry ginger,477.0,2242.0
+2,113,2002,Whole Year,Dry ginger,450.0,2475.0
+2,113,2003,Whole Year,Dry ginger,425.0,2402.0
+2,113,2004,Whole Year,Dry ginger,20.0,145.0
+2,113,2005,Whole Year,Dry ginger,475.0,2707.0
+2,113,2006,Whole Year,Dry ginger,322.0,1752.0
+2,113,2007,Whole Year,Dry ginger,483.0,3043.0
+2,113,2008,Whole Year,Dry ginger,494.0,3531.0
+2,113,2009,Whole Year,Dry ginger,530.0,3816.0
+2,113,2010,Whole Year,Dry ginger,560.0,4032.0
+2,113,2011,Whole Year,Dry ginger,577.0,4163.0
+2,113,2012,Whole Year,Dry ginger,500.0,3865.0
+2,113,2013,Whole Year,Dry ginger,505.0,3904.0
+2,113,2014,Whole Year,Dry ginger,592.0,4194.0
+2,157,1998,Whole Year,Dry ginger,2300.0,17250.0
+2,157,1999,Whole Year,Dry ginger,2310.0,19635.0
+2,157,2000,Whole Year,Dry ginger,2415.0,16905.0
+2,157,2001,Whole Year,Dry ginger,2420.0,21780.0
+2,157,2002,Whole Year,Dry ginger,3.0,50.0
+2,157,2003,Whole Year,Dry ginger,10.0,80.0
+2,157,2004,Whole Year,Dry ginger,120.0,526.0
+2,157,2005,Whole Year,Dry ginger,12.0,86.0
+2,157,2006,Whole Year,Dry ginger,5.0,8.0
+2,157,2007,Whole Year,Dry ginger,17.0,101.0
+2,157,2008,Whole Year,Dry ginger,20.0,125.0
+2,157,2009,Whole Year,Dry ginger,20.0,125.0
+2,157,2010,Whole Year,Dry ginger,30.0,120.0
+2,157,2011,Whole Year,Dry ginger,30.0,124.0
+2,157,2012,Whole Year,Dry ginger,84.0,230.0
+2,157,2013,Whole Year,Dry ginger,89.0,255.0
+2,157,2014,Whole Year,Dry ginger,176.0,545.0
+2,174,1998,Whole Year,Dry ginger,40.0,160.0
+2,174,1999,Whole Year,Dry ginger,50.0,140.0
+2,174,2000,Whole Year,Dry ginger,42.0,170.0
+2,174,2001,Whole Year,Dry ginger,52.0,234.0
+2,174,2002,Whole Year,Dry ginger,52.0,231.0
+2,174,2003,Whole Year,Dry ginger,47.0,209.0
+2,174,2004,Whole Year,Dry ginger,50.0,222.0
+2,174,2005,Whole Year,Dry ginger,55.0,227.0
+2,174,2006,Whole Year,Dry ginger,55.0,223.0
+2,174,2007,Whole Year,Dry ginger,55.0,225.0
+2,174,2008,Whole Year,Dry ginger,56.0,231.0
+2,174,2009,Whole Year,Dry ginger,58.0,239.0
+2,174,2010,Whole Year,Dry ginger,60.0,244.0
+2,174,2011,Whole Year,Dry ginger,62.0,252.0
+2,174,2012,Whole Year,Dry ginger,62.0,254.0
+2,174,2013,Whole Year,Dry ginger,68.0,280.0
+2,174,2014,Whole Year,Dry ginger,155.0,570.0
+2,176,1998,Whole Year,Dry ginger,80.0,260.0
+2,176,1999,Whole Year,Dry ginger,400.0,2815.0
+2,176,2000,Whole Year,Dry ginger,500.0,4070.0
+2,176,2001,Whole Year,Dry ginger,560.0,4460.0
+2,176,2002,Whole Year,Dry ginger,580.0,4820.0
+2,176,2003,Whole Year,Dry ginger,600.0,4960.0
+2,176,2004,Whole Year,Dry ginger,196.0,4313.0
+2,176,2005,Whole Year,Dry ginger,657.0,5778.0
+2,176,2006,Whole Year,Dry ginger,657.0,5778.0
+2,176,2007,Whole Year,Dry ginger,667.0,5581.0
+2,176,2008,Whole Year,Dry ginger,672.0,5625.0
+2,176,2009,Whole Year,Dry ginger,826.0,8060.0
+2,176,2010,Whole Year,Dry ginger,867.0,8463.0
+2,176,2011,Whole Year,Dry ginger,893.0,8737.0
+2,176,2012,Whole Year,Dry ginger,988.0,9049.0
+2,176,2013,Whole Year,Dry ginger,1012.0,9070.0
+2,176,2014,Whole Year,Dry ginger,1108.0,9560.0
+2,342,2002,Whole Year,Dry ginger,20.0,145.0
+2,342,2003,Whole Year,Dry ginger,20.0,142.0
+2,342,2004,Whole Year,Dry ginger,70.0,484.0
+2,342,2005,Whole Year,Dry ginger,20.0,140.0
+2,342,2006,Whole Year,Dry ginger,100.0,80.0
+2,342,2007,Whole Year,Dry ginger,22.0,15.0
+2,342,2008,Whole Year,Dry ginger,22.0,132.0
+2,342,2009,Whole Year,Dry ginger,22.0,132.0
+2,342,2010,Whole Year,Dry ginger,20.0,139.0
+2,342,2011,Whole Year,Dry ginger,20.0,143.0
+2,342,2012,Whole Year,Dry ginger,21.0,145.0
+2,342,2013,Whole Year,Dry ginger,5.0,34.0
+2,342,2014,Whole Year,Dry ginger,25.0,122.0
+2,353,1998,Whole Year,Dry ginger,1086.0,9315.0
+2,353,1999,Whole Year,Dry ginger,1020.0,9880.0
+2,353,2000,Whole Year,Dry ginger,1060.0,10388.0
+2,353,2001,Whole Year,Dry ginger,716.0,7160.0
+2,353,2002,Whole Year,Dry ginger,695.0,6950.0
+2,353,2003,Whole Year,Dry ginger,896.0,8064.0
+2,353,2004,Whole Year,Dry ginger,2230.0,15610.0
+2,353,2005,Whole Year,Dry ginger,555.0,4551.0
+2,353,2006,Whole Year,Dry ginger,895.0,7294.0
+2,353,2007,Whole Year,Dry ginger,890.0,7324.0
+2,353,2008,Whole Year,Dry ginger,928.0,7778.0
+2,353,2009,Whole Year,Dry ginger,920.0,7544.0
+2,353,2010,Whole Year,Dry ginger,985.0,8826.0
+2,353,2011,Whole Year,Dry ginger,1015.0,9112.0
+2,353,2012,Whole Year,Dry ginger,1025.0,9277.0
+2,353,2013,Whole Year,Dry ginger,1035.0,9387.0
+2,353,2014,Whole Year,Dry ginger,1122.0,9877.0
+2,354,2013,Whole Year,Dry ginger,17.0,139.0
+2,354,2014,Whole Year,Dry ginger,39.0,230.0
+2,356,2002,Whole Year,Dry ginger,2211.0,15477.0
+2,356,2003,Whole Year,Dry ginger,2225.0,18912.0
+2,356,2004,Whole Year,Dry ginger,430.0,2430.0
+2,356,2005,Whole Year,Dry ginger,2240.0,15680.0
+2,356,2006,Whole Year,Dry ginger,2750.0,20625.0
+2,356,2007,Whole Year,Dry ginger,2850.0,21375.0
+2,356,2008,Whole Year,Dry ginger,2833.0,21248.0
+2,356,2009,Whole Year,Dry ginger,2855.0,21413.0
+2,356,2010,Whole Year,Dry ginger,2880.0,21600.0
+2,356,2011,Whole Year,Dry ginger,2966.0,22305.0
+2,356,2012,Whole Year,Dry ginger,2960.0,23680.0
+2,356,2013,Whole Year,Dry ginger,2980.0,23840.0
+2,356,2014,Whole Year,Dry ginger,3067.0,24130.0
+2,357,1998,Whole Year,Dry ginger,405.0,2025.0
+2,357,1999,Whole Year,Dry ginger,50.0,255.0
+2,357,2000,Whole Year,Dry ginger,65.0,357.0
+2,357,2001,Whole Year,Dry ginger,75.0,530.0
+2,357,2002,Whole Year,Dry ginger,56.0,386.0
+2,357,2003,Whole Year,Dry ginger,65.0,450.0
+2,357,2004,Whole Year,Dry ginger,66.0,309.0
+2,357,2005,Whole Year,Dry ginger,76.0,484.0
+2,357,2006,Whole Year,Dry ginger,78.0,494.0
+2,357,2007,Whole Year,Dry ginger,100.0,600.0
+2,357,2008,Whole Year,Dry ginger,105.0,630.0
+2,357,2009,Whole Year,Dry ginger,109.0,656.0
+2,357,2010,Whole Year,Dry ginger,188.0,1062.0
+2,357,2011,Whole Year,Dry ginger,194.0,1096.0
+2,357,2012,Whole Year,Dry ginger,194.0,1096.0
+2,357,2013,Whole Year,Dry ginger,192.0,1084.0
+2,357,2014,Whole Year,Dry ginger,279.0,1372.0
+2,446,1998,Whole Year,Dry ginger,43.0,310.0
+2,446,1999,Whole Year,Dry ginger,50.0,340.0
+2,446,2000,Whole Year,Dry ginger,50.0,350.0
+2,446,2001,Whole Year,Dry ginger,55.0,385.0
+2,446,2002,Whole Year,Dry ginger,65.0,395.0
+2,446,2003,Whole Year,Dry ginger,57.0,452.0
+2,446,2004,Whole Year,Dry ginger,635.0,5588.0
+2,446,2005,Whole Year,Dry ginger,100.0,726.0
+2,446,2006,Whole Year,Dry ginger,105.0,750.0
+2,446,2007,Whole Year,Dry ginger,90.0,626.0
+2,446,2008,Whole Year,Dry ginger,85.0,610.0
+2,446,2009,Whole Year,Dry ginger,100.0,1030.0
+2,446,2010,Whole Year,Dry ginger,104.0,1066.0
+2,446,2011,Whole Year,Dry ginger,187.0,1100.0
+2,446,2012,Whole Year,Dry ginger,112.0,1109.0
+2,446,2013,Whole Year,Dry ginger,145.0,1392.0
+2,446,2014,Whole Year,Dry ginger,232.0,1682.0
+2,580,2002,Whole Year,Dry ginger,32.0,80.0
+2,580,2003,Whole Year,Dry ginger,32.0,80.0
+2,580,2004,Whole Year,Dry ginger,28.0,70.0
+2,580,2005,Whole Year,Dry ginger,26.0,65.0
+2,580,2006,Whole Year,Dry ginger,26.0,65.0
+2,580,2007,Whole Year,Dry ginger,26.0,65.0
+2,580,2008,Whole Year,Dry ginger,26.0,65.0
+2,580,2009,Whole Year,Dry ginger,15.0,38.0
+2,580,2010,Whole Year,Dry ginger,20.0,50.0
+2,580,2011,Whole Year,Dry ginger,21.0,52.0
+2,580,2012,Whole Year,Dry ginger,20.0,50.0
+2,580,2013,Whole Year,Dry ginger,20.0,50.0
+2,580,2014,Whole Year,Dry ginger,104.0,340.0
+2,593,1998,Whole Year,Dry ginger,100.0,370.0
+2,593,1999,Whole Year,Dry ginger,75.0,366.0
+2,593,2000,Whole Year,Dry ginger,100.0,279.0
+2,593,2001,Whole Year,Dry ginger,110.0,500.0
+2,593,2002,Whole Year,Dry ginger,116.0,528.0
+2,593,2003,Whole Year,Dry ginger,115.0,530.0
+2,593,2004,Whole Year,Dry ginger,230.0,1635.0
+2,593,2006,Whole Year,Dry ginger,122.0,534.0
+2,593,2007,Whole Year,Dry ginger,125.0,438.0
+2,593,2008,Whole Year,Dry ginger,128.0,442.0
+2,593,2009,Whole Year,Dry ginger,80.0,210.0
+2,593,2010,Whole Year,Dry ginger,80.0,212.0
+2,593,2011,Whole Year,Dry ginger,82.0,218.0
+2,593,2012,Whole Year,Dry ginger,23.0,184.0
+2,593,2013,Whole Year,Dry ginger,11.0,90.0
+2,593,2014,Whole Year,Dry ginger,28.0,180.0
+2,613,2003,Whole Year,Dry ginger,15.0,100.0
+2,613,2004,Whole Year,Dry ginger,5.0,4.0
+2,613,2005,Whole Year,Dry ginger,220.0,1100.0
+2,613,2006,Whole Year,Dry ginger,240.0,1200.0
+2,613,2007,Whole Year,Dry ginger,255.0,1275.0
+2,613,2008,Whole Year,Dry ginger,255.0,1275.0
+2,613,2009,Whole Year,Dry ginger,200.0,1200.0
+2,613,2010,Whole Year,Dry ginger,210.0,1260.0
+2,613,2011,Whole Year,Dry ginger,215.0,1300.0
+2,613,2012,Whole Year,Dry ginger,225.0,1463.0
+2,613,2013,Whole Year,Dry ginger,230.0,1518.0
+2,613,2014,Whole Year,Dry ginger,318.0,1808.0
+2,614,1998,Whole Year,Dry ginger,80.0,160.0
+2,614,1999,Whole Year,Dry ginger,184.0,179.0
+2,614,2001,Whole Year,Dry ginger,55.0,275.0
+2,614,2002,Whole Year,Dry ginger,60.0,303.0
+2,614,2003,Whole Year,Dry ginger,65.0,308.0
+2,614,2004,Whole Year,Dry ginger,66.0,453.0
+2,614,2005,Whole Year,Dry ginger,202.0,810.0
+2,614,2006,Whole Year,Dry ginger,127.0,1160.0
+2,614,2007,Whole Year,Dry ginger,247.0,2866.0
+2,614,2008,Whole Year,Dry ginger,242.0,1378.0
+2,614,2009,Whole Year,Dry ginger,121.0,688.0
+2,614,2010,Whole Year,Dry ginger,133.0,1258.0
+2,614,2011,Whole Year,Dry ginger,140.0,1298.0
+2,614,2012,Whole Year,Dry ginger,145.0,1305.0
+2,614,2013,Whole Year,Dry ginger,152.0,1402.0
+2,614,2014,Whole Year,Dry ginger,238.0,1692.0
+2,635,1998,Whole Year,Dry ginger,45.0,68.0
+2,635,1999,Whole Year,Dry ginger,45.0,30.0
+2,635,2000,Whole Year,Dry ginger,45.0,68.0
+2,635,2001,Whole Year,Dry ginger,45.0,68.0
+2,635,2002,Whole Year,Dry ginger,45.0,68.0
+2,635,2003,Whole Year,Dry ginger,45.0,68.0
+2,635,2004,Whole Year,Dry ginger,45.0,68.0
+2,635,2005,Whole Year,Dry ginger,45.0,68.0
+2,635,2006,Whole Year,Dry ginger,15.0,23.0
+2,635,2007,Whole Year,Dry ginger,45.0,70.0
+2,635,2008,Whole Year,Dry ginger,32.0,77.0
+2,635,2009,Whole Year,Dry ginger,50.0,80.0
+2,635,2010,Whole Year,Dry ginger,51.0,185.0
+2,635,2011,Whole Year,Dry ginger,53.0,190.0
+2,635,2012,Whole Year,Dry ginger,51.0,185.0
+2,635,2013,Whole Year,Dry ginger,50.0,186.0
+2,635,2014,Whole Year,Dry ginger,137.0,476.0
+2,637,1998,Whole Year,Dry ginger,56.0,378.0
+2,637,1999,Whole Year,Dry ginger,60.0,400.0
+2,637,2000,Whole Year,Dry ginger,60.0,400.0
+2,637,2001,Whole Year,Dry ginger,48.0,387.0
+2,637,2002,Whole Year,Dry ginger,63.0,424.0
+2,637,2003,Whole Year,Dry ginger,63.0,420.0
+2,637,2004,Whole Year,Dry ginger,200.0,600.0
+2,637,2005,Whole Year,Dry ginger,66.0,449.0
+2,637,2006,Whole Year,Dry ginger,177.0,1636.0
+2,637,2007,Whole Year,Dry ginger,273.0,2624.0
+2,637,2008,Whole Year,Dry ginger,290.0,2776.0
+2,637,2009,Whole Year,Dry ginger,295.0,2832.0
+2,637,2010,Whole Year,Dry ginger,298.0,2867.0
+2,637,2011,Whole Year,Dry ginger,307.0,2960.0
+2,637,2012,Whole Year,Dry ginger,317.0,3132.0
+2,637,2013,Whole Year,Dry ginger,230.0,1462.0
+2,637,2014,Whole Year,Dry ginger,317.0,1952.0
+3,41,2007,Whole Year,Dry ginger,529.0,3662.0
+3,41,2008,Whole Year,Dry ginger,393.0,2721.0
+3,41,2009,Whole Year,Dry ginger,461.0,3192.0
+3,41,2010,Whole Year,Dry ginger,465.0,3219.0
+3,64,2007,Whole Year,Dry ginger,668.0,4355.0
+3,64,2008,Whole Year,Dry ginger,443.0,2888.0
+3,64,2009,Whole Year,Dry ginger,518.0,3378.0
+3,64,2010,Whole Year,Dry ginger,734.0,4786.0
+3,95,2007,Whole Year,Dry ginger,183.0,1127.0
+3,95,2008,Whole Year,Dry ginger,186.0,1145.0
+3,95,2009,Whole Year,Dry ginger,171.0,1053.0
+3,95,2010,Whole Year,Dry ginger,175.0,1077.0
+3,103,2007,Whole Year,Dry ginger,204.0,1416.0
+3,103,2008,Whole Year,Dry ginger,212.0,1472.0
+3,103,2009,Whole Year,Dry ginger,210.0,1458.0
+3,103,2010,Whole Year,Dry ginger,232.0,1610.0
+3,119,2007,Whole Year,Dry ginger,153.0,1065.0
+3,119,2008,Whole Year,Dry ginger,273.0,1901.0
+3,119,2009,Whole Year,Dry ginger,213.0,1483.0
+3,119,2010,Whole Year,Dry ginger,391.0,2722.0
+3,137,2007,Whole Year,Dry ginger,257.0,1703.0
+3,137,2008,Whole Year,Dry ginger,415.0,2749.0
+3,137,2009,Whole Year,Dry ginger,402.0,2663.0
+3,137,2010,Whole Year,Dry ginger,390.0,2584.0
+3,152,2007,Whole Year,Dry ginger,385.0,3346.0
+3,152,2008,Whole Year,Dry ginger,380.0,3302.0
+3,152,2009,Whole Year,Dry ginger,380.0,3302.0
+3,152,2010,Whole Year,Dry ginger,425.0,3693.0
+3,155,2007,Whole Year,Dry ginger,137.0,1158.0
+3,155,2008,Whole Year,Dry ginger,50.0,424.0
+3,155,2009,Whole Year,Dry ginger,101.0,854.0
+3,155,2010,Whole Year,Dry ginger,95.0,803.0
+3,158,2007,Whole Year,Dry ginger,107.0,594.0
+3,158,2008,Whole Year,Dry ginger,84.0,467.0
+3,158,2009,Whole Year,Dry ginger,123.0,684.0
+3,158,2010,Whole Year,Dry ginger,145.0,806.0
+3,159,2007,Whole Year,Dry ginger,3129.0,20511.0
+3,159,2008,Whole Year,Dry ginger,3130.0,20517.0
+3,159,2009,Whole Year,Dry ginger,3335.0,21861.0
+3,159,2010,Whole Year,Dry ginger,3210.0,21042.0
+3,206,2007,Whole Year,Dry ginger,380.0,2706.0
+3,206,2008,Whole Year,Dry ginger,390.0,2778.0
+3,206,2009,Whole Year,Dry ginger,410.0,2920.0
+3,206,2010,Whole Year,Dry ginger,450.0,3205.0
+3,208,2007,Whole Year,Dry ginger,623.0,4065.0
+3,208,2008,Whole Year,Dry ginger,1099.0,7172.0
+3,208,2009,Whole Year,Dry ginger,1206.0,7869.0
+3,208,2010,Whole Year,Dry ginger,1222.0,7974.0
+3,221,2007,Whole Year,Dry ginger,299.0,1509.0
+3,221,2008,Whole Year,Dry ginger,130.0,656.0
+3,221,2009,Whole Year,Dry ginger,215.0,1085.0
+3,221,2010,Whole Year,Dry ginger,185.0,934.0
+3,270,2007,Whole Year,Dry ginger,30.0,204.0
+3,270,2008,Whole Year,Dry ginger,433.0,2949.0
+3,270,2009,Whole Year,Dry ginger,191.0,1300.0
+3,270,2010,Whole Year,Dry ginger,286.0,1947.0
+3,278,2007,Whole Year,Dry ginger,274.0,2033.0
+3,278,2008,Whole Year,Dry ginger,266.0,1974.0
+3,278,2009,Whole Year,Dry ginger,384.0,2849.0
+3,278,2010,Whole Year,Dry ginger,314.0,2329.0
+3,279,2007,Whole Year,Dry ginger,100.0,583.0
+3,279,2008,Whole Year,Dry ginger,95.0,554.0
+3,279,2009,Whole Year,Dry ginger,104.0,606.0
+3,279,2010,Whole Year,Dry ginger,107.0,623.0
+3,292,2007,Whole Year,Dry ginger,1894.0,13321.0
+3,292,2008,Whole Year,Dry ginger,1916.0,13475.0
+3,292,2009,Whole Year,Dry ginger,2481.0,17448.0
+3,292,2010,Whole Year,Dry ginger,2498.0,17569.0
+3,294,2007,Whole Year,Dry ginger,105.0,780.0
+3,294,2008,Whole Year,Dry ginger,115.0,855.0
+3,294,2009,Whole Year,Dry ginger,115.0,854.0
+3,294,2010,Whole Year,Dry ginger,126.0,936.0
+3,322,2007,Whole Year,Dry ginger,231.0,1480.0
+3,322,2008,Whole Year,Dry ginger,377.0,2416.0
+3,322,2009,Whole Year,Dry ginger,351.0,2249.0
+3,322,2010,Whole Year,Dry ginger,586.0,3754.0
+3,345,2007,Whole Year,Dry ginger,405.0,3096.0
+3,345,2008,Whole Year,Dry ginger,420.0,3211.0
+3,345,2009,Whole Year,Dry ginger,420.0,3211.0
+3,345,2010,Whole Year,Dry ginger,366.0,2798.0
+3,381,2007,Whole Year,Dry ginger,200.0,1752.0
+3,381,2008,Whole Year,Dry ginger,216.0,1892.0
+3,381,2009,Whole Year,Dry ginger,223.0,1953.0
+3,381,2010,Whole Year,Dry ginger,229.0,2006.0
+3,406,2007,Whole Year,Dry ginger,678.0,6536.0
+3,406,2008,Whole Year,Dry ginger,264.0,2546.0
+3,406,2009,Whole Year,Dry ginger,511.0,4925.0
+3,406,2010,Whole Year,Dry ginger,491.0,4734.0
+3,412,2007,Whole Year,Dry ginger,166.0,1154.0
+3,412,2008,Whole Year,Dry ginger,190.0,1321.0
+3,412,2009,Whole Year,Dry ginger,166.0,1154.0
+3,412,2010,Whole Year,Dry ginger,195.0,1356.0
+3,551,2007,Whole Year,Dry ginger,808.0,4570.0
+3,551,2008,Whole Year,Dry ginger,267.0,1511.0
+3,551,2009,Whole Year,Dry ginger,196.0,1109.0
+3,551,2010,Whole Year,Dry ginger,182.0,1030.0
+3,558,2007,Whole Year,Dry ginger,1263.0,8168.0
+3,558,2008,Whole Year,Dry ginger,1263.0,8196.0
+3,558,2009,Whole Year,Dry ginger,961.0,6226.0
+3,558,2010,Whole Year,Dry ginger,974.0,6310.0
+3,592,2007,Whole Year,Dry ginger,1590.0,10872.0
+3,592,2008,Whole Year,Dry ginger,1612.0,11023.0
+3,592,2009,Whole Year,Dry ginger,893.0,6106.0
+3,592,2010,Whole Year,Dry ginger,985.0,6735.0
+3,603,2007,Whole Year,Dry ginger,826.0,5310.0
+3,603,2008,Whole Year,Dry ginger,591.0,3800.0
+3,603,2009,Whole Year,Dry ginger,949.0,6101.0
+3,603,2010,Whole Year,Dry ginger,928.0,5966.0
+4,29,1997,Kharif,Dry ginger,78.0,110.0
+4,29,1998,Whole Year,Dry ginger,48.0,67.0
+4,29,1999,Kharif,Dry ginger,315.0,459.0
+4,29,2000,Kharif,Dry ginger,57.0,78.0
+4,29,2001,Kharif,Dry ginger,18.0,25.0
+4,29,2002,Whole Year,Dry ginger,60.0,89.0
+4,29,2003,Kharif,Dry ginger,45.0,69.0
+4,29,2004,Kharif,Dry ginger,41.0,62.0
+4,29,2004,Whole Year,Dry ginger,71.0,107.0
+4,29,2005,Whole Year,Dry ginger,39.0,59.0
+4,29,2007,Kharif,Dry ginger,72.0,109.0
+4,29,2008,Kharif,Dry ginger,72.0,119.0
+4,31,2005,Whole Year,Dry ginger,3.0,4.0
+4,31,2008,Kharif,Dry ginger,3.0,5.0
+4,34,1997,Kharif,Dry ginger,8.0,11.0
+4,34,1998,Whole Year,Dry ginger,3.0,4.0
+4,34,2001,Kharif,Dry ginger,3.0,4.0
+4,34,2002,Whole Year,Dry ginger,1.0,1.0
+4,34,2005,Whole Year,Dry ginger,1.0,2.0
+4,70,1999,Kharif,Dry ginger,1.0,1.0
+4,70,2000,Kharif,Dry ginger,1.0,1.0
+4,70,2002,Whole Year,Dry ginger,3.0,4.0
+4,70,2005,Whole Year,Dry ginger,1.0,2.0
+4,77,1997,Kharif,Dry ginger,3.0,4.0
+4,77,1998,Whole Year,Dry ginger,4.0,6.0
+4,77,1999,Kharif,Dry ginger,12.0,17.0
+4,77,2000,Kharif,Dry ginger,7.0,10.0
+4,77,2001,Kharif,Dry ginger,8.0,11.0
+4,77,2002,Whole Year,Dry ginger,4.0,6.0
+4,77,2003,Kharif,Dry ginger,10.0,15.0
+4,77,2005,Whole Year,Dry ginger,15.0,22.0
+4,202,2002,Whole Year,Dry ginger,1.0,1.0
+4,202,2005,Whole Year,Dry ginger,4.0,6.0
+4,202,2007,Kharif,Dry ginger,1.0,2.0
+4,202,2008,Kharif,Dry ginger,3.0,5.0
+4,261,1997,Kharif,Dry ginger,2.0,3.0
+4,261,1998,Whole Year,Dry ginger,2.0,3.0
+4,261,2003,Kharif,Dry ginger,1.0,2.0
+4,301,1997,Kharif,Dry ginger,15.0,21.0
+4,301,1998,Whole Year,Dry ginger,1.0,1.0
+4,301,2000,Kharif,Dry ginger,20.0,28.0
+4,301,2001,Kharif,Dry ginger,11.0,15.0
+4,301,2002,Whole Year,Dry ginger,14.0,21.0
+4,301,2003,Kharif,Dry ginger,2.0,3.0
+4,301,2004,Kharif,Dry ginger,4.0,6.0
+4,301,2004,Whole Year,Dry ginger,4.0,6.0
+4,301,2007,Kharif,Dry ginger,5.0,8.0
+4,301,2008,Kharif,Dry ginger,5.0,8.0
+4,317,1997,Kharif,Dry ginger,193.0,273.0
+4,317,1998,Whole Year,Dry ginger,359.0,502.0
+4,317,1999,Kharif,Dry ginger,242.0,253.0
+4,317,2000,Kharif,Dry ginger,436.0,600.0
+4,317,2001,Kharif,Dry ginger,81.0,113.0
+4,317,2002,Whole Year,Dry ginger,183.0,272.0
+4,317,2003,Kharif,Dry ginger,184.0,283.0
+4,317,2004,Kharif,Dry ginger,183.0,278.0
+4,317,2004,Whole Year,Dry ginger,183.0,277.0
+4,317,2005,Whole Year,Dry ginger,530.0,799.0
+4,317,2007,Kharif,Dry ginger,455.0,692.0
+4,317,2008,Kharif,Dry ginger,510.0,845.0
+4,361,1997,Kharif,Dry ginger,20.0,28.0
+4,361,1998,Whole Year,Dry ginger,9.0,13.0
+4,361,1999,Kharif,Dry ginger,4.0,5.0
+4,361,2000,Kharif,Dry ginger,4.0,4.0
+4,361,2002,Whole Year,Dry ginger,5.0,8.0
+4,361,2005,Whole Year,Dry ginger,1.0,1.0
+4,361,2007,Kharif,Dry ginger,2.0,3.0
+4,361,2008,Kharif,Dry ginger,2.0,3.0
+4,362,1997,Kharif,Dry ginger,1.0,1.0
+4,362,2000,Kharif,Dry ginger,7.0,7.0
+4,362,2002,Whole Year,Dry ginger,3.0,4.0
+4,362,2003,Kharif,Dry ginger,3.0,3.0
+4,362,2004,Kharif,Dry ginger,8.0,8.0
+4,362,2004,Whole Year,Dry ginger,8.0,8.0
+4,362,2005,Whole Year,Dry ginger,41.0,62.0
+4,362,2007,Kharif,Dry ginger,62.0,95.0
+4,362,2008,Kharif,Dry ginger,63.0,86.0
+4,402,1997,Kharif,Dry ginger,12.0,17.0
+4,402,1998,Whole Year,Dry ginger,34.0,46.0
+4,402,1999,Kharif,Dry ginger,29.0,43.0
+4,402,2000,Kharif,Dry ginger,41.0,37.0
+4,402,2001,Kharif,Dry ginger,24.0,26.0
+4,402,2002,Whole Year,Dry ginger,10.0,15.0
+4,402,2003,Kharif,Dry ginger,13.0,13.0
+4,402,2004,Kharif,Dry ginger,5.0,5.0
+4,402,2004,Whole Year,Dry ginger,5.0,5.0
+4,402,2005,Whole Year,Dry ginger,20.0,21.0
+4,402,2008,Kharif,Dry ginger,10.0,16.0
+4,411,2002,Whole Year,Dry ginger,4.0,6.0
+4,423,1999,Kharif,Dry ginger,1.0,1.0
+4,423,2004,Whole Year,Dry ginger,1.0,2.0
+4,423,2005,Whole Year,Dry ginger,2.0,3.0
+4,448,1997,Kharif,Dry ginger,56.0,82.0
+4,448,1998,Whole Year,Dry ginger,68.0,92.0
+4,448,1999,Kharif,Dry ginger,101.0,150.0
+4,448,2000,Kharif,Dry ginger,84.0,151.0
+4,448,2001,Kharif,Dry ginger,84.0,130.0
+4,448,2002,Whole Year,Dry ginger,89.0,132.0
+4,448,2003,Kharif,Dry ginger,80.0,134.0
+4,448,2004,Kharif,Dry ginger,85.0,137.0
+4,448,2004,Whole Year,Dry ginger,83.0,133.0
+4,448,2005,Whole Year,Dry ginger,86.0,140.0
+4,448,2007,Kharif,Dry ginger,78.0,127.0
+4,448,2008,Kharif,Dry ginger,82.0,134.0
+4,468,1997,Kharif,Dry ginger,96.0,140.0
+4,468,1998,Whole Year,Dry ginger,93.0,125.0
+4,468,1999,Kharif,Dry ginger,36.0,53.0
+4,468,2001,Kharif,Dry ginger,43.0,62.0
+4,468,2003,Kharif,Dry ginger,1.0,2.0
+4,468,2004,Kharif,Dry ginger,15.0,24.0
+4,468,2004,Whole Year,Dry ginger,15.0,23.0
+4,468,2005,Whole Year,Dry ginger,16.0,24.0
+4,468,2007,Kharif,Dry ginger,16.0,26.0
+4,468,2008,Kharif,Dry ginger,16.0,26.0
+4,470,1997,Kharif,Dry ginger,21.0,30.0
+4,470,1998,Whole Year,Dry ginger,17.0,24.0
+4,470,1999,Kharif,Dry ginger,16.0,23.0
+4,470,2000,Kharif,Dry ginger,11.0,15.0
+4,470,2001,Kharif,Dry ginger,3.0,4.0
+4,470,2002,Whole Year,Dry ginger,1.0,1.0
+4,470,2003,Kharif,Dry ginger,3.0,5.0
+4,470,2004,Kharif,Dry ginger,2.0,3.0
+4,470,2004,Whole Year,Dry ginger,2.0,3.0
+4,470,2005,Whole Year,Dry ginger,1.0,2.0
+4,470,2008,Kharif,Dry ginger,1.0,2.0
+4,505,1997,Kharif,Dry ginger,3.0,4.0
+4,505,1998,Whole Year,Dry ginger,1.0,1.0
+4,505,2004,Kharif,Dry ginger,3.0,5.0
+4,505,2004,Whole Year,Dry ginger,3.0,5.0
+4,505,2007,Kharif,Dry ginger,1.0,2.0
+4,509,1997,Kharif,Dry ginger,11.0,8.0
+4,509,1998,Whole Year,Dry ginger,6.0,8.0
+4,509,1999,Kharif,Dry ginger,9.0,13.0
+4,509,2000,Kharif,Dry ginger,35.0,35.0
+4,509,2001,Kharif,Dry ginger,18.0,17.0
+4,509,2002,Whole Year,Dry ginger,4.0,6.0
+4,509,2003,Kharif,Dry ginger,4.0,4.0
+4,509,2004,Kharif,Dry ginger,4.0,4.0
+4,509,2004,Whole Year,Dry ginger,4.0,4.0
+4,509,2005,Whole Year,Dry ginger,4.0,6.0
+4,509,2007,Kharif,Dry ginger,4.0,6.0
+4,509,2008,Kharif,Dry ginger,2.0,3.0
+4,548,1997,Kharif,Dry ginger,5.0,7.0
+4,548,1998,Whole Year,Dry ginger,12.0,16.0
+4,548,1999,Kharif,Dry ginger,2.0,3.0
+4,548,2000,Kharif,Dry ginger,1.0,2.0
+4,552,1997,Kharif,Dry ginger,27.0,38.0
+4,552,1998,Whole Year,Dry ginger,62.0,87.0
+4,552,1999,Kharif,Dry ginger,3.0,4.0
+4,552,2000,Kharif,Dry ginger,1.0,1.0
+4,552,2004,Kharif,Dry ginger,1.0,2.0
+4,552,2004,Whole Year,Dry ginger,1.0,2.0
+4,552,2005,Whole Year,Dry ginger,52.0,78.0
+4,572,1998,Whole Year,Dry ginger,25.0,35.0
+4,572,1999,Kharif,Dry ginger,25.0,38.0
+4,572,2002,Whole Year,Dry ginger,12.0,18.0
+4,572,2003,Kharif,Dry ginger,4.0,6.0
+4,572,2004,Kharif,Dry ginger,14.0,21.0
+4,572,2004,Whole Year,Dry ginger,14.0,21.0
+4,572,2005,Whole Year,Dry ginger,8.0,12.0
+4,572,2007,Kharif,Dry ginger,3.0,5.0
+4,572,2008,Kharif,Dry ginger,11.0,18.0
+4,618,1997,Kharif,Dry ginger,17.0,25.0
+4,618,2000,Kharif,Dry ginger,6.0,9.0
+6,46,2011,Whole Year,Dry ginger,1.0,1.0
+6,47,2011,Whole Year,Dry ginger,25.0,33.0
+6,47,2012,Whole Year,Dry ginger,23.0,32.0
+6,47,2013,Whole Year,Dry ginger,23.0,35.0
+6,47,2014,Whole Year,Dry ginger,27.0,41.0
+6,48,2011,Whole Year,Dry ginger,259.0,300.0
+6,48,2012,Whole Year,Dry ginger,268.0,321.0
+6,48,2013,Whole Year,Dry ginger,269.0,275.0
+6,48,2014,Whole Year,Dry ginger,282.0,288.0
+6,66,2000,Whole Year,Dry ginger,89.0,110.0
+6,66,2001,Whole Year,Dry ginger,61.0,73.0
+6,66,2002,Whole Year,Dry ginger,78.0,86.0
+6,66,2003,Whole Year,Dry ginger,84.0,105.0
+6,66,2004,Whole Year,Dry ginger,98.0,123.0
+6,66,2005,Whole Year,Dry ginger,93.0,108.0
+6,66,2006,Whole Year,Dry ginger,99.0,124.0
+6,66,2007,Whole Year,Dry ginger,112.0,145.0
+6,66,2008,Whole Year,Dry ginger,106.0,127.0
+6,66,2009,Whole Year,Dry ginger,97.0,125.0
+6,66,2010,Whole Year,Dry ginger,124.0,156.0
+6,66,2011,Whole Year,Dry ginger,91.0,120.0
+6,66,2012,Whole Year,Dry ginger,88.0,115.0
+6,66,2013,Whole Year,Dry ginger,87.0,101.0
+6,66,2014,Whole Year,Dry ginger,86.0,91.0
+6,73,2011,Whole Year,Dry ginger,60.0,70.0
+6,73,2012,Whole Year,Dry ginger,15.0,17.0
+6,73,2013,Whole Year,Dry ginger,25.0,27.0
+6,73,2014,Whole Year,Dry ginger,25.0,28.0
+6,88,2009,Whole Year,Dry ginger,5.0,
+6,88,2010,Whole Year,Dry ginger,1.0,1.0
+6,91,2000,Whole Year,Dry ginger,35.0,38.0
+6,91,2001,Whole Year,Dry ginger,39.0,47.0
+6,91,2002,Whole Year,Dry ginger,43.0,46.0
+6,91,2003,Whole Year,Dry ginger,42.0,50.0
+6,91,2004,Whole Year,Dry ginger,48.0,50.0
+6,91,2005,Whole Year,Dry ginger,44.0,46.0
+6,91,2006,Whole Year,Dry ginger,56.0,67.0
+6,91,2007,Whole Year,Dry ginger,53.0,60.0
+6,91,2008,Whole Year,Dry ginger,46.0,52.0
+6,91,2009,Whole Year,Dry ginger,47.0,59.0
+6,91,2010,Whole Year,Dry ginger,58.0,73.0
+6,91,2011,Whole Year,Dry ginger,59.0,75.0
+6,91,2012,Whole Year,Dry ginger,59.0,77.0
+6,91,2013,Whole Year,Dry ginger,59.0,63.0
+6,91,2014,Whole Year,Dry ginger,61.0,77.0
+6,134,2000,Whole Year,Dry ginger,1.0,1.0
+6,134,2002,Whole Year,Dry ginger,4.0,4.0
+6,134,2003,Whole Year,Dry ginger,2.0,3.0
+6,134,2004,Whole Year,Dry ginger,3.0,4.0
+6,134,2005,Whole Year,Dry ginger,8.0,9.0
+6,134,2006,Whole Year,Dry ginger,2.0,2.0
+6,134,2007,Whole Year,Dry ginger,4.0,5.0
+6,134,2008,Whole Year,Dry ginger,2.0,3.0
+6,134,2009,Whole Year,Dry ginger,1.0,
+6,134,2010,Whole Year,Dry ginger,3.0,3.0
+6,134,2011,Whole Year,Dry ginger,3.0,5.0
+6,134,2012,Whole Year,Dry ginger,3.0,3.0
+6,134,2013,Whole Year,Dry ginger,6.0,7.0
+6,134,2014,Whole Year,Dry ginger,5.0,5.0
+6,147,2001,Whole Year,Dry ginger,4.0,4.0
+6,147,2002,Whole Year,Dry ginger,5.0,6.0
+6,147,2003,Whole Year,Dry ginger,3.0,6.0
+6,147,2004,Whole Year,Dry ginger,4.0,6.0
+6,147,2005,Whole Year,Dry ginger,7.0,9.0
+6,147,2006,Whole Year,Dry ginger,3.0,4.0
+6,147,2007,Whole Year,Dry ginger,1.0,2.0
+6,147,2010,Whole Year,Dry ginger,2.0,2.0
+6,147,2013,Whole Year,Dry ginger,1.0,1.0
+6,169,2000,Whole Year,Dry ginger,10.0,10.0
+6,169,2001,Whole Year,Dry ginger,12.0,12.0
+6,169,2002,Whole Year,Dry ginger,11.0,13.0
+6,169,2003,Whole Year,Dry ginger,1.0,1.0
+6,169,2004,Whole Year,Dry ginger,49.0,57.0
+6,169,2005,Whole Year,Dry ginger,27.0,31.0
+6,169,2006,Whole Year,Dry ginger,31.0,45.0
+6,169,2007,Whole Year,Dry ginger,33.0,41.0
+6,169,2008,Whole Year,Dry ginger,53.0,61.0
+6,169,2009,Whole Year,Dry ginger,41.0,47.0
+6,169,2010,Whole Year,Dry ginger,19.0,22.0
+6,169,2012,Whole Year,Dry ginger,3.0,3.0
+6,200,2013,Whole Year,Dry ginger,1.0,2.0
+6,200,2014,Whole Year,Dry ginger,1.0,2.0
+6,258,2000,Whole Year,Dry ginger,1.0,1.0
+6,258,2001,Whole Year,Dry ginger,2.0,2.0
+6,258,2002,Whole Year,Dry ginger,4.0,4.0
+6,258,2003,Whole Year,Dry ginger,12.0,14.0
+6,258,2004,Whole Year,Dry ginger,3.0,3.0
+6,258,2005,Whole Year,Dry ginger,7.0,7.0
+6,258,2006,Whole Year,Dry ginger,6.0,8.0
+6,258,2007,Whole Year,Dry ginger,6.0,8.0
+6,258,2008,Whole Year,Dry ginger,5.0,7.0
+6,258,2009,Whole Year,Dry ginger,5.0,6.0
+6,258,2010,Whole Year,Dry ginger,4.0,5.0
+6,258,2011,Whole Year,Dry ginger,5.0,7.0
+6,258,2012,Whole Year,Dry ginger,6.0,8.0
+6,258,2013,Whole Year,Dry ginger,5.0,5.0
+6,258,2014,Whole Year,Dry ginger,5.0,6.0
+6,259,2000,Whole Year,Dry ginger,3.0,3.0
+6,259,2001,Whole Year,Dry ginger,3.0,3.0
+6,259,2002,Whole Year,Dry ginger,3.0,3.0
+6,259,2003,Whole Year,Dry ginger,2.0,2.0
+6,259,2004,Whole Year,Dry ginger,2.0,2.0
+6,259,2005,Whole Year,Dry ginger,4.0,4.0
+6,259,2006,Whole Year,Dry ginger,5.0,5.0
+6,259,2007,Whole Year,Dry ginger,3.0,3.0
+6,259,2008,Whole Year,Dry ginger,9.0,9.0
+6,259,2009,Whole Year,Dry ginger,17.0,19.0
+6,259,2010,Whole Year,Dry ginger,11.0,10.0
+6,259,2011,Whole Year,Dry ginger,18.0,22.0
+6,259,2012,Whole Year,Dry ginger,27.0,31.0
+6,259,2013,Whole Year,Dry ginger,32.0,38.0
+6,259,2014,Whole Year,Dry ginger,25.0,29.0
+6,272,2002,Whole Year,Dry ginger,17.0,19.0
+6,272,2004,Whole Year,Dry ginger,1.0,1.0
+6,272,2005,Whole Year,Dry ginger,1.0,1.0
+6,272,2006,Whole Year,Dry ginger,3.0,3.0
+6,272,2007,Whole Year,Dry ginger,3.0,3.0
+6,272,2008,Whole Year,Dry ginger,3.0,5.0
+6,272,2010,Whole Year,Dry ginger,7.0,9.0
+6,272,2013,Whole Year,Dry ginger,1.0,1.0
+6,283,2000,Whole Year,Dry ginger,13.0,16.0
+6,283,2001,Whole Year,Dry ginger,5.0,7.0
+6,283,2002,Whole Year,Dry ginger,13.0,13.0
+6,283,2003,Whole Year,Dry ginger,13.0,20.0
+6,283,2004,Whole Year,Dry ginger,13.0,18.0
+6,283,2005,Whole Year,Dry ginger,13.0,15.0
+6,283,2006,Whole Year,Dry ginger,14.0,21.0
+6,283,2007,Whole Year,Dry ginger,14.0,19.0
+6,283,2008,Whole Year,Dry ginger,14.0,16.0
+6,283,2009,Whole Year,Dry ginger,14.0,17.0
+6,283,2010,Whole Year,Dry ginger,19.0,24.0
+6,283,2011,Whole Year,Dry ginger,17.0,22.0
+6,283,2012,Whole Year,Dry ginger,19.0,19.0
+6,283,2013,Whole Year,Dry ginger,34.0,30.0
+6,283,2014,Whole Year,Dry ginger,31.0,28.0
+6,327,2011,Whole Year,Dry ginger,51.0,67.0
+6,327,2012,Whole Year,Dry ginger,52.0,60.0
+6,327,2013,Whole Year,Dry ginger,33.0,38.0
+6,327,2014,Whole Year,Dry ginger,43.0,46.0
+6,330,2003,Whole Year,Dry ginger,1.0,1.0
+6,330,2004,Whole Year,Dry ginger,1.0,1.0
+6,330,2005,Whole Year,Dry ginger,3.0,1.0
+6,330,2006,Whole Year,Dry ginger,2.0,2.0
+6,330,2007,Whole Year,Dry ginger,2.0,2.0
+6,330,2008,Whole Year,Dry ginger,7.0,10.0
+6,330,2009,Whole Year,Dry ginger,5.0,
+6,330,2010,Whole Year,Dry ginger,8.0,10.0
+6,330,2011,Whole Year,Dry ginger,3.0,4.0
+6,330,2012,Whole Year,Dry ginger,2.0,3.0
+6,330,2013,Whole Year,Dry ginger,2.0,2.0
+6,330,2014,Whole Year,Dry ginger,8.0,12.0
+6,331,2000,Whole Year,Dry ginger,11.0,11.0
+6,331,2001,Whole Year,Dry ginger,14.0,17.0
+6,331,2002,Whole Year,Dry ginger,16.0,18.0
+6,331,2003,Whole Year,Dry ginger,12.0,15.0
+6,331,2004,Whole Year,Dry ginger,14.0,14.0
+6,331,2005,Whole Year,Dry ginger,12.0,11.0
+6,331,2006,Whole Year,Dry ginger,8.0,8.0
+6,331,2007,Whole Year,Dry ginger,37.0,37.0
+6,331,2008,Whole Year,Dry ginger,13.0,16.0
+6,331,2009,Whole Year,Dry ginger,15.0,13.0
+6,331,2010,Whole Year,Dry ginger,16.0,21.0
+6,331,2011,Whole Year,Dry ginger,20.0,23.0
+6,331,2012,Whole Year,Dry ginger,25.0,25.0
+6,331,2013,Whole Year,Dry ginger,21.0,23.0
+6,331,2014,Whole Year,Dry ginger,25.0,27.0
+6,365,2001,Whole Year,Dry ginger,4.0,3.0
+6,365,2002,Whole Year,Dry ginger,6.0,7.0
+6,365,2003,Whole Year,Dry ginger,2.0,2.0
+6,365,2004,Whole Year,Dry ginger,1.0,1.0
+6,365,2005,Whole Year,Dry ginger,4.0,4.0
+6,365,2006,Whole Year,Dry ginger,9.0,9.0
+6,365,2007,Whole Year,Dry ginger,7.0,7.0
+6,365,2008,Whole Year,Dry ginger,8.0,11.0
+6,365,2012,Whole Year,Dry ginger,7.0,10.0
+6,365,2013,Whole Year,Dry ginger,5.0,7.0
+6,365,2014,Whole Year,Dry ginger,5.0,50.0
+6,398,2011,Whole Year,Dry ginger,105.0,132.0
+6,418,2007,Whole Year,Dry ginger,1.0,1.0
+6,418,2008,Whole Year,Dry ginger,1.0,1.0
+6,418,2009,Whole Year,Dry ginger,1.0,
+6,418,2010,Whole Year,Dry ginger,1.0,1.0
+6,418,2013,Whole Year,Dry ginger,2.0,2.0
+6,418,2014,Whole Year,Dry ginger,2.0,2.0
+6,475,2000,Whole Year,Dry ginger,1158.0,941.0
+6,475,2001,Whole Year,Dry ginger,1207.0,981.0
+6,475,2002,Whole Year,Dry ginger,749.0,560.0
+6,475,2003,Whole Year,Dry ginger,642.0,575.0
+6,475,2004,Whole Year,Dry ginger,653.0,553.0
+6,475,2005,Whole Year,Dry ginger,881.0,717.0
+6,475,2006,Whole Year,Dry ginger,942.0,920.0
+6,475,2007,Whole Year,Dry ginger,786.0,780.0
+6,475,2008,Whole Year,Dry ginger,732.0,715.0
+6,475,2009,Whole Year,Dry ginger,702.0,812.0
+6,475,2010,Whole Year,Dry ginger,686.0,925.0
+6,475,2011,Whole Year,Dry ginger,678.0,797.0
+6,475,2012,Whole Year,Dry ginger,672.0,803.0
+6,475,2013,Whole Year,Dry ginger,569.0,658.0
+6,475,2014,Whole Year,Dry ginger,589.0,772.0
+6,476,2000,Whole Year,Dry ginger,1.0,1.0
+6,476,2001,Whole Year,Dry ginger,12.0,6.0
+6,476,2002,Whole Year,Dry ginger,21.0,21.0
+6,476,2003,Whole Year,Dry ginger,12.0,13.0
+6,476,2004,Whole Year,Dry ginger,8.0,9.0
+6,476,2005,Whole Year,Dry ginger,43.0,55.0
+6,476,2006,Whole Year,Dry ginger,13.0,14.0
+6,476,2007,Whole Year,Dry ginger,21.0,23.0
+6,476,2008,Whole Year,Dry ginger,18.0,21.0
+6,476,2009,Whole Year,Dry ginger,19.0,23.0
+6,476,2010,Whole Year,Dry ginger,37.0,49.0
+6,476,2011,Whole Year,Dry ginger,19.0,25.0
+6,476,2012,Whole Year,Dry ginger,9.0,12.0
+6,476,2013,Whole Year,Dry ginger,5.0,8.0
+6,476,2014,Whole Year,Dry ginger,8.0,13.0
+6,481,2000,Whole Year,Dry ginger,13.0,16.0
+6,481,2001,Whole Year,Dry ginger,12.0,14.0
+6,481,2002,Whole Year,Dry ginger,14.0,14.0
+6,481,2003,Whole Year,Dry ginger,37.0,37.0
+6,481,2004,Whole Year,Dry ginger,13.0,16.0
+6,481,2005,Whole Year,Dry ginger,20.0,24.0
+6,481,2006,Whole Year,Dry ginger,11.0,13.0
+6,481,2007,Whole Year,Dry ginger,20.0,25.0
+6,481,2008,Whole Year,Dry ginger,9.0,12.0
+6,481,2009,Whole Year,Dry ginger,7.0,8.0
+6,481,2010,Whole Year,Dry ginger,17.0,19.0
+6,481,2011,Whole Year,Dry ginger,13.0,15.0
+6,481,2012,Whole Year,Dry ginger,3.0,3.0
+6,481,2013,Whole Year,Dry ginger,2.0,2.0
+6,481,2014,Whole Year,Dry ginger,2.0,2.0
+6,569,2014,Whole Year,Dry ginger,2.0,2.0
+6,573,2011,Whole Year,Dry ginger,364.0,421.0
+6,573,2012,Whole Year,Dry ginger,362.0,453.0
+6,573,2013,Whole Year,Dry ginger,346.0,334.0
+6,573,2014,Whole Year,Dry ginger,256.0,345.0
+6,576,2000,Whole Year,Dry ginger,317.0,391.0
+6,576,2001,Whole Year,Dry ginger,422.0,512.0
+6,576,2002,Whole Year,Dry ginger,398.0,452.0
+6,576,2003,Whole Year,Dry ginger,426.0,509.0
+6,576,2004,Whole Year,Dry ginger,419.0,460.0
+6,576,2005,Whole Year,Dry ginger,560.0,540.0
+6,576,2006,Whole Year,Dry ginger,684.0,844.0
+6,576,2007,Whole Year,Dry ginger,733.0,876.0
+6,576,2008,Whole Year,Dry ginger,831.0,1041.0
+6,576,2009,Whole Year,Dry ginger,804.0,651.0
+6,576,2010,Whole Year,Dry ginger,867.0,1170.0
+6,576,2011,Whole Year,Dry ginger,259.0,300.0
+6,576,2012,Whole Year,Dry ginger,262.0,287.0
+6,576,2013,Whole Year,Dry ginger,274.0,328.0
+6,576,2014,Whole Year,Dry ginger,269.0,322.0
+10,16,2011,Kharif,Dry ginger,3.0,
+10,16,2012,Kharif,Dry ginger,3.0,
+10,276,2012,Kharif,Dry ginger,2.0,
+10,443,2000,Kharif,Dry ginger,63.0,
+10,443,2010,Kharif,Dry ginger,61.0,100.0
+10,443,2011,Kharif,Dry ginger,57.0,100.0
+10,443,2012,Kharif,Dry ginger,62.0,
+10,642,2000,Kharif,Dry ginger,2.0,
+10,642,2011,Kharif,Dry ginger,4.0,
+11,91,1998,Whole Year,Dry ginger,139.0,239.0
+11,91,2001,Kharif,Dry ginger,164.0,1573.0
+11,91,2002,Kharif,Dry ginger,84.0,486.0
+11,91,2003,Kharif,Dry ginger,110.0,689.0
+11,91,2004,Kharif,Dry ginger,117.0,980.0
+11,91,2005,Kharif,Dry ginger,131.0,1166.0
+11,91,2006,Kharif,Dry ginger,100.0,328.0
+11,91,2007,Kharif,Dry ginger,103.0,1012.0
+11,105,1998,Whole Year,Dry ginger,3.0,
+11,105,2001,Kharif,Dry ginger,3.0,33.0
+11,105,2002,Kharif,Dry ginger,2.0,14.0
+11,105,2003,Kharif,Dry ginger,1.0,7.0
+11,105,2004,Kharif,Dry ginger,1.0,7.0
+11,105,2005,Kharif,Dry ginger,1.0,7.0
+11,105,2006,Kharif,Dry ginger,3.0,5.0
+11,105,2007,Kharif,Dry ginger,4.0,32.0
+11,222,1998,Whole Year,Dry ginger,7.0,7.0
+11,222,2001,Kharif,Dry ginger,7.0,78.0
+11,222,2002,Kharif,Dry ginger,8.0,56.0
+11,222,2005,Kharif,Dry ginger,2.0,15.0
+11,222,2006,Kharif,Dry ginger,10.0,16.0
+11,222,2007,Kharif,Dry ginger,3.0,34.0
+11,282,1998,Whole Year,Dry ginger,17.0,17.0
+11,282,2001,Kharif,Dry ginger,18.0,200.0
+11,282,2002,Kharif,Dry ginger,23.0,160.0
+11,282,2003,Kharif,Dry ginger,30.0,215.0
+11,282,2004,Kharif,Dry ginger,28.0,200.0
+11,282,2005,Kharif,Dry ginger,28.0,208.0
+11,282,2006,Kharif,Dry ginger,25.0,45.0
+11,282,2007,Kharif,Dry ginger,16.0,180.0
+11,376,1998,Whole Year,Dry ginger,65.0,60.0
+11,376,2001,Kharif,Dry ginger,78.0,867.0
+11,376,2002,Kharif,Dry ginger,89.0,618.0
+11,376,2003,Kharif,Dry ginger,83.0,595.0
+11,376,2004,Kharif,Dry ginger,86.0,613.0
+11,376,2005,Kharif,Dry ginger,80.0,595.0
+11,376,2006,Kharif,Dry ginger,118.0,78.0
+11,376,2007,Kharif,Dry ginger,33.0,371.0
+11,534,1998,Whole Year,Dry ginger,197.0,437.0
+11,534,2001,Kharif,Dry ginger,267.0,2976.0
+11,534,2002,Kharif,Dry ginger,270.0,1267.0
+11,534,2003,Kharif,Dry ginger,187.0,882.0
+11,534,2004,Kharif,Dry ginger,209.0,1531.0
+11,534,2005,Kharif,Dry ginger,187.0,1122.0
+11,534,2006,Kharif,Dry ginger,202.0,508.0
+11,534,2007,Kharif,Dry ginger,214.0,1729.0
+11,545,1998,Whole Year,Dry ginger,1011.0,1402.0
+11,545,2001,Kharif,Dry ginger,1458.0,16442.0
+11,545,2002,Kharif,Dry ginger,1446.0,10067.0
+11,545,2003,Kharif,Dry ginger,1187.0,9170.0
+11,545,2004,Kharif,Dry ginger,1194.0,8469.0
+11,545,2005,Kharif,Dry ginger,1349.0,10197.0
+11,545,2006,Kharif,Dry ginger,1511.0,2708.0
+11,545,2007,Kharif,Dry ginger,1494.0,19131.0
+11,553,1998,Whole Year,Dry ginger,358.0,438.0
+11,553,2001,Kharif,Dry ginger,612.0,6821.0
+11,553,2002,Kharif,Dry ginger,532.0,4376.0
+11,553,2003,Kharif,Dry ginger,444.0,3086.0
+11,553,2004,Kharif,Dry ginger,408.0,2767.0
+11,553,2005,Kharif,Dry ginger,398.0,2881.0
+11,553,2006,Kharif,Dry ginger,401.0,450.0
+11,553,2007,Kharif,Dry ginger,403.0,3015.0
+11,610,1998,Whole Year,Dry ginger,25.0,31.0
+11,610,2001,Kharif,Dry ginger,2.0,22.0
+11,610,2002,Kharif,Dry ginger,1.0,7.0
+11,610,2003,Kharif,Dry ginger,2.0,14.0
+11,610,2005,Kharif,Dry ginger,3.0,22.0
+11,610,2006,Kharif,Dry ginger,26.0,56.0
+11,610,2007,Kharif,Dry ginger,3.0,34.0
+12,254,2007,Kharif,Dry ginger,4.0,4.8
+12,300,2000,Kharif,Dry ginger,3.0,5.0
+12,300,2007,Kharif,Dry ginger,4.0,6.8
+12,300,2014,Kharif,Dry ginger,8.0,13.6
+12,478,2005,Kharif,Dry ginger,1.0,1.5
+12,493,2007,Kharif,Dry ginger,8.0,9.2
+12,493,2014,Kharif,Dry ginger,4.0,4.7
+12,605,2000,Kharif,Dry ginger,37.0,43.0
+12,605,2005,Kharif,Dry ginger,37.0,42.6
+12,605,2007,Kharif,Dry ginger,59.0,67.9
+12,605,2014,Kharif,Dry ginger,9.0,10.6
+14,37,2014,Whole Year,Dry ginger,134.0,3892.0
+14,52,1998,Kharif,Dry ginger,34.0,397.0
+14,52,1999,Kharif,Dry ginger,32.0,374.0
+14,52,2000,Kharif,Dry ginger,37.0,432.0
+14,52,2001,Kharif,Dry ginger,59.0,689.0
+14,52,2002,Kharif,Dry ginger,30.0,350.0
+14,52,2003,Kharif,Dry ginger,46.0,537.0
+14,52,2004,Kharif,Dry ginger,51.0,595.0
+14,52,2005,Whole Year,Dry ginger,70.0,817.0
+14,52,2006,Whole Year,Dry ginger,85.0,992.0
+14,52,2007,Whole Year,Dry ginger,67.0,1375.0
+14,52,2008,Whole Year,Dry ginger,57.0,1816.0
+14,52,2009,Whole Year,Dry ginger,69.0,2173.0
+14,52,2010,Whole Year,Dry ginger,71.0,256.9
+14,52,2011,Whole Year,Dry ginger,54.0,171.8
+14,52,2012,Whole Year,Dry ginger,34.0,1083.0
+14,52,2013,Whole Year,Dry ginger,9.0,249.0
+14,52,2014,Whole Year,Dry ginger,11.0,320.0
+14,71,2007,Whole Year,Dry ginger,10.0,205.0
+14,71,2008,Whole Year,Dry ginger,5.0,159.0
+14,71,2010,Whole Year,Dry ginger,43.0,155.6
+14,71,2012,Whole Year,Dry ginger,6.0,191.0
+14,71,2013,Whole Year,Dry ginger,12.0,332.0
+14,71,2014,Whole Year,Dry ginger,22.0,639.0
+14,72,2001,Kharif,Dry ginger,1.0,13.0
+14,72,2003,Kharif,Dry ginger,1.0,13.0
+14,72,2004,Kharif,Dry ginger,1.0,13.0
+14,72,2005,Whole Year,Dry ginger,1.0,13.0
+14,72,2006,Whole Year,Dry ginger,1.0,13.0
+14,72,2007,Whole Year,Dry ginger,1.0,21.0
+14,72,2008,Whole Year,Dry ginger,1.0,32.0
+14,72,2009,Whole Year,Dry ginger,1.0,31.0
+14,72,2010,Whole Year,Dry ginger,1.0,3.6
+14,74,1997,Kharif,Dry ginger,36.0,42.0
+14,74,1998,Kharif,Dry ginger,8.0,93.0
+14,74,1999,Kharif,Dry ginger,10.0,117.0
+14,74,2000,Kharif,Dry ginger,4.0,47.0
+14,74,2012,Whole Year,Dry ginger,5.0,159.0
+14,74,2013,Whole Year,Dry ginger,4.0,111.0
+14,74,2014,Whole Year,Dry ginger,11.0,320.0
+14,87,1997,Kharif,Dry ginger,1168.0,1484.0
+14,87,1998,Kharif,Dry ginger,1089.0,13843.0
+14,87,1999,Kharif,Dry ginger,927.0,11784.0
+14,87,2000,Kharif,Dry ginger,1108.0,14084.0
+14,87,2001,Kharif,Dry ginger,1038.0,13195.0
+14,87,2002,Kharif,Dry ginger,1047.0,13309.0
+14,87,2003,Kharif,Dry ginger,788.0,10017.0
+14,87,2004,Kharif,Dry ginger,711.0,9038.0
+14,87,2005,Whole Year,Dry ginger,967.0,12292.0
+14,87,2006,Whole Year,Dry ginger,1355.0,17224.0
+14,87,2007,Whole Year,Dry ginger,817.0,16767.0
+14,87,2008,Whole Year,Dry ginger,1179.0,37561.0
+14,87,2009,Whole Year,Dry ginger,1375.0,43301.0
+14,87,2010,Whole Year,Dry ginger,1219.0,4410.9
+14,87,2011,Whole Year,Dry ginger,1382.0,4397.3
+14,87,2012,Whole Year,Dry ginger,1285.0,40938.0
+14,87,2013,Whole Year,Dry ginger,775.0,12683.0
+14,87,2014,Whole Year,Dry ginger,902.0,14279.0
+14,104,2005,Whole Year,Dry ginger,2.0,26.0
+14,104,2006,Whole Year,Dry ginger,6.0,78.0
+14,104,2007,Whole Year,Dry ginger,1.0,21.0
+14,104,2008,Whole Year,Dry ginger,37.0,1179.0
+14,104,2009,Whole Year,Dry ginger,58.0,1827.0
+14,104,2010,Whole Year,Dry ginger,43.0,155.6
+14,104,2011,Whole Year,Dry ginger,55.0,175.0
+14,104,2012,Whole Year,Dry ginger,85.0,2708.0
+14,104,2013,Whole Year,Dry ginger,30.0,829.0
+14,104,2014,Whole Year,Dry ginger,34.0,988.0
+14,117,2010,Whole Year,Dry ginger,7.0,25.3
+14,117,2011,Whole Year,Dry ginger,16.0,50.9
+14,117,2012,Whole Year,Dry ginger,15.0,478.0
+14,117,2013,Whole Year,Dry ginger,13.0,359.0
+14,117,2014,Whole Year,Dry ginger,10.0,290.0
+14,118,1997,Kharif,Dry ginger,71.0,86.0
+14,118,1998,Kharif,Dry ginger,72.0,880.0
+14,118,1999,Kharif,Dry ginger,71.0,868.0
+14,118,2000,Kharif,Dry ginger,522.0,6382.0
+14,118,2001,Kharif,Dry ginger,316.0,3864.0
+14,118,2002,Kharif,Dry ginger,120.0,1467.0
+14,118,2003,Kharif,Dry ginger,160.0,1956.0
+14,118,2004,Kharif,Dry ginger,928.0,11346.0
+14,118,2005,Whole Year,Dry ginger,1330.0,16261.0
+14,118,2006,Whole Year,Dry ginger,800.0,9781.0
+14,118,2007,Whole Year,Dry ginger,638.0,13093.0
+14,118,2008,Whole Year,Dry ginger,268.0,8538.0
+14,118,2009,Whole Year,Dry ginger,353.0,11117.0
+14,118,2010,Whole Year,Dry ginger,432.0,1481.9
+14,118,2011,Whole Year,Dry ginger,611.0,1852.2
+14,118,2012,Whole Year,Dry ginger,458.0,13884.0
+14,118,2013,Whole Year,Dry ginger,484.0,15424.0
+14,118,2014,Whole Year,Dry ginger,705.0,20478.0
+14,120,1999,Kharif,Dry ginger,4.0,53.0
+14,120,2000,Kharif,Dry ginger,12.0,158.0
+14,131,1997,Kharif,Dry ginger,471.0,554.0
+14,131,1998,Kharif,Dry ginger,339.0,3990.0
+14,131,1999,Kharif,Dry ginger,337.0,3967.0
+14,131,2000,Kharif,Dry ginger,346.0,4073.0
+14,131,2001,Kharif,Dry ginger,325.0,3826.0
+14,131,2002,Kharif,Dry ginger,311.0,3661.0
+14,131,2003,Kharif,Dry ginger,301.0,3543.0
+14,131,2004,Kharif,Dry ginger,292.0,3437.0
+14,131,2005,Whole Year,Dry ginger,288.0,3390.0
+14,131,2006,Whole Year,Dry ginger,314.0,3696.0
+14,131,2007,Whole Year,Dry ginger,315.0,6465.0
+14,131,2008,Whole Year,Dry ginger,301.0,9589.0
+14,131,2009,Whole Year,Dry ginger,323.0,10172.0
+14,131,2010,Whole Year,Dry ginger,315.0,1139.8
+14,131,2011,Whole Year,Dry ginger,306.0,973.6
+14,131,2012,Whole Year,Dry ginger,294.0,9366.0
+14,131,2013,Whole Year,Dry ginger,283.0,9641.0
+14,131,2014,Whole Year,Dry ginger,266.0,7726.0
+14,140,1998,Kharif,Dry ginger,1.0,13.0
+14,140,1999,Kharif,Dry ginger,16.0,210.0
+14,140,2001,Kharif,Dry ginger,5.0,66.0
+14,140,2002,Kharif,Dry ginger,9.0,118.0
+14,140,2003,Kharif,Dry ginger,4.0,53.0
+14,140,2004,Kharif,Dry ginger,1.0,13.0
+14,140,2005,Whole Year,Dry ginger,9.0,118.0
+14,140,2006,Whole Year,Dry ginger,4.0,53.0
+14,140,2007,Whole Year,Dry ginger,6.0,123.0
+14,140,2008,Whole Year,Dry ginger,2.0,64.0
+14,140,2009,Whole Year,Dry ginger,1.0,31.0
+14,140,2010,Whole Year,Dry ginger,5.0,18.1
+14,140,2011,Whole Year,Dry ginger,4.0,12.7
+14,140,2013,Whole Year,Dry ginger,4.0,111.0
+14,140,2014,Whole Year,Dry ginger,6.0,174.0
+14,151,1997,Kharif,Dry ginger,12.0,15.0
+14,151,2014,Whole Year,Dry ginger,5.0,145.0
+14,192,2001,Kharif,Dry ginger,6.0,79.0
+14,192,2004,Kharif,Dry ginger,6.0,79.0
+14,192,2014,Whole Year,Dry ginger,2.0,58.0
+14,214,1997,Kharif,Dry ginger,5.0,6.0
+14,214,1998,Kharif,Dry ginger,19.0,248.0
+14,214,1999,Kharif,Dry ginger,15.0,196.0
+14,214,2000,Kharif,Dry ginger,4.0,52.0
+14,214,2001,Kharif,Dry ginger,14.0,183.0
+14,214,2002,Kharif,Dry ginger,12.0,157.0
+14,214,2003,Kharif,Dry ginger,15.0,196.0
+14,214,2004,Kharif,Dry ginger,2.0,26.0
+14,214,2005,Whole Year,Dry ginger,6.0,78.0
+14,214,2006,Whole Year,Dry ginger,8.0,104.0
+14,214,2007,Whole Year,Dry ginger,5.0,103.0
+14,214,2008,Whole Year,Dry ginger,9.0,287.0
+14,214,2009,Whole Year,Dry ginger,8.0,252.0
+14,214,2010,Whole Year,Dry ginger,72.0,260.5
+14,214,2011,Whole Year,Dry ginger,202.0,642.7
+14,214,2012,Whole Year,Dry ginger,2.0,64.0
+14,228,1997,Kharif,Dry ginger,25.0,32.0
+14,228,1998,Kharif,Dry ginger,29.0,378.0
+14,228,1999,Kharif,Dry ginger,100.0,1303.0
+14,228,2000,Kharif,Dry ginger,932.0,12142.0
+14,228,2001,Kharif,Dry ginger,1053.0,13719.0
+14,228,2002,Kharif,Dry ginger,2123.0,27659.0
+14,228,2003,Kharif,Dry ginger,1326.0,17276.0
+14,228,2004,Kharif,Dry ginger,3466.0,45156.0
+14,228,2005,Whole Year,Dry ginger,11763.0,153253.0
+14,228,2006,Whole Year,Dry ginger,6910.0,90026.0
+14,228,2007,Whole Year,Dry ginger,6425.0,146552.0
+14,228,2008,Whole Year,Dry ginger,13844.0,464481.0
+14,228,2009,Whole Year,Dry ginger,34005.0,1070882.0
+14,228,2010,Whole Year,Dry ginger,34073.0,119749.6
+14,228,2011,Whole Year,Dry ginger,13873.0,44141.9
+14,228,2012,Whole Year,Dry ginger,4899.0,156073.0
+14,228,2013,Whole Year,Dry ginger,7065.0,239067.0
+14,228,2014,Whole Year,Dry ginger,15736.0,510979.0
+14,230,1998,Kharif,Dry ginger,31.0,409.0
+14,230,1999,Kharif,Dry ginger,84.0,1108.0
+14,230,2000,Kharif,Dry ginger,112.0,1477.0
+14,230,2001,Kharif,Dry ginger,199.0,2624.0
+14,230,2002,Kharif,Dry ginger,139.0,1833.0
+14,230,2003,Kharif,Dry ginger,123.0,1622.0
+14,230,2004,Kharif,Dry ginger,86.0,1134.0
+14,230,2005,Whole Year,Dry ginger,122.0,1609.0
+14,230,2006,Whole Year,Dry ginger,85.0,1121.0
+14,230,2007,Whole Year,Dry ginger,52.0,624.0
+14,230,2008,Whole Year,Dry ginger,53.0,1688.0
+14,230,2009,Whole Year,Dry ginger,61.0,1921.0
+14,230,2010,Whole Year,Dry ginger,159.0,575.3
+14,230,2011,Whole Year,Dry ginger,192.0,610.9
+14,230,2012,Whole Year,Dry ginger,107.0,3409.0
+14,230,2013,Whole Year,Dry ginger,163.0,4505.0
+14,230,2014,Whole Year,Dry ginger,869.0,25241.0
+14,319,1997,Kharif,Dry ginger,445.0,575.0
+14,319,1998,Kharif,Dry ginger,651.0,8423.0
+14,319,1999,Kharif,Dry ginger,3672.0,47513.0
+14,319,2000,Kharif,Dry ginger,4200.0,54345.0
+14,319,2001,Kharif,Dry ginger,3560.0,46064.0
+14,319,2002,Kharif,Dry ginger,3665.0,47423.0
+14,319,2003,Kharif,Dry ginger,3332.0,43114.0
+14,319,2004,Kharif,Dry ginger,3643.0,47138.0
+14,319,2005,Whole Year,Dry ginger,4630.0,59909.0
+14,319,2006,Whole Year,Dry ginger,3894.0,50386.0
+14,319,2007,Whole Year,Dry ginger,2346.0,48146.0
+14,319,2008,Whole Year,Dry ginger,2869.0,84158.0
+14,319,2009,Whole Year,Dry ginger,2354.0,89490.0
+14,319,2010,Whole Year,Dry ginger,2205.0,14643.2
+14,319,2011,Whole Year,Dry ginger,2047.0,5990.4
+14,319,2012,Whole Year,Dry ginger,1298.0,37985.0
+14,319,2013,Whole Year,Dry ginger,1190.0,32893.0
+14,319,2014,Whole Year,Dry ginger,1528.0,59692.0
+14,323,1997,Kharif,Dry ginger,4.0,5.0
+14,323,1998,Kharif,Dry ginger,3.0,39.0
+14,379,1998,Kharif,Dry ginger,5.0,66.0
+14,379,1999,Kharif,Dry ginger,4.0,53.0
+14,379,2000,Kharif,Dry ginger,5.0,66.0
+14,379,2001,Kharif,Dry ginger,5.0,66.0
+14,379,2002,Kharif,Dry ginger,2.0,26.0
+14,379,2003,Kharif,Dry ginger,1.0,13.0
+14,379,2004,Kharif,Dry ginger,5.0,66.0
+14,379,2005,Whole Year,Dry ginger,16.0,210.0
+14,379,2006,Whole Year,Dry ginger,19.0,250.0
+14,379,2007,Whole Year,Dry ginger,23.0,472.0
+14,379,2008,Whole Year,Dry ginger,22.0,701.0
+14,379,2009,Whole Year,Dry ginger,21.0,661.0
+14,379,2010,Whole Year,Dry ginger,30.0,108.6
+14,379,2011,Whole Year,Dry ginger,47.0,149.5
+14,379,2012,Whole Year,Dry ginger,39.0,1242.0
+14,379,2013,Whole Year,Dry ginger,19.0,525.0
+14,379,2014,Whole Year,Dry ginger,27.0,784.0
+14,403,1997,Kharif,Dry ginger,62.0,80.0
+14,403,1998,Kharif,Dry ginger,140.0,1830.0
+14,403,1999,Kharif,Dry ginger,145.0,1893.0
+14,403,2000,Kharif,Dry ginger,399.0,5210.0
+14,403,2001,Kharif,Dry ginger,1320.0,17237.0
+14,403,2002,Kharif,Dry ginger,1105.0,14429.0
+14,403,2003,Kharif,Dry ginger,386.0,5040.0
+14,403,2004,Kharif,Dry ginger,158.0,2063.0
+14,403,2005,Whole Year,Dry ginger,135.0,1763.0
+14,403,2006,Whole Year,Dry ginger,1080.0,14103.0
+14,403,2007,Whole Year,Dry ginger,999.0,20502.0
+14,403,2008,Whole Year,Dry ginger,1714.0,65855.0
+14,403,2009,Whole Year,Dry ginger,1801.0,65507.0
+14,403,2010,Whole Year,Dry ginger,1692.0,5368.6
+14,403,2011,Whole Year,Dry ginger,2472.0,7782.4
+14,403,2012,Whole Year,Dry ginger,2172.0,68379.0
+14,403,2013,Whole Year,Dry ginger,2567.0,82771.0
+14,403,2014,Whole Year,Dry ginger,3468.0,110622.0
+14,473,1998,Kharif,Dry ginger,1.0,13.0
+14,473,1999,Kharif,Dry ginger,1.0,13.0
+14,473,2000,Kharif,Dry ginger,6.0,79.0
+14,473,2001,Kharif,Dry ginger,9.0,118.0
+14,483,2007,Whole Year,Dry ginger,4.0,82.0
+14,483,2008,Whole Year,Dry ginger,4.0,127.0
+14,483,2009,Whole Year,Dry ginger,6.0,189.0
+14,483,2011,Whole Year,Dry ginger,9.0,28.6
+14,483,2012,Whole Year,Dry ginger,7.0,223.0
+14,483,2013,Whole Year,Dry ginger,2.0,55.0
+14,483,2014,Whole Year,Dry ginger,3.0,87.0
+14,535,1997,Kharif,Dry ginger,1300.0,1840.0
+14,535,1998,Kharif,Dry ginger,1332.0,18857.0
+14,535,1999,Kharif,Dry ginger,2024.0,28654.0
+14,535,2000,Kharif,Dry ginger,2853.0,40390.0
+14,535,2001,Kharif,Dry ginger,2586.0,36610.0
+14,535,2002,Kharif,Dry ginger,2246.0,31797.0
+14,535,2003,Kharif,Dry ginger,1664.0,23557.0
+14,535,2004,Kharif,Dry ginger,1544.0,21858.0
+14,535,2005,Whole Year,Dry ginger,2181.0,30876.0
+14,535,2006,Whole Year,Dry ginger,2734.0,38705.0
+14,535,2007,Whole Year,Dry ginger,2873.0,44740.0
+14,535,2008,Whole Year,Dry ginger,4691.0,122047.0
+14,535,2009,Whole Year,Dry ginger,4029.0,102709.0
+14,535,2010,Whole Year,Dry ginger,5808.0,18744.7
+14,535,2011,Whole Year,Dry ginger,7460.0,24438.3
+14,535,2012,Whole Year,Dry ginger,5450.0,178537.0
+14,535,2013,Whole Year,Dry ginger,5889.0,115436.0
+14,535,2014,Whole Year,Dry ginger,6604.0,124744.0
+14,600,1997,Kharif,Dry ginger,9.0,12.0
+14,600,1998,Kharif,Dry ginger,6.0,81.0
+14,600,1999,Kharif,Dry ginger,7.0,95.0
+14,600,2000,Kharif,Dry ginger,2.0,27.0
+14,600,2001,Kharif,Dry ginger,4.0,54.0
+14,600,2002,Kharif,Dry ginger,4.0,54.0
+14,600,2003,Kharif,Dry ginger,2.0,27.0
+14,600,2004,Kharif,Dry ginger,3.0,41.0
+14,600,2005,Whole Year,Dry ginger,2.0,27.0
+14,600,2006,Whole Year,Dry ginger,2.0,27.0
+14,600,2007,Whole Year,Dry ginger,10.0,205.0
+14,600,2008,Whole Year,Dry ginger,1.0,32.0
+14,600,2009,Whole Year,Dry ginger,1.0,31.0
+14,600,2010,Whole Year,Dry ginger,3.0,10.9
+14,600,2011,Whole Year,Dry ginger,9.0,28.6
+14,600,2012,Whole Year,Dry ginger,15.0,478.0
+14,600,2013,Whole Year,Dry ginger,8.0,221.0
+14,600,2014,Whole Year,Dry ginger,23.0,668.0
+14,606,1998,Kharif,Dry ginger,128.0,1507.0
+14,606,2000,Kharif,Dry ginger,133.0,1566.0
+14,606,2001,Kharif,Dry ginger,127.0,1495.0
+14,606,2002,Kharif,Dry ginger,109.0,1283.0
+14,606,2003,Kharif,Dry ginger,109.0,1283.0
+14,606,2004,Kharif,Dry ginger,105.0,1236.0
+14,606,2005,Whole Year,Dry ginger,107.0,1260.0
+14,606,2006,Whole Year,Dry ginger,97.0,1142.0
+14,606,2007,Whole Year,Dry ginger,96.0,1970.0
+14,606,2008,Whole Year,Dry ginger,99.0,3154.0
+14,606,2009,Whole Year,Dry ginger,94.0,2960.0
+14,606,2010,Whole Year,Dry ginger,87.0,314.8
+14,606,2011,Whole Year,Dry ginger,89.0,283.2
+14,606,2012,Whole Year,Dry ginger,74.0,2358.0
+14,606,2013,Whole Year,Dry ginger,56.0,1548.0
+14,606,2014,Whole Year,Dry ginger,49.0,1423.0
+14,615,1997,Kharif,Dry ginger,11.0,14.0
+14,615,1998,Kharif,Dry ginger,8.0,102.0
+14,615,1999,Kharif,Dry ginger,12.0,153.0
+14,615,2000,Kharif,Dry ginger,83.0,1057.0
+14,615,2001,Kharif,Dry ginger,50.0,637.0
+14,615,2002,Kharif,Dry ginger,18.0,229.0
+14,615,2003,Kharif,Dry ginger,23.0,293.0
+14,615,2004,Kharif,Dry ginger,17.0,216.0
+14,615,2005,Whole Year,Dry ginger,40.0,509.0
+14,615,2006,Whole Year,Dry ginger,78.0,993.0
+14,615,2007,Whole Year,Dry ginger,92.0,1888.0
+14,615,2008,Whole Year,Dry ginger,319.0,10163.0
+14,615,2009,Whole Year,Dry ginger,277.0,8723.0
+14,615,2010,Whole Year,Dry ginger,204.0,738.2
+14,615,2011,Whole Year,Dry ginger,560.0,1781.8
+14,615,2012,Whole Year,Dry ginger,268.0,8538.0
+14,615,2013,Whole Year,Dry ginger,384.0,7288.0
+14,615,2014,Whole Year,Dry ginger,372.0,10805.0
+15,10,1998,Whole Year,Dry ginger,119.0,224.0
+15,10,1999,Whole Year,Dry ginger,125.0,333.0
+15,10,2000,Whole Year,Dry ginger,161.0,353.0
+15,10,2001,Whole Year,Dry ginger,180.0,308.0
+15,10,2002,Whole Year,Dry ginger,125.0,220.0
+15,10,2003,Whole Year,Dry ginger,117.0,198.0
+15,10,2004,Whole Year,Dry ginger,92.0,182.0
+15,10,2005,Whole Year,Dry ginger,34.0,73.0
+15,10,2006,Whole Year,Dry ginger,66.0,163.0
+15,10,2007,Whole Year,Dry ginger,94.0,172.0
+15,10,2008,Whole Year,Dry ginger,81.0,203.0
+15,10,2009,Whole Year,Dry ginger,61.0,168.0
+15,10,2010,Whole Year,Dry ginger,87.46,263.71
+15,10,2011,Whole Year,Dry ginger,93.64,298.28
+15,10,2012,Whole Year,Dry ginger,89.0,261.0
+15,10,2013,Whole Year,Dry ginger,85.0,292.0
+15,10,2014,Whole Year,Dry ginger,77.0,261.0
+15,178,1998,Whole Year,Dry ginger,442.0,1234.0
+15,178,1999,Whole Year,Dry ginger,469.0,1592.0
+15,178,2000,Whole Year,Dry ginger,446.0,1343.0
+15,178,2001,Whole Year,Dry ginger,462.0,1399.0
+15,178,2002,Whole Year,Dry ginger,421.0,1162.0
+15,178,2003,Whole Year,Dry ginger,349.0,902.0
+15,178,2004,Whole Year,Dry ginger,295.0,800.0
+15,178,2005,Whole Year,Dry ginger,372.0,1181.0
+15,178,2006,Whole Year,Dry ginger,396.0,1322.0
+15,178,2007,Whole Year,Dry ginger,337.0,930.0
+15,178,2008,Whole Year,Dry ginger,260.0,736.0
+15,178,2009,Whole Year,Dry ginger,199.0,588.0
+15,178,2010,Whole Year,Dry ginger,195.77,638.04
+15,178,2011,Whole Year,Dry ginger,197.54,679.56
+15,178,2012,Whole Year,Dry ginger,131.0,388.0
+15,178,2013,Whole Year,Dry ginger,101.0,304.0
+15,178,2014,Whole Year,Dry ginger,84.0,265.0
+15,239,1998,Whole Year,Dry ginger,1561.0,6486.0
+15,239,1999,Whole Year,Dry ginger,1711.0,7369.0
+15,239,2000,Whole Year,Dry ginger,1912.0,7723.0
+15,239,2001,Whole Year,Dry ginger,1694.0,6026.0
+15,239,2002,Whole Year,Dry ginger,1374.0,4791.0
+15,239,2003,Whole Year,Dry ginger,904.0,3635.0
+15,239,2004,Whole Year,Dry ginger,876.0,3181.0
+15,239,2005,Whole Year,Dry ginger,900.0,3103.0
+15,239,2006,Whole Year,Dry ginger,863.0,2753.0
+15,239,2007,Whole Year,Dry ginger,934.0,2968.0
+15,239,2008,Whole Year,Dry ginger,695.0,2359.0
+15,239,2009,Whole Year,Dry ginger,691.0,2316.0
+15,239,2010,Whole Year,Dry ginger,696.59,2693.07
+15,239,2011,Whole Year,Dry ginger,654.25,3315.25
+15,239,2012,Whole Year,Dry ginger,591.0,3445.0
+15,239,2013,Whole Year,Dry ginger,575.0,3302.0
+15,239,2014,Whole Year,Dry ginger,520.0,3066.0
+15,286,1998,Whole Year,Dry ginger,314.0,1121.0
+15,286,1999,Whole Year,Dry ginger,358.0,1395.0
+15,286,2000,Whole Year,Dry ginger,240.0,859.0
+15,286,2001,Whole Year,Dry ginger,345.0,1188.0
+15,286,2002,Whole Year,Dry ginger,266.0,942.0
+15,286,2003,Whole Year,Dry ginger,166.0,518.0
+15,286,2004,Whole Year,Dry ginger,149.0,529.0
+15,286,2005,Whole Year,Dry ginger,76.0,279.0
+15,286,2006,Whole Year,Dry ginger,160.0,697.0
+15,286,2007,Whole Year,Dry ginger,95.0,393.0
+15,286,2008,Whole Year,Dry ginger,108.0,532.0
+15,286,2009,Whole Year,Dry ginger,87.0,352.0
+15,286,2010,Whole Year,Dry ginger,76.61,387.11
+15,286,2011,Whole Year,Dry ginger,76.41,360.19
+15,286,2012,Whole Year,Dry ginger,66.0,289.0
+15,286,2013,Whole Year,Dry ginger,43.0,182.0
+15,286,2014,Whole Year,Dry ginger,55.0,248.0
+15,298,1998,Whole Year,Dry ginger,46.0,182.0
+15,298,1999,Whole Year,Dry ginger,129.0,495.0
+15,298,2000,Whole Year,Dry ginger,139.0,444.0
+15,298,2001,Whole Year,Dry ginger,158.0,591.0
+15,298,2002,Whole Year,Dry ginger,147.0,545.0
+15,298,2003,Whole Year,Dry ginger,116.0,423.0
+15,298,2004,Whole Year,Dry ginger,104.0,340.0
+15,298,2005,Whole Year,Dry ginger,56.0,195.0
+15,298,2006,Whole Year,Dry ginger,60.0,266.0
+15,298,2007,Whole Year,Dry ginger,65.0,235.0
+15,298,2008,Whole Year,Dry ginger,17.0,60.0
+15,298,2009,Whole Year,Dry ginger,22.0,77.0
+15,298,2010,Whole Year,Dry ginger,22.06,66.14
+15,298,2011,Whole Year,Dry ginger,22.66,74.94
+15,298,2012,Whole Year,Dry ginger,20.0,56.0
+15,298,2013,Whole Year,Dry ginger,29.0,63.0
+15,298,2014,Whole Year,Dry ginger,16.0,66.0
+15,326,1998,Whole Year,Dry ginger,442.0,1331.0
+15,326,1999,Whole Year,Dry ginger,480.0,1213.0
+15,326,2000,Whole Year,Dry ginger,534.0,1303.0
+15,326,2001,Whole Year,Dry ginger,732.0,1762.0
+15,326,2002,Whole Year,Dry ginger,612.0,1648.0
+15,326,2003,Whole Year,Dry ginger,432.0,1224.0
+15,326,2004,Whole Year,Dry ginger,557.0,1418.0
+15,326,2005,Whole Year,Dry ginger,676.0,1999.0
+15,326,2006,Whole Year,Dry ginger,529.0,1525.0
+15,326,2007,Whole Year,Dry ginger,441.0,1125.0
+15,326,2008,Whole Year,Dry ginger,375.0,892.0
+15,326,2009,Whole Year,Dry ginger,390.0,898.0
+15,326,2010,Whole Year,Dry ginger,386.97,877.9
+15,326,2011,Whole Year,Dry ginger,397.68,884.98
+15,326,2012,Whole Year,Dry ginger,359.0,819.0
+15,326,2013,Whole Year,Dry ginger,327.0,716.0
+15,326,2014,Whole Year,Dry ginger,338.0,828.0
+15,333,1998,Whole Year,Dry ginger,159.0,392.0
+15,333,1999,Whole Year,Dry ginger,163.0,458.0
+15,333,2000,Whole Year,Dry ginger,245.0,574.0
+15,333,2001,Whole Year,Dry ginger,256.0,746.0
+15,333,2002,Whole Year,Dry ginger,211.0,619.0
+15,333,2003,Whole Year,Dry ginger,172.0,524.0
+15,333,2004,Whole Year,Dry ginger,198.0,595.0
+15,333,2005,Whole Year,Dry ginger,225.0,772.0
+15,333,2006,Whole Year,Dry ginger,230.0,645.0
+15,333,2007,Whole Year,Dry ginger,161.0,463.0
+15,333,2008,Whole Year,Dry ginger,193.0,528.0
+15,333,2009,Whole Year,Dry ginger,88.0,268.0
+15,333,2010,Whole Year,Dry ginger,107.41,294.46
+15,333,2011,Whole Year,Dry ginger,109.77,286.35
+15,333,2012,Whole Year,Dry ginger,107.0,311.0
+15,333,2013,Whole Year,Dry ginger,96.0,285.0
+15,333,2014,Whole Year,Dry ginger,153.0,511.0
+15,334,1998,Whole Year,Dry ginger,238.0,670.0
+15,334,1999,Whole Year,Dry ginger,287.0,749.0
+15,334,2000,Whole Year,Dry ginger,367.0,1098.0
+15,334,2001,Whole Year,Dry ginger,297.0,1028.0
+15,334,2002,Whole Year,Dry ginger,217.0,598.0
+15,334,2003,Whole Year,Dry ginger,135.0,410.0
+15,334,2004,Whole Year,Dry ginger,122.0,362.0
+15,334,2005,Whole Year,Dry ginger,165.0,504.0
+15,334,2006,Whole Year,Dry ginger,160.0,536.0
+15,334,2007,Whole Year,Dry ginger,105.0,310.0
+15,334,2008,Whole Year,Dry ginger,85.0,255.0
+15,334,2009,Whole Year,Dry ginger,104.0,401.0
+15,334,2010,Whole Year,Dry ginger,78.35,255.56
+15,334,2011,Whole Year,Dry ginger,78.3,245.55
+15,334,2012,Whole Year,Dry ginger,62.0,181.0
+15,334,2013,Whole Year,Dry ginger,46.0,154.0
+15,334,2014,Whole Year,Dry ginger,43.0,153.0
+15,372,1998,Whole Year,Dry ginger,158.0,271.0
+15,372,1999,Whole Year,Dry ginger,200.0,509.0
+15,372,2000,Whole Year,Dry ginger,184.0,394.0
+15,372,2001,Whole Year,Dry ginger,212.0,426.0
+15,372,2002,Whole Year,Dry ginger,181.0,424.0
+15,372,2003,Whole Year,Dry ginger,146.0,365.0
+15,372,2004,Whole Year,Dry ginger,133.0,282.0
+15,372,2005,Whole Year,Dry ginger,175.0,336.0
+15,372,2006,Whole Year,Dry ginger,151.0,288.0
+15,372,2007,Whole Year,Dry ginger,75.0,149.0
+15,372,2008,Whole Year,Dry ginger,77.0,161.0
+15,372,2009,Whole Year,Dry ginger,62.0,141.0
+15,372,2010,Whole Year,Dry ginger,61.15,124.69
+15,372,2011,Whole Year,Dry ginger,47.41,96.82
+15,372,2012,Whole Year,Dry ginger,42.0,77.0
+15,372,2013,Whole Year,Dry ginger,28.0,61.0
+15,372,2014,Whole Year,Dry ginger,44.0,98.0
+15,437,1998,Whole Year,Dry ginger,940.0,3329.0
+15,437,1999,Whole Year,Dry ginger,1191.0,3433.0
+15,437,2000,Whole Year,Dry ginger,1460.0,5699.0
+15,437,2001,Whole Year,Dry ginger,1452.0,6478.0
+15,437,2002,Whole Year,Dry ginger,1133.0,4196.0
+15,437,2003,Whole Year,Dry ginger,902.0,1932.0
+15,437,2004,Whole Year,Dry ginger,969.0,3316.0
+15,437,2005,Whole Year,Dry ginger,1362.0,6350.0
+15,437,2006,Whole Year,Dry ginger,1762.0,8651.0
+15,437,2007,Whole Year,Dry ginger,1240.0,5744.0
+15,437,2008,Whole Year,Dry ginger,1044.0,4492.0
+15,437,2009,Whole Year,Dry ginger,812.0,3779.0
+15,437,2010,Whole Year,Dry ginger,1256.2,6880.52
+15,437,2011,Whole Year,Dry ginger,1840.43,9543.97
+15,437,2012,Whole Year,Dry ginger,738.0,3310.0
+15,437,2013,Whole Year,Dry ginger,836.0,4080.0
+15,437,2014,Whole Year,Dry ginger,1140.0,5154.0
+15,450,1998,Whole Year,Dry ginger,387.0,997.0
+15,450,1999,Whole Year,Dry ginger,442.0,1295.0
+15,450,2000,Whole Year,Dry ginger,490.0,1480.0
+15,450,2001,Whole Year,Dry ginger,482.0,1351.0
+15,450,2002,Whole Year,Dry ginger,619.0,1536.0
+15,450,2003,Whole Year,Dry ginger,470.0,1150.0
+15,450,2004,Whole Year,Dry ginger,526.0,1358.0
+15,450,2005,Whole Year,Dry ginger,632.0,1908.0
+15,450,2006,Whole Year,Dry ginger,604.0,1797.0
+15,450,2007,Whole Year,Dry ginger,545.0,1777.0
+15,450,2008,Whole Year,Dry ginger,166.0,463.0
+15,450,2009,Whole Year,Dry ginger,305.0,860.0
+15,450,2010,Whole Year,Dry ginger,323.56,985.4
+15,450,2011,Whole Year,Dry ginger,313.77,1009.04
+15,450,2012,Whole Year,Dry ginger,294.0,814.0
+15,450,2013,Whole Year,Dry ginger,276.0,834.0
+15,450,2014,Whole Year,Dry ginger,289.0,1044.0
+15,587,1998,Whole Year,Dry ginger,80.0,232.0
+15,587,1999,Whole Year,Dry ginger,77.0,254.0
+15,587,2000,Whole Year,Dry ginger,103.0,312.0
+15,587,2001,Whole Year,Dry ginger,121.0,441.0
+15,587,2002,Whole Year,Dry ginger,106.0,282.0
+15,587,2003,Whole Year,Dry ginger,91.0,284.0
+15,587,2004,Whole Year,Dry ginger,103.0,306.0
+15,587,2005,Whole Year,Dry ginger,127.0,298.0
+15,587,2006,Whole Year,Dry ginger,89.0,247.0
+15,587,2007,Whole Year,Dry ginger,94.0,248.0
+15,587,2008,Whole Year,Dry ginger,95.0,291.0
+15,587,2009,Whole Year,Dry ginger,61.0,152.0
+15,587,2010,Whole Year,Dry ginger,69.73,180.25
+15,587,2011,Whole Year,Dry ginger,73.58,177.97
+15,587,2012,Whole Year,Dry ginger,67.0,154.0
+15,587,2013,Whole Year,Dry ginger,65.0,138.0
+15,587,2014,Whole Year,Dry ginger,75.0,203.0
+15,590,1998,Whole Year,Dry ginger,92.0,176.0
+15,590,1999,Whole Year,Dry ginger,112.0,284.0
+15,590,2000,Whole Year,Dry ginger,87.0,133.0
+15,590,2001,Whole Year,Dry ginger,123.0,353.0
+15,590,2002,Whole Year,Dry ginger,136.0,285.0
+15,590,2003,Whole Year,Dry ginger,124.0,150.0
+15,590,2004,Whole Year,Dry ginger,136.0,260.0
+15,590,2005,Whole Year,Dry ginger,157.0,467.0
+15,590,2006,Whole Year,Dry ginger,111.0,221.0
+15,590,2007,Whole Year,Dry ginger,75.0,158.0
+15,590,2008,Whole Year,Dry ginger,59.0,124.0
+15,590,2009,Whole Year,Dry ginger,80.0,164.0
+15,590,2010,Whole Year,Dry ginger,52.63,136.42
+15,590,2011,Whole Year,Dry ginger,48.99,124.34
+15,590,2012,Whole Year,Dry ginger,46.0,113.0
+15,590,2013,Whole Year,Dry ginger,39.0,104.0
+15,590,2014,Whole Year,Dry ginger,41.0,100.0
+15,630,1998,Whole Year,Dry ginger,6129.0,22717.0
+15,630,1999,Whole Year,Dry ginger,5520.0,21965.0
+15,630,2000,Whole Year,Dry ginger,5244.0,20984.0
+15,630,2001,Whole Year,Dry ginger,4192.0,18084.0
+15,630,2002,Whole Year,Dry ginger,3450.0,15164.0
+15,630,2003,Whole Year,Dry ginger,4392.0,21257.0
+15,630,2004,Whole Year,Dry ginger,5731.0,32376.0
+15,630,2005,Whole Year,Dry ginger,7269.0,38823.0
+15,630,2006,Whole Year,Dry ginger,5901.0,23385.0
+15,630,2007,Whole Year,Dry ginger,4604.0,17054.0
+15,630,2008,Whole Year,Dry ginger,4166.0,19713.0
+15,630,2009,Whole Year,Dry ginger,2446.0,18439.0
+15,630,2010,Whole Year,Dry ginger,2673.44,19413.99
+15,630,2011,Whole Year,Dry ginger,2953.16,20028.32
+15,630,2012,Whole Year,Dry ginger,1893.0,11846.0
+15,630,2013,Whole Year,Dry ginger,1992.0,11006.0
+15,630,2014,Whole Year,Dry ginger,1925.0,10992.0
+16,3,2013,Whole Year,Dry ginger,2.0,2.0
+16,12,2009,Whole Year,Dry ginger,9.0,11.0
+16,12,2010,Whole Year,Dry ginger,8.0,11.0
+16,12,2011,Whole Year,Dry ginger,19.0,19.0
+16,12,2012,Whole Year,Dry ginger,24.0,33.0
+16,12,2013,Whole Year,Dry ginger,27.0,62.0
+16,28,2003,Kharif,Dry ginger,112.0,148.0
+16,28,2004,Kharif,Dry ginger,129.0,176.0
+16,28,2006,Kharif,Dry ginger,161.0,223.0
+16,28,2009,Whole Year,Dry ginger,169.0,138.0
+16,28,2010,Whole Year,Dry ginger,191.0,127.0
+16,28,2011,Whole Year,Dry ginger,220.0,237.0
+16,28,2012,Whole Year,Dry ginger,256.0,449.0
+16,28,2013,Whole Year,Dry ginger,257.0,451.0
+16,32,2003,Kharif,Dry ginger,33.0,28.0
+16,32,2006,Kharif,Dry ginger,9.0,9.0
+16,32,2009,Whole Year,Dry ginger,19.0,20.0
+16,32,2010,Whole Year,Dry ginger,18.0,14.0
+16,32,2011,Whole Year,Dry ginger,7.0,6.0
+16,32,2012,Whole Year,Dry ginger,3.0,5.0
+16,32,2013,Whole Year,Dry ginger,6.0,9.0
+16,42,1999,Kharif,Dry ginger,118.0,221.0
+16,42,2000,Kharif,Dry ginger,104.0,181.0
+16,42,2001,Kharif,Dry ginger,118.0,239.0
+16,42,2002,Kharif,Dry ginger,115.0,199.0
+16,42,2003,Kharif,Dry ginger,126.0,219.0
+16,42,2004,Kharif,Dry ginger,116.0,202.0
+16,42,2006,Kharif,Dry ginger,112.0,243.0
+16,42,2009,Whole Year,Dry ginger,133.0,269.0
+16,42,2010,Whole Year,Dry ginger,155.0,313.0
+16,42,2011,Whole Year,Dry ginger,144.0,254.0
+16,42,2012,Whole Year,Dry ginger,181.0,319.0
+16,42,2013,Whole Year,Dry ginger,182.0,344.0
+16,65,1999,Kharif,Dry ginger,352.0,269.0
+16,65,2000,Kharif,Dry ginger,351.0,211.0
+16,65,2001,Kharif,Dry ginger,401.0,301.0
+16,65,2002,Kharif,Dry ginger,411.0,301.0
+16,65,2003,Kharif,Dry ginger,423.0,335.0
+16,65,2004,Kharif,Dry ginger,389.0,314.0
+16,65,2006,Kharif,Dry ginger,355.0,194.0
+16,65,2009,Whole Year,Dry ginger,494.0,298.0
+16,65,2010,Whole Year,Dry ginger,497.0,323.0
+16,65,2011,Whole Year,Dry ginger,508.0,243.0
+16,65,2012,Whole Year,Dry ginger,458.0,842.0
+16,65,2013,Whole Year,Dry ginger,461.0,820.0
+16,75,1999,Kharif,Dry ginger,6.0,11.0
+16,75,2000,Kharif,Dry ginger,7.0,12.0
+16,75,2001,Kharif,Dry ginger,6.0,10.0
+16,75,2010,Whole Year,Dry ginger,10.0,16.0
+16,75,2011,Whole Year,Dry ginger,14.0,15.0
+16,75,2012,Whole Year,Dry ginger,110.0,147.0
+16,75,2013,Whole Year,Dry ginger,44.0,85.0
+16,83,2002,Kharif,Dry ginger,2.0,0.1
+16,83,2003,Kharif,Dry ginger,2.0,2.0
+16,86,1999,Kharif,Dry ginger,13.0,12.0
+16,86,2000,Kharif,Dry ginger,11.0,8.0
+16,86,2001,Kharif,Dry ginger,3.0,3.0
+16,86,2002,Kharif,Dry ginger,6.0,5.0
+16,86,2003,Kharif,Dry ginger,6.0,5.0
+16,86,2004,Kharif,Dry ginger,9.0,8.0
+16,86,2006,Kharif,Dry ginger,10.0,9.0
+16,86,2009,Whole Year,Dry ginger,4.0,4.0
+16,86,2010,Whole Year,Dry ginger,16.0,18.0
+16,86,2011,Whole Year,Dry ginger,10.0,10.0
+16,86,2012,Whole Year,Dry ginger,7.0,10.0
+16,86,2013,Whole Year,Dry ginger,5.0,7.0
+16,101,2003,Kharif,Dry ginger,7.0,8.0
+16,101,2004,Kharif,Dry ginger,12.0,11.0
+16,101,2006,Kharif,Dry ginger,14.0,18.0
+16,101,2009,Whole Year,Dry ginger,10.0,13.0
+16,101,2010,Whole Year,Dry ginger,14.0,13.0
+16,101,2011,Whole Year,Dry ginger,15.0,15.0
+16,101,2012,Whole Year,Dry ginger,23.0,25.0
+16,101,2013,Whole Year,Dry ginger,27.0,28.0
+16,115,1999,Kharif,Dry ginger,209.0,175.0
+16,115,2000,Kharif,Dry ginger,202.0,137.0
+16,115,2001,Kharif,Dry ginger,369.0,269.0
+16,115,2002,Kharif,Dry ginger,501.0,259.0
+16,115,2003,Kharif,Dry ginger,465.0,290.0
+16,115,2004,Kharif,Dry ginger,561.0,380.0
+16,115,2006,Kharif,Dry ginger,495.0,315.0
+16,115,2009,Whole Year,Dry ginger,666.0,406.0
+16,115,2010,Whole Year,Dry ginger,765.0,446.0
+16,115,2011,Whole Year,Dry ginger,880.0,327.0
+16,115,2012,Whole Year,Dry ginger,845.0,571.0
+16,115,2013,Whole Year,Dry ginger,910.0,760.0
+16,116,1999,Kharif,Dry ginger,530.0,1098.0
+16,116,2000,Kharif,Dry ginger,538.0,836.0
+16,116,2001,Kharif,Dry ginger,585.0,1061.0
+16,116,2002,Kharif,Dry ginger,623.0,1065.0
+16,116,2003,Kharif,Dry ginger,606.0,1052.0
+16,116,2004,Kharif,Dry ginger,636.0,989.0
+16,116,2006,Kharif,Dry ginger,919.0,1583.0
+16,116,2009,Whole Year,Dry ginger,1616.0,2784.0
+16,116,2010,Whole Year,Dry ginger,1598.0,2753.0
+16,116,2011,Whole Year,Dry ginger,2396.0,4241.0
+16,116,2012,Whole Year,Dry ginger,3369.0,8930.0
+16,116,2013,Whole Year,Dry ginger,3723.0,9868.0
+16,132,1999,Kharif,Dry ginger,57.0,72.0
+16,132,2000,Kharif,Dry ginger,69.0,74.0
+16,132,2001,Kharif,Dry ginger,87.0,107.0
+16,132,2002,Kharif,Dry ginger,66.0,81.0
+16,132,2003,Kharif,Dry ginger,58.0,70.0
+16,132,2004,Kharif,Dry ginger,81.0,101.0
+16,132,2006,Kharif,Dry ginger,141.0,122.0
+16,132,2009,Whole Year,Dry ginger,173.0,250.0
+16,132,2010,Whole Year,Dry ginger,173.0,260.0
+16,132,2011,Whole Year,Dry ginger,201.0,236.0
+16,132,2012,Whole Year,Dry ginger,230.0,371.0
+16,132,2013,Whole Year,Dry ginger,184.0,357.0
+16,138,1999,Kharif,Dry ginger,11.0,8.0
+16,138,2000,Kharif,Dry ginger,17.0,14.0
+16,138,2001,Kharif,Dry ginger,8.0,7.0
+16,138,2002,Kharif,Dry ginger,21.0,6.0
+16,138,2003,Kharif,Dry ginger,10.0,10.0
+16,138,2004,Kharif,Dry ginger,15.0,11.0
+16,138,2006,Kharif,Dry ginger,8.0,6.0
+16,138,2009,Whole Year,Dry ginger,15.0,11.0
+16,138,2010,Whole Year,Dry ginger,9.0,5.0
+16,138,2011,Whole Year,Dry ginger,9.0,5.0
+16,138,2013,Whole Year,Dry ginger,25.0,22.0
+16,145,1999,Kharif,Dry ginger,174.0,154.0
+16,145,2000,Kharif,Dry ginger,130.0,108.0
+16,145,2001,Kharif,Dry ginger,121.0,101.0
+16,145,2002,Kharif,Dry ginger,100.0,83.0
+16,145,2003,Kharif,Dry ginger,194.0,188.0
+16,145,2004,Kharif,Dry ginger,70.0,60.0
+16,145,2006,Kharif,Dry ginger,59.0,61.0
+16,145,2009,Whole Year,Dry ginger,43.0,41.0
+16,145,2010,Whole Year,Dry ginger,34.0,37.0
+16,145,2011,Whole Year,Dry ginger,100.0,87.0
+16,145,2012,Whole Year,Dry ginger,123.0,112.0
+16,145,2013,Whole Year,Dry ginger,55.0,47.0
+16,149,1999,Kharif,Dry ginger,64.0,97.0
+16,149,2000,Kharif,Dry ginger,63.0,47.0
+16,149,2001,Kharif,Dry ginger,106.0,113.0
+16,149,2002,Kharif,Dry ginger,109.0,143.0
+16,149,2003,Kharif,Dry ginger,68.0,90.0
+16,149,2004,Kharif,Dry ginger,92.0,116.0
+16,149,2006,Kharif,Dry ginger,112.0,149.0
+16,149,2009,Whole Year,Dry ginger,151.0,220.0
+16,149,2010,Whole Year,Dry ginger,231.0,337.0
+16,149,2011,Whole Year,Dry ginger,308.0,375.0
+16,149,2012,Whole Year,Dry ginger,443.0,680.0
+16,149,2013,Whole Year,Dry ginger,275.0,1014.0
+16,216,1999,Kharif,Dry ginger,34.0,30.0
+16,216,2000,Kharif,Dry ginger,36.0,35.0
+16,216,2001,Kharif,Dry ginger,7.0,7.0
+16,216,2002,Kharif,Dry ginger,37.0,19.0
+16,216,2003,Kharif,Dry ginger,16.0,16.0
+16,216,2004,Kharif,Dry ginger,12.0,11.0
+16,216,2006,Kharif,Dry ginger,28.0,28.0
+16,216,2009,Whole Year,Dry ginger,33.0,35.0
+16,216,2010,Whole Year,Dry ginger,29.0,29.0
+16,216,2011,Whole Year,Dry ginger,28.0,23.0
+16,216,2012,Whole Year,Dry ginger,54.0,56.0
+16,216,2013,Whole Year,Dry ginger,21.0,25.0
+16,220,2002,Kharif,Dry ginger,3.0,1.0
+16,225,1999,Kharif,Dry ginger,7.0,10.0
+16,225,2000,Kharif,Dry ginger,9.0,12.0
+16,225,2001,Kharif,Dry ginger,10.0,12.0
+16,225,2002,Kharif,Dry ginger,9.0,11.0
+16,225,2003,Kharif,Dry ginger,17.0,21.0
+16,225,2004,Kharif,Dry ginger,11.0,12.0
+16,225,2006,Kharif,Dry ginger,20.0,22.0
+16,225,2009,Whole Year,Dry ginger,34.0,49.0
+16,225,2010,Whole Year,Dry ginger,16.0,17.0
+16,225,2011,Whole Year,Dry ginger,10.0,11.0
+16,225,2012,Whole Year,Dry ginger,19.0,26.0
+16,225,2013,Whole Year,Dry ginger,14.0,23.0
+16,235,1999,Kharif,Dry ginger,77.0,104.0
+16,235,2000,Kharif,Dry ginger,71.0,92.0
+16,235,2001,Kharif,Dry ginger,87.0,108.0
+16,235,2002,Kharif,Dry ginger,126.0,155.0
+16,235,2003,Kharif,Dry ginger,133.0,166.0
+16,235,2004,Kharif,Dry ginger,137.0,174.0
+16,235,2006,Kharif,Dry ginger,146.0,188.0
+16,235,2009,Whole Year,Dry ginger,171.0,221.0
+16,235,2010,Whole Year,Dry ginger,103.0,141.0
+16,235,2011,Whole Year,Dry ginger,153.0,170.0
+16,235,2012,Whole Year,Dry ginger,114.0,159.0
+16,235,2013,Whole Year,Dry ginger,76.0,124.0
+16,242,1999,Kharif,Dry ginger,13.0,24.0
+16,242,2000,Kharif,Dry ginger,10.0,17.0
+16,242,2001,Kharif,Dry ginger,14.0,20.0
+16,242,2002,Kharif,Dry ginger,2.0,3.0
+16,242,2003,Kharif,Dry ginger,17.0,27.0
+16,242,2004,Kharif,Dry ginger,16.0,26.0
+16,242,2006,Kharif,Dry ginger,11.0,19.0
+16,242,2009,Whole Year,Dry ginger,26.0,48.0
+16,242,2010,Whole Year,Dry ginger,11.0,21.0
+16,242,2011,Whole Year,Dry ginger,27.0,39.0
+16,242,2012,Whole Year,Dry ginger,6.0,9.0
+16,242,2013,Whole Year,Dry ginger,11.0,24.0
+16,243,1999,Kharif,Dry ginger,43.0,61.0
+16,243,2000,Kharif,Dry ginger,60.0,79.0
+16,243,2001,Kharif,Dry ginger,47.0,73.0
+16,243,2002,Kharif,Dry ginger,59.0,86.0
+16,243,2003,Kharif,Dry ginger,42.0,66.0
+16,243,2004,Kharif,Dry ginger,41.0,68.0
+16,243,2006,Kharif,Dry ginger,48.0,93.0
+16,243,2009,Whole Year,Dry ginger,42.0,65.0
+16,243,2010,Whole Year,Dry ginger,52.0,83.0
+16,243,2011,Whole Year,Dry ginger,49.0,76.0
+16,243,2012,Whole Year,Dry ginger,51.0,86.0
+16,243,2013,Whole Year,Dry ginger,36.0,61.0
+16,262,1999,Kharif,Dry ginger,32.0,54.0
+16,262,2000,Kharif,Dry ginger,30.0,17.0
+16,262,2001,Kharif,Dry ginger,19.0,22.0
+16,262,2002,Kharif,Dry ginger,29.0,42.0
+16,262,2003,Kharif,Dry ginger,18.0,26.0
+16,262,2004,Kharif,Dry ginger,29.0,35.0
+16,262,2006,Kharif,Dry ginger,32.0,42.0
+16,262,2009,Whole Year,Dry ginger,29.0,36.0
+16,262,2010,Whole Year,Dry ginger,42.0,53.0
+16,262,2011,Whole Year,Dry ginger,53.0,50.0
+16,262,2012,Whole Year,Dry ginger,55.0,91.0
+16,262,2013,Whole Year,Dry ginger,53.0,124.0
+16,302,1999,Kharif,Dry ginger,83.0,108.0
+16,302,2000,Kharif,Dry ginger,98.0,95.0
+16,302,2001,Kharif,Dry ginger,124.0,149.0
+16,302,2002,Kharif,Dry ginger,112.0,85.0
+16,302,2003,Kharif,Dry ginger,131.0,147.0
+16,302,2004,Kharif,Dry ginger,128.0,123.0
+16,302,2006,Kharif,Dry ginger,150.0,128.0
+16,302,2009,Whole Year,Dry ginger,179.0,165.0
+16,302,2010,Whole Year,Dry ginger,200.0,166.0
+16,302,2011,Whole Year,Dry ginger,174.0,114.0
+16,302,2012,Whole Year,Dry ginger,279.0,370.0
+16,302,2013,Whole Year,Dry ginger,328.0,731.0
+16,308,1999,Kharif,Dry ginger,151.0,178.0
+16,308,2000,Kharif,Dry ginger,216.0,207.0
+16,308,2001,Kharif,Dry ginger,185.0,210.0
+16,308,2002,Kharif,Dry ginger,206.0,195.0
+16,308,2003,Kharif,Dry ginger,212.0,245.0
+16,308,2004,Kharif,Dry ginger,330.0,311.0
+16,308,2006,Kharif,Dry ginger,416.0,521.0
+16,308,2009,Whole Year,Dry ginger,604.0,757.0
+16,308,2010,Whole Year,Dry ginger,658.0,888.0
+16,308,2011,Whole Year,Dry ginger,606.0,534.0
+16,308,2012,Whole Year,Dry ginger,487.0,540.0
+16,308,2013,Whole Year,Dry ginger,406.0,431.0
+16,309,1999,Kharif,Dry ginger,41.0,34.0
+16,309,2000,Kharif,Dry ginger,46.0,23.0
+16,309,2001,Kharif,Dry ginger,58.0,45.0
+16,309,2002,Kharif,Dry ginger,38.0,28.0
+16,309,2003,Kharif,Dry ginger,76.0,76.0
+16,309,2004,Kharif,Dry ginger,88.0,87.0
+16,309,2006,Kharif,Dry ginger,130.0,120.0
+16,309,2009,Whole Year,Dry ginger,111.0,120.0
+16,309,2010,Whole Year,Dry ginger,126.0,132.0
+16,309,2011,Whole Year,Dry ginger,368.0,293.0
+16,309,2012,Whole Year,Dry ginger,61.0,50.0
+16,309,2013,Whole Year,Dry ginger,68.0,56.0
+16,377,1999,Kharif,Dry ginger,13.0,18.0
+16,377,2000,Kharif,Dry ginger,5.0,4.0
+16,377,2001,Kharif,Dry ginger,37.0,50.0
+16,377,2002,Kharif,Dry ginger,35.0,51.0
+16,377,2003,Kharif,Dry ginger,32.0,40.0
+16,377,2004,Kharif,Dry ginger,30.0,35.0
+16,377,2006,Kharif,Dry ginger,25.0,35.0
+16,377,2009,Whole Year,Dry ginger,26.0,35.0
+16,377,2010,Whole Year,Dry ginger,27.0,34.0
+16,377,2011,Whole Year,Dry ginger,26.0,22.0
+16,377,2012,Whole Year,Dry ginger,27.0,33.0
+16,377,2013,Whole Year,Dry ginger,18.0,39.0
+16,378,2006,Kharif,Dry ginger,2.0,1.0
+16,378,2012,Whole Year,Dry ginger,2.0,1.0
+16,395,2010,Whole Year,Dry ginger,2.0,2.0
+16,395,2012,Whole Year,Dry ginger,2.0,
+16,395,2013,Whole Year,Dry ginger,12.0,10.0
+16,420,1999,Kharif,Dry ginger,94.0,171.0
+16,420,2000,Kharif,Dry ginger,149.0,250.0
+16,420,2001,Kharif,Dry ginger,220.0,381.0
+16,420,2002,Kharif,Dry ginger,182.0,319.0
+16,420,2003,Kharif,Dry ginger,165.0,293.0
+16,420,2004,Kharif,Dry ginger,153.0,272.0
+16,420,2006,Kharif,Dry ginger,172.0,306.0
+16,420,2009,Whole Year,Dry ginger,132.0,229.0
+16,420,2010,Whole Year,Dry ginger,150.0,260.0
+16,420,2011,Whole Year,Dry ginger,220.0,327.0
+16,420,2012,Whole Year,Dry ginger,171.0,317.0
+16,420,2013,Whole Year,Dry ginger,162.0,322.0
+16,426,2001,Kharif,Dry ginger,1.0,1.0
+16,445,1999,Kharif,Dry ginger,15.0,13.0
+16,445,2000,Kharif,Dry ginger,37.0,25.0
+16,445,2001,Kharif,Dry ginger,33.0,26.0
+16,445,2002,Kharif,Dry ginger,63.0,47.0
+16,445,2003,Kharif,Dry ginger,54.0,40.0
+16,445,2004,Kharif,Dry ginger,55.0,42.0
+16,445,2006,Kharif,Dry ginger,85.0,71.0
+16,445,2009,Whole Year,Dry ginger,96.0,76.0
+16,445,2010,Whole Year,Dry ginger,178.0,135.0
+16,445,2011,Whole Year,Dry ginger,404.0,259.0
+16,445,2012,Whole Year,Dry ginger,302.0,380.0
+16,445,2013,Whole Year,Dry ginger,356.0,460.0
+16,477,1999,Kharif,Dry ginger,19.0,19.0
+16,477,2000,Kharif,Dry ginger,19.0,13.0
+16,477,2001,Kharif,Dry ginger,17.0,12.0
+16,477,2002,Kharif,Dry ginger,21.0,15.0
+16,477,2003,Kharif,Dry ginger,41.0,31.0
+16,477,2004,Kharif,Dry ginger,69.0,52.0
+16,477,2006,Kharif,Dry ginger,109.0,81.0
+16,477,2009,Whole Year,Dry ginger,48.0,36.0
+16,477,2010,Whole Year,Dry ginger,49.0,37.0
+16,477,2011,Whole Year,Dry ginger,73.0,40.0
+16,477,2012,Whole Year,Dry ginger,43.0,28.0
+16,477,2013,Whole Year,Dry ginger,39.0,32.0
+16,479,1999,Kharif,Dry ginger,393.0,384.0
+16,479,2000,Kharif,Dry ginger,3.0,2.0
+16,479,2001,Kharif,Dry ginger,2.0,2.0
+16,479,2002,Kharif,Dry ginger,2.0,2.0
+16,479,2004,Kharif,Dry ginger,1.0,1.0
+16,479,2009,Whole Year,Dry ginger,1.0,1.0
+16,479,2011,Whole Year,Dry ginger,2.0,2.0
+16,479,2012,Whole Year,Dry ginger,1.0,1.0
+16,490,1999,Kharif,Dry ginger,26.0,38.0
+16,490,2000,Kharif,Dry ginger,43.0,47.0
+16,490,2001,Kharif,Dry ginger,7.0,8.0
+16,490,2002,Kharif,Dry ginger,55.0,61.0
+16,490,2003,Kharif,Dry ginger,29.0,32.0
+16,490,2004,Kharif,Dry ginger,62.0,91.0
+16,490,2006,Kharif,Dry ginger,103.0,132.0
+16,490,2009,Whole Year,Dry ginger,146.0,200.0
+16,490,2010,Whole Year,Dry ginger,132.0,156.0
+16,490,2011,Whole Year,Dry ginger,107.0,126.0
+16,490,2012,Whole Year,Dry ginger,97.0,119.0
+16,490,2013,Whole Year,Dry ginger,107.0,121.0
+16,494,1999,Kharif,Dry ginger,29.0,33.0
+16,494,2000,Kharif,Dry ginger,31.0,32.0
+16,494,2001,Kharif,Dry ginger,30.0,37.0
+16,494,2002,Kharif,Dry ginger,30.0,30.0
+16,494,2003,Kharif,Dry ginger,24.0,24.0
+16,494,2004,Kharif,Dry ginger,15.0,18.0
+16,494,2006,Kharif,Dry ginger,59.0,67.0
+16,494,2009,Whole Year,Dry ginger,33.0,39.0
+16,494,2010,Whole Year,Dry ginger,41.0,46.0
+16,494,2011,Whole Year,Dry ginger,35.0,25.0
+16,494,2012,Whole Year,Dry ginger,60.0,51.0
+16,494,2013,Whole Year,Dry ginger,26.0,59.0
+16,503,1999,Kharif,Dry ginger,230.0,275.0
+16,503,2000,Kharif,Dry ginger,274.0,327.0
+16,503,2001,Kharif,Dry ginger,338.0,403.0
+16,503,2002,Kharif,Dry ginger,326.0,261.0
+16,503,2003,Kharif,Dry ginger,309.0,368.0
+16,503,2004,Kharif,Dry ginger,324.0,387.0
+16,503,2006,Kharif,Dry ginger,382.0,398.0
+16,503,2009,Whole Year,Dry ginger,320.0,444.0
+16,503,2010,Whole Year,Dry ginger,318.0,303.0
+16,503,2011,Whole Year,Dry ginger,348.0,370.0
+16,503,2012,Whole Year,Dry ginger,301.0,452.0
+16,503,2013,Whole Year,Dry ginger,258.0,430.0
+16,520,1999,Kharif,Dry ginger,117.0,96.0
+16,520,2000,Kharif,Dry ginger,134.0,92.0
+16,520,2001,Kharif,Dry ginger,174.0,151.0
+16,520,2002,Kharif,Dry ginger,153.0,102.0
+16,520,2003,Kharif,Dry ginger,190.0,146.0
+16,520,2004,Kharif,Dry ginger,169.0,119.0
+16,520,2006,Kharif,Dry ginger,205.0,178.0
+16,520,2009,Whole Year,Dry ginger,284.0,226.0
+16,520,2010,Whole Year,Dry ginger,331.0,239.0
+16,520,2011,Whole Year,Dry ginger,327.0,205.0
+16,520,2012,Whole Year,Dry ginger,324.0,194.0
+16,520,2013,Whole Year,Dry ginger,354.0,320.0
+16,522,1999,Kharif,Dry ginger,72.0,57.0
+16,522,2000,Kharif,Dry ginger,66.0,47.0
+16,522,2001,Kharif,Dry ginger,68.0,59.0
+16,522,2002,Kharif,Dry ginger,40.0,32.0
+16,522,2003,Kharif,Dry ginger,25.0,22.0
+16,522,2006,Kharif,Dry ginger,17.0,15.0
+16,522,2009,Whole Year,Dry ginger,7.0,8.0
+16,522,2010,Whole Year,Dry ginger,2.0,2.0
+16,522,2011,Whole Year,Dry ginger,4.0,4.0
+16,522,2012,Whole Year,Dry ginger,3.0,4.0
+16,522,2013,Whole Year,Dry ginger,2.0,3.0
+16,524,1999,Kharif,Dry ginger,166.0,208.0
+16,524,2000,Kharif,Dry ginger,267.0,232.0
+16,524,2001,Kharif,Dry ginger,302.0,407.0
+16,524,2002,Kharif,Dry ginger,313.0,362.0
+16,524,2003,Kharif,Dry ginger,293.0,367.0
+16,524,2004,Kharif,Dry ginger,258.0,299.0
+16,524,2006,Kharif,Dry ginger,297.0,372.0
+16,524,2009,Whole Year,Dry ginger,339.0,425.0
+16,524,2010,Whole Year,Dry ginger,378.0,474.0
+16,524,2011,Whole Year,Dry ginger,441.0,456.0
+16,524,2012,Whole Year,Dry ginger,429.0,827.0
+16,524,2013,Whole Year,Dry ginger,454.0,1258.0
+16,527,1999,Kharif,Dry ginger,74.0,95.0
+16,527,2000,Kharif,Dry ginger,112.0,148.0
+16,527,2001,Kharif,Dry ginger,163.0,215.0
+16,527,2002,Kharif,Dry ginger,154.0,139.0
+16,527,2003,Kharif,Dry ginger,17.0,21.0
+16,527,2004,Kharif,Dry ginger,29.0,29.0
+16,527,2006,Kharif,Dry ginger,36.0,45.0
+16,527,2009,Whole Year,Dry ginger,57.0,66.0
+16,527,2010,Whole Year,Dry ginger,70.0,98.0
+16,527,2011,Whole Year,Dry ginger,65.0,53.0
+16,527,2012,Whole Year,Dry ginger,81.0,130.0
+16,527,2013,Whole Year,Dry ginger,91.0,195.0
+16,529,1999,Kharif,Dry ginger,5.0,4.0
+16,529,2000,Kharif,Dry ginger,1.0,1.0
+16,529,2001,Kharif,Dry ginger,1.0,1.0
+16,529,2003,Kharif,Dry ginger,3.0,3.0
+16,529,2004,Kharif,Dry ginger,3.0,3.0
+16,529,2009,Whole Year,Dry ginger,2.0,2.0
+16,529,2010,Whole Year,Dry ginger,1.0,1.0
+16,529,2011,Whole Year,Dry ginger,1.0,1.0
+16,529,2012,Whole Year,Dry ginger,1.0,1.0
+16,529,2013,Whole Year,Dry ginger,1.0,1.0
+16,533,2004,Kharif,Dry ginger,31.0,27.0
+16,536,1999,Kharif,Dry ginger,56.0,50.0
+16,536,2000,Kharif,Dry ginger,58.0,57.0
+16,536,2001,Kharif,Dry ginger,75.0,75.0
+16,536,2002,Kharif,Dry ginger,17.0,6.0
+16,536,2003,Kharif,Dry ginger,27.0,31.0
+16,536,2004,Kharif,Dry ginger,24.0,21.0
+16,536,2006,Kharif,Dry ginger,12.0,11.0
+16,536,2009,Whole Year,Dry ginger,14.0,12.0
+16,536,2010,Whole Year,Dry ginger,17.0,17.0
+16,536,2011,Whole Year,Dry ginger,23.0,16.0
+16,536,2012,Whole Year,Dry ginger,7.0,5.0
+16,536,2013,Whole Year,Dry ginger,31.0,28.0
+16,540,1999,Kharif,Dry ginger,15.0,10.0
+16,540,2000,Kharif,Dry ginger,24.0,13.0
+16,540,2001,Kharif,Dry ginger,31.0,22.0
+16,540,2002,Kharif,Dry ginger,27.0,14.0
+16,540,2003,Kharif,Dry ginger,23.0,13.0
+16,540,2004,Kharif,Dry ginger,33.0,23.0
+16,540,2006,Kharif,Dry ginger,104.0,91.0
+16,540,2009,Whole Year,Dry ginger,28.0,27.0
+16,540,2010,Whole Year,Dry ginger,26.0,23.0
+16,540,2011,Whole Year,Dry ginger,43.0,25.0
+16,540,2012,Whole Year,Dry ginger,36.0,40.0
+16,540,2013,Whole Year,Dry ginger,55.0,75.0
+16,544,2009,Whole Year,Dry ginger,52.0,61.0
+16,544,2010,Whole Year,Dry ginger,59.0,53.0
+16,544,2011,Whole Year,Dry ginger,64.0,42.0
+16,544,2012,Whole Year,Dry ginger,78.0,100.0
+16,544,2013,Whole Year,Dry ginger,85.0,76.0
+16,591,1999,Kharif,Dry ginger,960.0,1955.0
+16,591,2000,Kharif,Dry ginger,890.0,1785.0
+16,591,2001,Kharif,Dry ginger,1003.0,2011.0
+16,591,2002,Kharif,Dry ginger,1114.0,1048.0
+16,591,2003,Kharif,Dry ginger,991.0,1552.0
+16,591,2004,Kharif,Dry ginger,942.0,1180.0
+16,591,2006,Kharif,Dry ginger,861.0,1349.0
+16,591,2009,Whole Year,Dry ginger,1367.0,1712.0
+16,591,2010,Whole Year,Dry ginger,1375.0,1723.0
+16,591,2011,Whole Year,Dry ginger,1304.0,1245.0
+16,591,2012,Whole Year,Dry ginger,1334.0,1341.0
+16,591,2013,Whole Year,Dry ginger,1152.0,1312.0
+16,607,1999,Kharif,Dry ginger,1.0,1.0
+16,607,2000,Kharif,Dry ginger,1.0,1.0
+16,607,2001,Kharif,Dry ginger,4.0,3.0
+16,607,2002,Kharif,Dry ginger,3.0,1.0
+16,607,2003,Kharif,Dry ginger,2.0,2.0
+16,607,2004,Kharif,Dry ginger,5.0,4.0
+16,607,2006,Kharif,Dry ginger,6.0,5.0
+16,607,2009,Whole Year,Dry ginger,3.0,3.0
+16,607,2010,Whole Year,Dry ginger,4.0,4.0
+16,607,2011,Whole Year,Dry ginger,3.0,2.0
+16,607,2013,Whole Year,Dry ginger,1.0,1.0
+16,609,1999,Kharif,Dry ginger,11.0,13.0
+16,609,2000,Kharif,Dry ginger,12.0,15.0
+16,609,2001,Kharif,Dry ginger,18.0,24.0
+16,609,2002,Kharif,Dry ginger,22.0,20.0
+16,609,2003,Kharif,Dry ginger,15.0,18.0
+16,609,2004,Kharif,Dry ginger,18.0,25.0
+16,609,2006,Kharif,Dry ginger,37.0,51.0
+16,609,2009,Whole Year,Dry ginger,40.0,44.0
+16,609,2010,Whole Year,Dry ginger,61.0,79.0
+16,609,2011,Whole Year,Dry ginger,58.0,51.0
+16,609,2012,Whole Year,Dry ginger,75.0,124.0
+16,609,2013,Whole Year,Dry ginger,88.0,202.0
+16,622,1999,Kharif,Dry ginger,55.0,48.0
+16,622,2000,Kharif,Dry ginger,71.0,55.0
+16,622,2001,Kharif,Dry ginger,71.0,56.0
+16,622,2002,Kharif,Dry ginger,55.0,48.0
+16,622,2003,Kharif,Dry ginger,55.0,46.0
+16,622,2004,Kharif,Dry ginger,93.0,75.0
+16,622,2006,Kharif,Dry ginger,117.0,100.0
+16,622,2009,Whole Year,Dry ginger,71.0,60.0
+16,622,2010,Whole Year,Dry ginger,179.0,152.0
+16,622,2011,Whole Year,Dry ginger,79.0,63.0
+16,622,2012,Whole Year,Dry ginger,6.0,7.0
+16,622,2013,Whole Year,Dry ginger,180.0,210.0
+18,93,1998,Summer,Dry ginger,10.0,20.0
+18,93,1999,Kharif,Dry ginger,20.0,30.0
+18,93,2004,Kharif,Dry ginger,10.0,20.0
+18,93,2005,Kharif,Dry ginger,10.0,20.0
+18,93,2006,Kharif,Dry ginger,20.0,30.0
+18,93,2007,Kharif,Dry ginger,10.0,20.0
+18,110,1998,Autumn,Dry ginger,30.0,50.0
+18,110,1999,Kharif,Dry ginger,50.0,80.0
+18,110,2000,Kharif,Dry ginger,50.0,80.0
+18,110,2001,Kharif,Dry ginger,330.0,540.0
+18,110,2002,Kharif,Dry ginger,130.0,210.0
+18,110,2003,Kharif,Dry ginger,250.0,410.0
+18,110,2004,Kharif,Dry ginger,190.0,310.0
+18,110,2005,Kharif,Dry ginger,90.0,150.0
+18,110,2006,Kharif,Dry ginger,380.0,630.0
+18,110,2006,Summer,Dry ginger,10.0,20.0
+18,110,2007,Kharif,Dry ginger,170.0,280.0
+18,124,1998,Autumn,Dry ginger,50.0,80.0
+18,124,1998,Winter,Dry ginger,40.0,70.0
+18,124,1999,Kharif,Dry ginger,80.0,130.0
+18,124,2000,Kharif,Dry ginger,610.0,1020.0
+18,124,2001,Kharif,Dry ginger,1360.0,2250.0
+18,124,2002,Kharif,Dry ginger,620.0,1020.0
+18,124,2003,Kharif,Dry ginger,370.0,610.0
+18,124,2004,Kharif,Dry ginger,1060.0,1750.0
+18,124,2005,Kharif,Dry ginger,1860.0,3070.0
+18,124,2006,Kharif,Dry ginger,3150.0,5200.0
+18,124,2006,Summer,Dry ginger,510.0,840.0
+18,124,2007,Kharif,Dry ginger,1400.0,2310.0
+18,240,2000,Kharif,Dry ginger,20.0,30.0
+18,240,2003,Kharif,Dry ginger,20.0,30.0
+18,240,2004,Kharif,Dry ginger,10.0,20.0
+18,240,2006,Kharif,Dry ginger,10.0,20.0
+18,523,1998,Autumn,Dry ginger,120.0,200.0
+18,523,1998,Winter,Dry ginger,10.0,10.0
+18,523,1999,Kharif,Dry ginger,160.0,260.0
+18,523,2000,Kharif,Dry ginger,160.0,260.0
+18,523,2001,Kharif,Dry ginger,70.0,120.0
+18,523,2002,Kharif,Dry ginger,100.0,170.0
+18,523,2003,Kharif,Dry ginger,290.0,480.0
+18,523,2004,Kharif,Dry ginger,730.0,1200.0
+18,523,2005,Kharif,Dry ginger,60.0,100.0
+18,523,2006,Kharif,Dry ginger,480.0,790.0
+18,523,2006,Summer,Dry ginger,10.0,20.0
+18,523,2007,Kharif,Dry ginger,530.0,870.0
+18,577,1998,Autumn,Dry ginger,70.0,110.0
+18,577,1998,Winter,Dry ginger,80.0,130.0
+18,577,1999,Kharif,Dry ginger,80.0,130.0
+18,577,2000,Kharif,Dry ginger,60.0,100.0
+18,577,2001,Kharif,Dry ginger,90.0,140.0
+18,577,2002,Kharif,Dry ginger,140.0,230.0
+18,577,2003,Kharif,Dry ginger,110.0,180.0
+18,577,2004,Kharif,Dry ginger,140.0,230.0
+18,577,2005,Kharif,Dry ginger,120.0,200.0
+18,577,2006,Kharif,Dry ginger,150.0,250.0
+18,577,2007,Kharif,Dry ginger,800.0,1320.0
+18,589,1998,Autumn,Dry ginger,20.0,30.0
+18,589,1998,Winter,Dry ginger,20.0,40.0
+18,589,1999,Kharif,Dry ginger,130.0,220.0
+18,589,2000,Kharif,Dry ginger,220.0,360.0
+18,589,2001,Kharif,Dry ginger,180.0,300.0
+18,589,2002,Kharif,Dry ginger,100.0,170.0
+18,589,2003,Kharif,Dry ginger,170.0,280.0
+18,589,2004,Kharif,Dry ginger,120.0,200.0
+18,589,2005,Kharif,Dry ginger,20.0,30.0
+18,589,2007,Kharif,Dry ginger,10.0,20.0
+18,608,1998,Autumn,Dry ginger,70.0,120.0
+18,608,1998,Winter,Dry ginger,70.0,110.0
+18,608,1999,Kharif,Dry ginger,70.0,120.0
+18,608,2000,Kharif,Dry ginger,20.0,40.0
+18,608,2001,Kharif,Dry ginger,110.0,180.0
+18,608,2002,Kharif,Dry ginger,180.0,300.0
+18,608,2003,Kharif,Dry ginger,240.0,400.0
+18,608,2004,Kharif,Dry ginger,220.0,360.0
+18,608,2005,Kharif,Dry ginger,80.0,130.0
+18,608,2006,Kharif,Dry ginger,70.0,110.0
+18,608,2006,Summer,Dry ginger,20.0,30.0
+18,608,2007,Kharif,Dry ginger,110.0,180.0
+19,171,1997,Kharif,Dry ginger,3539.0,23163.0
+19,171,1998,Kharif,Dry ginger,3543.0,23189.0
+19,171,1999,Kharif,Dry ginger,3550.0,22063.0
+19,171,2000,Kharif,Dry ginger,3562.0,20871.0
+19,171,2001,Kharif,Dry ginger,4560.0,20839.0
+19,171,2002,Kharif,Dry ginger,4555.0,20818.0
+19,171,2003,Kharif,Dry ginger,4660.0,20839.0
+19,171,2004,Kharif,Dry ginger,4643.0,20378.0
+19,171,2005,Kharif,Dry ginger,4738.0,24486.0
+19,171,2006,Kharif,Dry ginger,4736.0,25499.0
+19,171,2008,Kharif,Dry ginger,4556.0,22015.0
+19,171,2009,Kharif,Dry ginger,4557.0,22023.0
+19,171,2010,Kharif,Dry ginger,4616.0,22309.0
+19,171,2011,Kharif,Dry ginger,4618.0,22559.0
+19,171,2012,Kharif,Dry ginger,4680.0,23346.0
+19,171,2013,Kharif,Dry ginger,3199.0,21734.0
+19,171,2014,Kharif,Dry ginger,3202.0,21761.0
+19,173,1997,Kharif,Dry ginger,109.0,490.0
+19,173,1998,Kharif,Dry ginger,109.0,487.0
+19,173,1999,Kharif,Dry ginger,109.0,487.0
+19,173,2000,Kharif,Dry ginger,209.0,1150.0
+19,173,2001,Kharif,Dry ginger,210.0,2053.0
+19,173,2002,Kharif,Dry ginger,210.0,2053.0
+19,173,2003,Kharif,Dry ginger,210.0,2055.0
+19,173,2004,Kharif,Dry ginger,236.0,2029.0
+19,173,2005,Kharif,Dry ginger,251.0,2450.0
+19,173,2006,Kharif,Dry ginger,255.0,2560.0
+19,173,2008,Kharif,Dry ginger,274.0,2466.0
+19,173,2009,Kharif,Dry ginger,276.0,2964.0
+19,173,2010,Kharif,Dry ginger,325.0,3296.0
+19,173,2011,Kharif,Dry ginger,335.0,3440.0
+19,173,2012,Kharif,Dry ginger,340.0,3561.0
+19,173,2013,Kharif,Dry ginger,11.0,115.0
+19,173,2014,Kharif,Dry ginger,12.0,124.0
+19,175,1997,Kharif,Dry ginger,394.0,2571.0
+19,175,1998,Kharif,Dry ginger,399.0,3335.0
+19,175,1999,Kharif,Dry ginger,405.0,3348.0
+19,175,2000,Kharif,Dry ginger,415.0,3458.0
+19,175,2001,Kharif,Dry ginger,422.0,3546.0
+19,175,2002,Kharif,Dry ginger,428.0,3547.0
+19,175,2003,Kharif,Dry ginger,429.0,3489.0
+19,175,2004,Kharif,Dry ginger,467.0,3518.0
+19,175,2005,Kharif,Dry ginger,515.0,3842.0
+19,175,2006,Kharif,Dry ginger,517.0,3940.0
+19,175,2008,Kharif,Dry ginger,471.0,3583.0
+19,175,2009,Kharif,Dry ginger,473.0,3588.0
+19,175,2010,Kharif,Dry ginger,474.0,3593.0
+19,175,2011,Kharif,Dry ginger,476.0,3891.0
+19,175,2012,Kharif,Dry ginger,482.0,4032.0
+19,175,2013,Kharif,Dry ginger,490.0,4249.0
+19,175,2014,Kharif,Dry ginger,491.0,4259.0
+19,431,2013,Kharif,Dry ginger,1562.0,2822.0
+19,431,2014,Kharif,Dry ginger,1563.0,3227.0
+19,496,1997,Kharif,Dry ginger,685.0,6658.0
+19,496,1998,Kharif,Dry ginger,690.0,6323.0
+19,496,1999,Kharif,Dry ginger,782.0,6018.0
+19,496,2000,Kharif,Dry ginger,822.0,6432.0
+19,496,2001,Kharif,Dry ginger,884.0,6825.0
+19,496,2002,Kharif,Dry ginger,878.0,6807.0
+19,496,2003,Kharif,Dry ginger,881.0,6831.0
+19,496,2004,Kharif,Dry ginger,967.0,7398.0
+19,496,2005,Kharif,Dry ginger,994.0,7430.0
+19,496,2006,Kharif,Dry ginger,997.0,7773.0
+19,496,2008,Kharif,Dry ginger,969.0,7614.0
+19,496,2009,Kharif,Dry ginger,973.0,7645.0
+19,496,2010,Kharif,Dry ginger,976.0,9606.0
+19,496,2011,Kharif,Dry ginger,979.0,9704.0
+19,496,2012,Kharif,Dry ginger,991.0,10047.0
+19,496,2013,Kharif,Dry ginger,1007.0,10574.0
+19,496,2014,Kharif,Dry ginger,1012.0,10687.0
+19,561,1997,Kharif,Dry ginger,143.0,700.0
+19,561,1998,Kharif,Dry ginger,144.0,705.0
+19,561,1999,Kharif,Dry ginger,146.0,711.0
+19,561,2000,Kharif,Dry ginger,145.0,708.0
+19,561,2001,Kharif,Dry ginger,145.0,706.0
+19,561,2002,Kharif,Dry ginger,143.0,677.0
+19,561,2003,Kharif,Dry ginger,130.0,632.0
+19,561,2004,Kharif,Dry ginger,156.0,751.0
+19,561,2005,Kharif,Dry ginger,225.0,1084.0
+19,561,2006,Kharif,Dry ginger,228.0,1101.0
+19,561,2008,Kharif,Dry ginger,247.0,1190.0
+19,561,2009,Kharif,Dry ginger,245.0,1181.0
+19,561,2010,Kharif,Dry ginger,248.0,926.0
+19,561,2011,Kharif,Dry ginger,250.0,946.0
+19,561,2012,Kharif,Dry ginger,254.0,966.0
+19,561,2013,Kharif,Dry ginger,259.0,997.0
+19,561,2014,Kharif,Dry ginger,260.0,1014.0
+19,564,2013,Kharif,Dry ginger,183.0,5329.0
+19,564,2014,Kharif,Dry ginger,185.0,4780.0
+19,565,2013,Kharif,Dry ginger,58.0,543.0
+19,565,2014,Kharif,Dry ginger,61.0,571.0
+19,632,1997,Kharif,Dry ginger,2325.0,10781.0
+19,632,1998,Kharif,Dry ginger,2330.0,10802.0
+19,632,1999,Kharif,Dry ginger,2381.0,11112.0
+19,632,2000,Kharif,Dry ginger,2381.0,11111.0
+19,632,2001,Kharif,Dry ginger,2391.0,1190.0
+19,632,2002,Kharif,Dry ginger,2391.0,11194.0
+19,632,2003,Kharif,Dry ginger,2381.0,13374.0
+19,632,2004,Kharif,Dry ginger,2414.0,11300.0
+19,632,2005,Kharif,Dry ginger,2512.0,11764.0
+19,632,2006,Kharif,Dry ginger,2518.0,12995.0
+19,632,2008,Kharif,Dry ginger,2447.0,11476.0
+19,632,2009,Kharif,Dry ginger,2471.0,14625.0
+19,632,2010,Kharif,Dry ginger,2467.0,14141.0
+19,632,2011,Kharif,Dry ginger,2469.0,14644.0
+19,632,2012,Kharif,Dry ginger,2501.0,15148.0
+19,632,2013,Kharif,Dry ginger,2361.0,10595.0
+19,632,2014,Kharif,Dry ginger,2363.0,10783.0
+19,634,2013,Kharif,Dry ginger,335.0,3632.0
+19,634,2014,Kharif,Dry ginger,337.0,3652.0
+19,636,1997,Kharif,Dry ginger,162.0,897.0
+19,636,1998,Kharif,Dry ginger,188.0,749.0
+19,636,1999,Kharif,Dry ginger,233.0,971.0
+19,636,2000,Kharif,Dry ginger,277.0,1170.0
+19,636,2001,Kharif,Dry ginger,285.0,1431.0
+19,636,2002,Kharif,Dry ginger,291.0,1635.0
+19,636,2003,Kharif,Dry ginger,291.0,1995.0
+19,636,2004,Kharif,Dry ginger,339.0,1764.0
+19,636,2005,Kharif,Dry ginger,390.0,2553.0
+19,636,2006,Kharif,Dry ginger,388.0,3410.0
+19,636,2008,Kharif,Dry ginger,319.0,1942.0
+19,636,2009,Kharif,Dry ginger,326.0,1982.0
+19,636,2010,Kharif,Dry ginger,332.0,2751.0
+19,636,2011,Kharif,Dry ginger,334.0,2948.0
+19,636,2012,Kharif,Dry ginger,339.0,3049.0
+19,636,2013,Kharif,Dry ginger,287.0,2661.0
+19,636,2014,Kharif,Dry ginger,291.0,2697.0
+21,160,2006,Kharif,Dry ginger,500.0,4390.0
+21,160,2007,Kharif,Dry ginger,300.0,2000.0
+21,160,2008,Kharif,Dry ginger,270.0,2670.0
+21,316,2008,Kharif,Dry ginger,400.0,3700.0
+21,321,2006,Kharif,Dry ginger,360.0,3200.0
+21,321,2007,Kharif,Dry ginger,620.0,4550.0
+21,321,2008,Kharif,Dry ginger,620.0,5820.0
+21,355,2008,Kharif,Dry ginger,220.0,2150.0
+21,392,2006,Kharif,Dry ginger,200.0,1760.0
+21,392,2007,Kharif,Dry ginger,400.0,2870.0
+21,392,2008,Kharif,Dry ginger,540.0,5190.0
+21,393,2006,Kharif,Dry ginger,140.0,1240.0
+21,393,2007,Kharif,Dry ginger,430.0,2590.0
+21,393,2008,Kharif,Dry ginger,310.0,2980.0
+21,456,2008,Kharif,Dry ginger,140.0,1350.0
+21,457,2006,Kharif,Dry ginger,440.0,3930.0
+21,457,2007,Kharif,Dry ginger,690.0,5030.0
+21,457,2008,Kharif,Dry ginger,640.0,5800.0
+21,599,2006,Kharif,Dry ginger,190.0,1670.0
+21,599,2007,Kharif,Dry ginger,410.0,2500.0
+21,599,2008,Kharif,Dry ginger,620.0,5860.0
+21,640,2006,Kharif,Dry ginger,510.0,4650.0
+21,640,2007,Kharif,Dry ginger,640.0,5620.0
+21,640,2008,Kharif,Dry ginger,380.0,3580.0
+21,645,2006,Kharif,Dry ginger,260.0,2200.0
+21,645,2007,Kharif,Dry ginger,510.0,3600.0
+21,645,2008,Kharif,Dry ginger,260.0,2420.0
+22,27,1999,Kharif,Dry ginger,460.0,1460.0
+22,27,2000,Kharif,Dry ginger,470.0,980.0
+22,27,2001,Kharif,Dry ginger,470.0,940.0
+22,27,2002,Kharif,Dry ginger,470.0,590.0
+22,27,2003,Kharif,Dry ginger,420.0,540.0
+22,27,2004,Kharif,Dry ginger,450.0,575.0
+22,43,1999,Kharif,Dry ginger,180.0,490.0
+22,43,2000,Kharif,Dry ginger,190.0,230.0
+22,43,2001,Kharif,Dry ginger,260.0,320.0
+22,43,2002,Kharif,Dry ginger,220.0,270.0
+22,43,2003,Kharif,Dry ginger,40.0,50.0
+22,43,2004,Kharif,Dry ginger,47.0,58.0
+22,44,1999,Kharif,Dry ginger,720.0,1870.0
+22,44,2000,Kharif,Dry ginger,670.0,1390.0
+22,44,2001,Kharif,Dry ginger,590.0,1220.0
+22,44,2002,Kharif,Dry ginger,770.0,1590.0
+22,44,2003,Kharif,Dry ginger,660.0,1360.0
+22,44,2004,Kharif,Dry ginger,682.0,1404.0
+22,61,1999,Kharif,Dry ginger,540.0,1060.0
+22,61,2000,Kharif,Dry ginger,340.0,700.0
+22,61,2001,Kharif,Dry ginger,410.0,840.0
+22,61,2002,Kharif,Dry ginger,620.0,1260.0
+22,61,2003,Kharif,Dry ginger,650.0,1330.0
+22,61,2004,Kharif,Dry ginger,669.0,1364.0
+22,76,1999,Kharif,Dry ginger,140.0,280.0
+22,76,2000,Kharif,Dry ginger,130.0,230.0
+22,76,2001,Kharif,Dry ginger,160.0,290.0
+22,76,2002,Kharif,Dry ginger,90.0,180.0
+22,76,2003,Kharif,Dry ginger,100.0,210.0
+22,76,2004,Kharif,Dry ginger,103.0,212.0
+22,96,1999,Kharif,Dry ginger,10.0,20.0
+22,96,2001,Kharif,Dry ginger,80.0,10.0
+22,96,2002,Kharif,Dry ginger,200.0,410.0
+22,96,2003,Kharif,Dry ginger,120.0,240.0
+22,96,2004,Kharif,Dry ginger,135.0,275.0
+22,129,1999,Kharif,Dry ginger,470.0,70.0
+22,129,2000,Kharif,Dry ginger,750.0,1390.0
+22,129,2001,Kharif,Dry ginger,410.0,760.0
+22,129,2002,Kharif,Dry ginger,350.0,650.0
+22,129,2003,Kharif,Dry ginger,650.0,1200.0
+22,129,2004,Kharif,Dry ginger,461.0,852.0
+22,142,1999,Kharif,Dry ginger,240.0,480.0
+22,142,2000,Kharif,Dry ginger,100.0,190.0
+22,142,2001,Kharif,Dry ginger,370.0,510.0
+22,142,2002,Kharif,Dry ginger,140.0,200.0
+22,142,2003,Kharif,Dry ginger,150.0,210.0
+22,142,2004,Kharif,Dry ginger,164.0,231.0
+22,153,1999,Kharif,Dry ginger,410.0,1300.0
+22,153,2000,Kharif,Dry ginger,240.0,420.0
+22,153,2001,Kharif,Dry ginger,270.0,490.0
+22,153,2002,Kharif,Dry ginger,270.0,490.0
+22,153,2003,Kharif,Dry ginger,280.0,500.0
+22,153,2004,Kharif,Dry ginger,295.0,531.0
+22,194,1999,Kharif,Dry ginger,450.0,1130.0
+22,194,2000,Kharif,Dry ginger,610.0,1250.0
+22,194,2001,Kharif,Dry ginger,640.0,1310.0
+22,194,2002,Kharif,Dry ginger,430.0,870.0
+22,194,2003,Kharif,Dry ginger,450.0,910.0
+22,194,2004,Kharif,Dry ginger,443.0,891.0
+22,198,1999,Kharif,Dry ginger,170.0,230.0
+22,198,2000,Kharif,Dry ginger,620.0,1270.0
+22,198,2001,Kharif,Dry ginger,780.0,1600.0
+22,198,2002,Kharif,Dry ginger,90.0,190.0
+22,198,2003,Kharif,Dry ginger,120.0,250.0
+22,198,2004,Kharif,Dry ginger,113.0,233.0
+22,244,1999,Kharif,Dry ginger,220.0,390.0
+22,244,2000,Kharif,Dry ginger,250.0,440.0
+22,244,2001,Kharif,Dry ginger,140.0,250.0
+22,244,2002,Kharif,Dry ginger,270.0,500.0
+22,244,2003,Kharif,Dry ginger,230.0,430.0
+22,244,2004,Kharif,Dry ginger,310.0,578.0
+22,247,1999,Kharif,Dry ginger,210.0,740.0
+22,247,2000,Kharif,Dry ginger,190.0,340.0
+22,247,2001,Kharif,Dry ginger,190.0,340.0
+22,247,2002,Kharif,Dry ginger,250.0,470.0
+22,247,2003,Kharif,Dry ginger,250.0,470.0
+22,247,2004,Kharif,Dry ginger,246.0,461.0
+22,266,1999,Kharif,Dry ginger,560.0,1100.0
+22,266,2000,Kharif,Dry ginger,400.0,740.0
+22,266,2001,Kharif,Dry ginger,580.0,1070.0
+22,266,2002,Kharif,Dry ginger,520.0,960.0
+22,266,2003,Kharif,Dry ginger,620.0,1150.0
+22,266,2004,Kharif,Dry ginger,636.0,1177.0
+22,277,1999,Kharif,Dry ginger,90.0,150.0
+22,277,2000,Kharif,Dry ginger,90.0,160.0
+22,277,2001,Kharif,Dry ginger,220.0,380.0
+22,277,2002,Kharif,Dry ginger,50.0,90.0
+22,277,2003,Kharif,Dry ginger,80.0,150.0
+22,277,2004,Kharif,Dry ginger,72.0,132.0
+22,281,1999,Kharif,Dry ginger,2990.0,6190.0
+22,281,2000,Kharif,Dry ginger,1970.0,4070.0
+22,281,2001,Kharif,Dry ginger,2010.0,4130.0
+22,281,2002,Kharif,Dry ginger,3610.0,7430.0
+22,281,2003,Kharif,Dry ginger,3840.0,7910.0
+22,281,2004,Kharif,Dry ginger,3724.0,7670.0
+22,304,1999,Kharif,Dry ginger,300.0,540.0
+22,304,2000,Kharif,Dry ginger,420.0,750.0
+22,304,2001,Kharif,Dry ginger,240.0,420.0
+22,304,2002,Kharif,Dry ginger,380.0,710.0
+22,304,2003,Kharif,Dry ginger,390.0,720.0
+22,304,2004,Kharif,Dry ginger,318.0,590.0
+22,305,1999,Kharif,Dry ginger,220.0,330.0
+22,305,2000,Kharif,Dry ginger,710.0,1450.0
+22,305,2001,Kharif,Dry ginger,730.0,1490.0
+22,305,2002,Kharif,Dry ginger,1060.0,2160.0
+22,305,2003,Kharif,Dry ginger,1120.0,2280.0
+22,305,2004,Kharif,Dry ginger,1092.0,2226.0
+22,312,1999,Kharif,Dry ginger,150.0,280.0
+22,312,2000,Kharif,Dry ginger,10.0,20.0
+22,312,2001,Kharif,Dry ginger,20.0,40.0
+22,312,2002,Kharif,Dry ginger,550.0,1000.0
+22,312,2003,Kharif,Dry ginger,350.0,640.0
+22,312,2004,Kharif,Dry ginger,367.0,668.0
+22,329,1999,Kharif,Dry ginger,1150.0,2390.0
+22,329,2000,Kharif,Dry ginger,1040.0,2150.0
+22,329,2001,Kharif,Dry ginger,1260.0,2590.0
+22,329,2002,Kharif,Dry ginger,1250.0,2520.0
+22,329,2003,Kharif,Dry ginger,2040.0,4100.0
+22,329,2004,Kharif,Dry ginger,2180.0,4386.0
+22,374,1999,Kharif,Dry ginger,120.0,300.0
+22,374,2000,Kharif,Dry ginger,130.0,230.0
+22,374,2001,Kharif,Dry ginger,250.0,450.0
+22,374,2002,Kharif,Dry ginger,250.0,470.0
+22,374,2003,Kharif,Dry ginger,180.0,340.0
+22,374,2004,Kharif,Dry ginger,244.0,461.0
+22,384,1999,Kharif,Dry ginger,1250.0,1470.0
+22,384,2000,Kharif,Dry ginger,1180.0,2430.0
+22,384,2001,Kharif,Dry ginger,890.0,1840.0
+22,384,2002,Kharif,Dry ginger,600.0,1070.0
+22,384,2003,Kharif,Dry ginger,550.0,980.0
+22,384,2004,Kharif,Dry ginger,585.0,1041.0
+22,404,1999,Kharif,Dry ginger,90.0,140.0
+22,404,2000,Kharif,Dry ginger,100.0,190.0
+22,404,2001,Kharif,Dry ginger,220.0,410.0
+22,404,2002,Kharif,Dry ginger,140.0,260.0
+22,404,2003,Kharif,Dry ginger,140.0,260.0
+22,404,2004,Kharif,Dry ginger,129.0,239.0
+22,425,1999,Kharif,Dry ginger,140.0,260.0
+22,425,2000,Kharif,Dry ginger,130.0,230.0
+22,425,2001,Kharif,Dry ginger,150.0,270.0
+22,425,2002,Kharif,Dry ginger,860.0,1570.0
+22,425,2003,Kharif,Dry ginger,460.0,840.0
+22,425,2004,Kharif,Dry ginger,486.0,889.0
+22,434,1999,Kharif,Dry ginger,50.0,40.0
+22,434,2000,Kharif,Dry ginger,40.0,70.0
+22,434,2001,Kharif,Dry ginger,80.0,130.0
+22,434,2002,Kharif,Dry ginger,80.0,140.0
+22,434,2003,Kharif,Dry ginger,160.0,290.0
+22,434,2004,Kharif,Dry ginger,125.0,225.0
+22,469,2000,Kharif,Dry ginger,20.0,80.0
+22,469,2001,Kharif,Dry ginger,20.0,40.0
+22,469,2002,Kharif,Dry ginger,20.0,40.0
+22,469,2003,Kharif,Dry ginger,30.0,40.0
+22,469,2004,Kharif,Dry ginger,33.0,57.0
+22,492,1999,Kharif,Dry ginger,570.0,1030.0
+22,492,2000,Kharif,Dry ginger,260.0,470.0
+22,492,2001,Kharif,Dry ginger,480.0,860.0
+22,492,2002,Kharif,Dry ginger,480.0,910.0
+22,492,2003,Kharif,Dry ginger,250.0,470.0
+22,492,2004,Kharif,Dry ginger,294.0,555.0
+22,511,1999,Kharif,Dry ginger,580.0,1150.0
+22,511,2000,Kharif,Dry ginger,410.0,790.0
+22,511,2001,Kharif,Dry ginger,430.0,830.0
+22,511,2002,Kharif,Dry ginger,580.0,1100.0
+22,511,2003,Kharif,Dry ginger,600.0,1130.0
+22,511,2004,Kharif,Dry ginger,697.0,1317.0
+22,556,2001,Kharif,Dry ginger,80.0,150.0
+22,556,2002,Kharif,Dry ginger,10.0,10.0
+22,556,2003,Kharif,Dry ginger,20.0,20.0
+22,556,2004,Kharif,Dry ginger,22.0,26.0
+22,571,1999,Kharif,Dry ginger,590.0,1040.0
+22,571,2000,Kharif,Dry ginger,590.0,1180.0
+22,571,2001,Kharif,Dry ginger,610.0,1230.0
+22,571,2002,Kharif,Dry ginger,730.0,1380.0
+22,571,2003,Kharif,Dry ginger,530.0,1000.0
+22,571,2004,Kharif,Dry ginger,552.0,1044.0
+23,290,1999,Kharif,Dry ginger,34.0,21.0
+23,290,2000,Kharif,Dry ginger,103.0,52.0
+23,290,2001,Kharif,Dry ginger,38.0,4.0
+23,290,2003,Kharif,Dry ginger,38.0,4.0
+23,367,2000,Kharif,Dry ginger,21.0,13.0
+23,460,1999,Kharif,Dry ginger,96.0,71.0
+23,460,2000,Kharif,Dry ginger,103.0,52.0
+23,460,2001,Kharif,Dry ginger,133.0,85.0
+23,460,2003,Kharif,Dry ginger,149.0,152.0
+23,643,1999,Kharif,Dry ginger,3.0,2.0
+25,15,2003,Kharif,Dry ginger,1.0,1.0
+25,55,2001,Kharif,Dry ginger,2.0,1.0
+25,55,2007,Kharif,Dry ginger,1.0,
+25,55,2008,Kharif,Dry ginger,13.0,4.0
+25,58,2000,Kharif,Dry ginger,1.0,1.0
+25,58,2001,Kharif,Dry ginger,5.0,5.0
+25,58,2002,Kharif,Dry ginger,4.0,2.0
+25,58,2003,Kharif,Dry ginger,2.0,4.0
+25,58,2004,Kharif,Dry ginger,4.0,16.0
+25,58,2005,Kharif,Dry ginger,10.0,33.0
+25,58,2006,Kharif,Dry ginger,24.0,63.0
+25,58,2007,Kharif,Dry ginger,17.0,37.0
+25,58,2008,Kharif,Dry ginger,9.0,25.0
+25,58,2009,Kharif,Dry ginger,9.0,30.0
+25,58,2010,Kharif,Dry ginger,27.0,33.0
+25,123,2006,Kharif,Dry ginger,1.0,
+25,168,1999,Kharif,Dry ginger,2.0,12.0
+25,168,2000,Kharif,Dry ginger,14.0,9.0
+25,168,2001,Kharif,Dry ginger,2.0,12.0
+25,168,2002,Kharif,Dry ginger,4.0,24.0
+25,168,2003,Kharif,Dry ginger,2.0,12.0
+25,168,2004,Kharif,Dry ginger,3.0,18.0
+25,168,2006,Kharif,Dry ginger,1.0,6.0
+25,168,2008,Kharif,Dry ginger,25.0,126.0
+25,168,2009,Kharif,Dry ginger,25.0,126.0
+25,168,2010,Kharif,Dry ginger,24.0,144.0
+25,264,2000,Kharif,Dry ginger,1.0,1.0
+25,264,2001,Kharif,Dry ginger,1.0,1.0
+25,264,2005,Kharif,Dry ginger,1.0,1.0
+25,264,2006,Kharif,Dry ginger,1.0,1.0
+25,332,2003,Kharif,Dry ginger,3.0,5.0
+25,464,2008,Kharif,Dry ginger,2.0,
+25,521,2007,Kharif,Dry ginger,1.0,
+25,602,1998,Whole Year,Dry ginger,299.0,415.0
+25,602,1999,Kharif,Dry ginger,325.0,1113.0
+25,602,2000,Kharif,Dry ginger,345.0,970.0
+25,602,2001,Kharif,Dry ginger,251.0,1083.0
+25,602,2002,Kharif,Dry ginger,173.0,614.0
+25,602,2003,Kharif,Dry ginger,127.0,561.0
+25,602,2004,Kharif,Dry ginger,79.0,140.0
+25,602,2005,Kharif,Dry ginger,94.0,175.0
+25,602,2006,Kharif,Dry ginger,122.0,107.0
+25,602,2007,Kharif,Dry ginger,112.0,224.0
+25,602,2008,Kharif,Dry ginger,114.0,207.0
+25,602,2009,Kharif,Dry ginger,133.0,316.0
+25,602,2010,Kharif,Dry ginger,159.0,282.0
+27,126,2004,Kharif,Dry ginger,1.0,19.0
+27,126,2008,Whole Year,Dry ginger,2.0,40.0
+27,126,2009,Whole Year,Dry ginger,2.0,32.0
+27,126,2011,Whole Year,Dry ginger,1.0,11.0
+27,150,1997,Whole Year,Dry ginger,13.0,410.0
+27,150,1998,Kharif,Dry ginger,1.0,32.0
+27,150,2002,Whole Year,Dry ginger,1.0,16.0
+27,163,1997,Whole Year,Dry ginger,18.0,570.0
+27,163,1998,Kharif,Dry ginger,10.0,317.0
+27,163,1999,Kharif,Dry ginger,15.0,335.0
+27,163,2000,Kharif,Dry ginger,27.0,715.0
+27,163,2002,Whole Year,Dry ginger,2.0,32.0
+27,163,2003,Kharif,Dry ginger,5.0,71.0
+27,163,2004,Kharif,Dry ginger,3.0,58.0
+27,163,2005,Kharif,Dry ginger,2.0,39.0
+27,163,2006,Whole Year,Dry ginger,2.0,37.0
+27,163,2007,Whole Year,Dry ginger,3.0,56.0
+27,163,2008,Whole Year,Dry ginger,16.0,320.0
+27,163,2009,Whole Year,Dry ginger,17.0,273.0
+27,163,2011,Whole Year,Dry ginger,1.0,11.0
+27,179,1997,Whole Year,Dry ginger,2.0,60.0
+27,179,1998,Kharif,Dry ginger,2.0,63.0
+27,179,1999,Kharif,Dry ginger,1.0,27.0
+27,179,2000,Kharif,Dry ginger,4.0,106.0
+27,179,2005,Kharif,Dry ginger,3.0,58.0
+27,179,2006,Whole Year,Dry ginger,11.0,205.0
+27,179,2007,Whole Year,Dry ginger,14.0,267.0
+27,179,2008,Whole Year,Dry ginger,5.0,100.0
+27,179,2009,Whole Year,Dry ginger,3.0,48.0
+27,179,2011,Whole Year,Dry ginger,4.0,44.0
+27,179,2013,Whole Year,Dry ginger,3.0,21.0
+27,285,1997,Whole Year,Dry ginger,9.0,290.0
+27,285,1998,Kharif,Dry ginger,27.0,855.0
+27,285,1999,Kharif,Dry ginger,20.0,530.0
+27,285,2000,Kharif,Dry ginger,2.0,53.0
+27,285,2002,Whole Year,Dry ginger,17.0,273.0
+27,285,2003,Kharif,Dry ginger,13.0,184.0
+27,285,2004,Kharif,Dry ginger,5.0,97.0
+27,285,2005,Kharif,Dry ginger,11.0,212.0
+27,285,2006,Whole Year,Dry ginger,9.0,168.0
+27,285,2007,Whole Year,Dry ginger,15.0,286.0
+27,285,2008,Whole Year,Dry ginger,73.0,1460.0
+27,285,2009,Whole Year,Dry ginger,14.0,225.0
+27,285,2011,Whole Year,Dry ginger,10.0,110.0
+27,285,2013,Whole Year,Dry ginger,5.0,35.0
+27,336,2002,Whole Year,Dry ginger,2.0,32.0
+27,336,2004,Kharif,Dry ginger,2.0,39.0
+27,336,2005,Kharif,Dry ginger,2.0,39.0
+27,336,2006,Whole Year,Dry ginger,1.0,19.0
+27,336,2007,Whole Year,Dry ginger,1.0,19.0
+27,336,2008,Whole Year,Dry ginger,1.0,20.0
+27,414,2002,Whole Year,Dry ginger,10.0,160.0
+27,414,2003,Kharif,Dry ginger,11.0,156.0
+27,414,2006,Whole Year,Dry ginger,32.0,596.0
+27,414,2011,Whole Year,Dry ginger,186.0,2054.0
+27,508,1999,Kharif,Dry ginger,2.0,53.0
+27,508,2002,Whole Year,Dry ginger,1.0,16.0
+27,508,2008,Whole Year,Dry ginger,1.0,20.0
+27,508,2011,Whole Year,Dry ginger,1.0,11.0
+27,583,1997,Whole Year,Dry ginger,2.0,60.0
+27,583,2002,Whole Year,Dry ginger,2.0,32.0
+27,583,2003,Kharif,Dry ginger,1.0,14.0
+27,583,2004,Kharif,Dry ginger,1.0,19.0
+27,583,2005,Kharif,Dry ginger,12.0,232.0
+27,583,2006,Whole Year,Dry ginger,3.0,56.0
+27,583,2007,Whole Year,Dry ginger,3.0,57.0
+27,583,2008,Whole Year,Dry ginger,5.0,100.0
+27,583,2011,Whole Year,Dry ginger,6.0,66.0
+27,583,2013,Whole Year,Dry ginger,2.0,14.0
+27,584,1997,Whole Year,Dry ginger,522.0,16540.0
+27,584,1998,Kharif,Dry ginger,555.0,17581.0
+27,584,1999,Kharif,Dry ginger,422.0,11198.0
+27,584,2000,Kharif,Dry ginger,26.0,688.0
+27,584,2002,Whole Year,Dry ginger,372.0,5960.0
+27,584,2003,Kharif,Dry ginger,364.0,5160.0
+27,584,2004,Kharif,Dry ginger,562.0,10844.0
+27,584,2005,Kharif,Dry ginger,629.0,12136.0
+27,584,2006,Whole Year,Dry ginger,609.0,11350.0
+27,584,2007,Whole Year,Dry ginger,588.0,11194.0
+27,584,2008,Whole Year,Dry ginger,714.0,14280.0
+27,584,2009,Whole Year,Dry ginger,828.0,13289.0
+27,584,2011,Whole Year,Dry ginger,407.0,4494.0
+27,584,2013,Whole Year,Dry ginger,283.0,1970.0
+27,585,1999,Kharif,Dry ginger,1.0,26.0
+27,595,1997,Whole Year,Dry ginger,4.0,130.0
+27,595,1998,Kharif,Dry ginger,5.0,158.0
+27,595,1999,Kharif,Dry ginger,7.0,185.0
+27,595,2000,Kharif,Dry ginger,35.0,927.0
+27,595,2002,Whole Year,Dry ginger,9.0,144.0
+27,595,2003,Kharif,Dry ginger,1.0,14.0
+27,595,2005,Kharif,Dry ginger,1.0,19.0
+27,595,2006,Whole Year,Dry ginger,2.0,37.0
+27,595,2011,Whole Year,Dry ginger,19.0,210.0
+27,595,2013,Whole Year,Dry ginger,7.0,49.0
+27,601,1997,Whole Year,Dry ginger,5.0,160.0
+27,621,2007,Whole Year,Dry ginger,1.0,19.0
+27,621,2013,Whole Year,Dry ginger,4.0,28.0
+27,624,2000,Kharif,Dry ginger,1.0,26.0
+28,295,2000,Whole Year,Dry ginger,76.0,297.0
+28,295,2001,Whole Year,Dry ginger,2.0,5.0
+28,295,2008,Whole Year,Dry ginger,14.0,99.0
+28,295,2009,Whole Year,Dry ginger,14.0,126.0
+28,295,2010,Whole Year,Dry ginger,24.0,224.0
+28,295,2011,Whole Year,Dry ginger,2.0,18.0
+28,295,2013,Whole Year,Dry ginger,8.0,52.0
+28,385,2000,Whole Year,Dry ginger,767.0,2998.0
+28,385,2001,Whole Year,Dry ginger,1096.0,2497.0
+28,385,2002,Whole Year,Dry ginger,593.0,970.0
+28,385,2003,Whole Year,Dry ginger,756.0,2410.0
+28,385,2004,Whole Year,Dry ginger,768.0,7238.0
+28,385,2005,Whole Year,Dry ginger,1068.0,12663.0
+28,385,2006,Whole Year,Dry ginger,1320.0,6919.0
+28,385,2008,Whole Year,Dry ginger,1237.0,8751.0
+28,385,2009,Whole Year,Dry ginger,1641.0,14725.0
+28,385,2010,Whole Year,Dry ginger,1561.0,18549.0
+28,385,2011,Whole Year,Dry ginger,1417.0,17056.0
+28,385,2013,Whole Year,Dry ginger,1713.0,12346.0
+28,428,2000,Whole Year,Dry ginger,42.0,164.0
+28,428,2001,Whole Year,Dry ginger,54.0,123.0
+28,428,2002,Whole Year,Dry ginger,46.0,75.0
+28,428,2003,Whole Year,Dry ginger,38.0,121.0
+28,428,2004,Whole Year,Dry ginger,38.0,358.0
+28,428,2005,Whole Year,Dry ginger,18.0,213.0
+28,428,2006,Whole Year,Dry ginger,24.0,126.0
+28,428,2008,Whole Year,Dry ginger,18.0,127.0
+28,428,2009,Whole Year,Dry ginger,21.0,189.0
+28,428,2010,Whole Year,Dry ginger,2.0,19.0
+28,428,2011,Whole Year,Dry ginger,4.0,36.0
+28,489,2000,Whole Year,Dry ginger,70.0,273.0
+28,489,2001,Whole Year,Dry ginger,62.0,141.0
+28,489,2002,Whole Year,Dry ginger,50.0,82.0
+28,489,2003,Whole Year,Dry ginger,49.0,156.0
+28,489,2004,Whole Year,Dry ginger,59.0,556.0
+28,489,2005,Whole Year,Dry ginger,68.0,806.0
+28,489,2006,Whole Year,Dry ginger,73.0,382.0
+28,489,2008,Whole Year,Dry ginger,105.0,743.0
+28,489,2009,Whole Year,Dry ginger,53.0,488.0
+28,489,2010,Whole Year,Dry ginger,135.0,1259.0
+28,489,2011,Whole Year,Dry ginger,212.0,1958.0
+28,489,2013,Whole Year,Dry ginger,50.0,331.0
+28,627,2000,Whole Year,Dry ginger,90.0,352.0
+28,627,2001,Whole Year,Dry ginger,30.0,68.0
+28,627,2002,Whole Year,Dry ginger,10.0,16.0
+28,627,2003,Whole Year,Dry ginger,1.0,3.0
+30,4,2006,Kharif,Dry ginger,1.0,3.0
+30,11,2006,Kharif,Dry ginger,1.0,3.0
+30,11,2007,Kharif,Dry ginger,1.0,2.0
+30,17,2007,Kharif,Dry ginger,5.0,11.0
+30,17,2010,Kharif,Dry ginger,1.0,3.0
+30,22,2006,Kharif,Dry ginger,1.0,3.0
+30,35,2006,Kharif,Dry ginger,8.0,25.0
+30,35,2010,Kharif,Dry ginger,2.0,5.0
+30,35,2011,Kharif,Dry ginger,2.0,6.0
+30,39,2007,Kharif,Dry ginger,6.0,14.0
+30,39,2009,Kharif,Dry ginger,1.0,3.0
+30,39,2010,Kharif,Dry ginger,1.0,3.0
+30,40,2006,Kharif,Dry ginger,176.0,541.0
+30,40,2007,Kharif,Dry ginger,139.0,315.0
+30,40,2009,Kharif,Dry ginger,82.0,246.0
+30,40,2010,Kharif,Dry ginger,48.0,137.0
+30,40,2011,Kharif,Dry ginger,51.0,145.0
+30,40,2012,Kharif,Dry ginger,56.0,274.0
+30,40,2013,Kharif,Dry ginger,69.0,354.0
+30,40,2014,Kharif,Dry ginger,64.0,295.0
+30,45,2006,Kharif,Dry ginger,1.0,3.0
+30,60,2006,Kharif,Dry ginger,1.0,3.0
+30,97,2007,Kharif,Dry ginger,1.0,2.0
+30,144,2006,Kharif,Dry ginger,6.0,19.0
+30,144,2010,Kharif,Dry ginger,1.0,3.0
+30,144,2011,Kharif,Dry ginger,2.0,6.0
+30,188,2009,Kharif,Dry ginger,1.0,3.0
+30,190,2009,Kharif,Dry ginger,4.0,12.0
+30,204,2007,Kharif,Dry ginger,3.0,7.0
+30,204,2010,Kharif,Dry ginger,1.0,3.0
+30,204,2011,Kharif,Dry ginger,1.0,3.0
+30,210,2006,Kharif,Dry ginger,4.0,13.0
+30,210,2009,Kharif,Dry ginger,7.0,21.0
+30,210,2010,Kharif,Dry ginger,1.0,3.0
+30,210,2011,Kharif,Dry ginger,1.0,3.0
+30,213,2006,Kharif,Dry ginger,5.0,15.0
+30,213,2010,Kharif,Dry ginger,1.0,3.0
+30,213,2011,Kharif,Dry ginger,1.0,3.0
+30,226,2006,Kharif,Dry ginger,2.0,6.0
+30,226,2010,Kharif,Dry ginger,1.0,3.0
+30,265,2006,Kharif,Dry ginger,117.0,360.0
+30,265,2007,Kharif,Dry ginger,165.0,373.0
+30,265,2009,Kharif,Dry ginger,89.0,267.0
+30,265,2010,Kharif,Dry ginger,89.0,253.0
+30,265,2011,Kharif,Dry ginger,79.0,225.0
+30,265,2012,Kharif,Dry ginger,52.0,255.0
+30,265,2013,Kharif,Dry ginger,63.0,323.0
+30,265,2014,Kharif,Dry ginger,35.0,161.0
+30,288,2012,Kharif,Dry ginger,32.0,157.0
+30,311,2006,Kharif,Dry ginger,8.0,25.0
+30,311,2007,Kharif,Dry ginger,8.0,19.0
+30,311,2009,Kharif,Dry ginger,4.0,12.0
+30,311,2010,Kharif,Dry ginger,9.0,25.0
+30,311,2011,Kharif,Dry ginger,15.0,42.0
+30,311,2012,Kharif,Dry ginger,25.0,122.0
+30,311,2013,Kharif,Dry ginger,12.0,62.0
+30,311,2014,Kharif,Dry ginger,14.0,65.0
+30,343,2007,Kharif,Dry ginger,4.0,9.0
+30,343,2010,Kharif,Dry ginger,2.0,5.0
+30,343,2011,Kharif,Dry ginger,2.0,5.0
+30,343,2012,Kharif,Dry ginger,6.0,29.0
+30,343,2013,Kharif,Dry ginger,2.0,10.0
+30,343,2014,Kharif,Dry ginger,3.0,14.0
+30,347,2006,Kharif,Dry ginger,539.0,1657.0
+30,347,2007,Kharif,Dry ginger,560.0,1268.0
+30,347,2009,Kharif,Dry ginger,593.0,1781.0
+30,347,2010,Kharif,Dry ginger,729.0,2073.0
+30,347,2011,Kharif,Dry ginger,688.0,1952.0
+30,347,2012,Kharif,Dry ginger,642.0,3142.0
+30,347,2013,Kharif,Dry ginger,663.0,3399.0
+30,347,2014,Kharif,Dry ginger,826.0,3810.0
+30,364,2006,Kharif,Dry ginger,2.0,6.0
+30,364,2007,Kharif,Dry ginger,1.0,2.0
+30,364,2010,Kharif,Dry ginger,1.0,3.0
+30,364,2011,Kharif,Dry ginger,1.0,3.0
+30,383,2006,Kharif,Dry ginger,3.0,9.0
+30,383,2010,Kharif,Dry ginger,1.0,3.0
+30,390,2006,Kharif,Dry ginger,1.0,3.0
+30,458,2007,Kharif,Dry ginger,4.0,9.0
+30,458,2010,Kharif,Dry ginger,1.0,3.0
+30,472,2009,Kharif,Dry ginger,5.0,15.0
+30,504,2006,Kharif,Dry ginger,9.0,28.0
+30,504,2010,Kharif,Dry ginger,2.0,5.0
+30,504,2011,Kharif,Dry ginger,2.0,6.0
+30,504,2012,Kharif,Dry ginger,4.0,20.0
+30,504,2013,Kharif,Dry ginger,4.0,20.0
+30,515,2007,Kharif,Dry ginger,1.0,2.0
+30,516,2010,Kharif,Dry ginger,2.0,5.0
+30,516,2011,Kharif,Dry ginger,2.0,6.0
+30,516,2012,Kharif,Dry ginger,5.0,24.0
+30,516,2014,Kharif,Dry ginger,2.0,9.0
+30,549,2006,Kharif,Dry ginger,1.0,3.0
+30,549,2007,Kharif,Dry ginger,1.0,2.0
+30,555,2007,Kharif,Dry ginger,1.0,
+30,612,2006,Kharif,Dry ginger,1.0,3.0
+31,14,2000,Whole Year,Dry ginger,121.0,1109.0
+31,14,2001,Whole Year,Dry ginger,195.0,1755.0
+31,14,2002,Whole Year,Dry ginger,112.0,952.0
+31,14,2003,Whole Year,Dry ginger,135.0,1215.0
+31,14,2004,Whole Year,Dry ginger,69.0,656.0
+31,14,2005,Whole Year,Dry ginger,170.0,1530.0
+31,14,2006,Whole Year,Dry ginger,118.0,1003.0
+31,14,2007,Whole Year,Dry ginger,146.0,1168.0
+31,14,2008,Whole Year,Dry ginger,89.0,846.0
+31,14,2009,Whole Year,Dry ginger,538.0,5111.0
+31,14,2010,Whole Year,Dry ginger,202.0,1616.0
+31,38,2000,Whole Year,Dry ginger,5.0,55.0
+31,38,2001,Whole Year,Dry ginger,15.0,165.0
+31,38,2002,Whole Year,Dry ginger,10.0,112.0
+31,38,2003,Whole Year,Dry ginger,10.0,110.0
+31,38,2004,Whole Year,Dry ginger,8.0,88.0
+31,38,2005,Whole Year,Dry ginger,7.0,77.0
+31,38,2006,Whole Year,Dry ginger,6.0,66.0
+31,38,2007,Whole Year,Dry ginger,11.0,129.0
+31,38,2008,Whole Year,Dry ginger,9.0,72.0
+31,38,2009,Whole Year,Dry ginger,21.0,60.0
+31,38,2010,Whole Year,Dry ginger,5.0,43.0
+31,106,2000,Whole Year,Dry ginger,7.0,36.0
+31,106,2002,Whole Year,Dry ginger,3.0,22.0
+31,106,2004,Whole Year,Dry ginger,6.0,48.0
+31,106,2005,Whole Year,Dry ginger,1.0,8.0
+31,106,2006,Whole Year,Dry ginger,5.0,38.0
+31,106,2007,Whole Year,Dry ginger,2.0,14.0
+31,106,2008,Whole Year,Dry ginger,1.0,8.0
+31,106,2009,Whole Year,Dry ginger,4.0,32.0
+31,106,2010,Whole Year,Dry ginger,3.0,23.0
+31,107,2000,Whole Year,Dry ginger,260.0,2860.0
+31,107,2001,Whole Year,Dry ginger,165.0,1815.0
+31,107,2002,Whole Year,Dry ginger,230.0,2530.0
+31,107,2003,Whole Year,Dry ginger,180.0,1350.0
+31,107,2004,Whole Year,Dry ginger,283.0,2264.0
+31,107,2005,Whole Year,Dry ginger,566.0,4245.0
+31,107,2006,Whole Year,Dry ginger,345.0,2933.0
+31,107,2007,Whole Year,Dry ginger,307.0,2456.0
+31,107,2008,Whole Year,Dry ginger,604.0,9704.0
+31,107,2009,Whole Year,Dry ginger,404.0,2848.0
+31,107,2010,Whole Year,Dry ginger,479.0,3802.0
+31,141,2000,Whole Year,Dry ginger,753.0,7062.0
+31,141,2001,Whole Year,Dry ginger,679.0,6355.0
+31,141,2002,Whole Year,Dry ginger,646.0,6333.0
+31,141,2003,Whole Year,Dry ginger,1269.0,10437.0
+31,141,2004,Whole Year,Dry ginger,883.0,7296.0
+31,141,2005,Whole Year,Dry ginger,823.0,7443.0
+31,141,2006,Whole Year,Dry ginger,531.0,5221.0
+31,141,2007,Whole Year,Dry ginger,646.0,7047.0
+31,141,2008,Whole Year,Dry ginger,643.0,8982.0
+31,141,2009,Whole Year,Dry ginger,630.0,6188.0
+31,141,2010,Whole Year,Dry ginger,567.0,6036.0
+31,227,2000,Whole Year,Dry ginger,4.0,34.0
+31,227,2002,Whole Year,Dry ginger,1.0,
+31,410,2000,Whole Year,Dry ginger,274.0,2193.0
+31,410,2001,Whole Year,Dry ginger,325.0,2785.0
+31,410,2002,Whole Year,Dry ginger,334.0,2926.0
+31,410,2003,Whole Year,Dry ginger,239.0,1889.0
+31,410,2004,Whole Year,Dry ginger,236.0,2120.0
+31,410,2005,Whole Year,Dry ginger,337.0,2651.0
+31,410,2006,Whole Year,Dry ginger,315.0,2835.0
+31,410,2007,Whole Year,Dry ginger,271.0,2575.0
+31,410,2008,Whole Year,Dry ginger,317.0,2669.0
+31,410,2009,Whole Year,Dry ginger,237.0,2000.0
+31,410,2010,Whole Year,Dry ginger,402.0,4026.0
+31,454,2000,Whole Year,Dry ginger,15.0,138.0
+31,454,2001,Whole Year,Dry ginger,32.0,277.0
+31,454,2002,Whole Year,Dry ginger,16.0,131.0
+31,454,2003,Whole Year,Dry ginger,30.0,270.0
+31,454,2004,Whole Year,Dry ginger,27.0,257.0
+31,454,2005,Whole Year,Dry ginger,28.0,252.0
+31,454,2006,Whole Year,Dry ginger,67.0,503.0
+31,454,2007,Whole Year,Dry ginger,47.0,376.0
+31,454,2008,Whole Year,Dry ginger,82.0,779.0
+31,454,2009,Whole Year,Dry ginger,51.0,485.0
+31,454,2010,Whole Year,Dry ginger,78.0,509.0
+31,459,2000,Whole Year,Dry ginger,66.0,275.0
+31,459,2001,Whole Year,Dry ginger,55.0,293.0
+31,459,2002,Whole Year,Dry ginger,87.0,422.0
+31,459,2003,Whole Year,Dry ginger,102.0,408.0
+31,459,2004,Whole Year,Dry ginger,107.0,482.0
+31,459,2005,Whole Year,Dry ginger,63.0,252.0
+31,459,2006,Whole Year,Dry ginger,69.0,518.0
+31,459,2007,Whole Year,Dry ginger,66.0,200.0
+31,459,2008,Whole Year,Dry ginger,75.0,525.0
+31,459,2009,Whole Year,Dry ginger,83.0,304.0
+31,459,2010,Whole Year,Dry ginger,108.0,702.0
+31,499,2001,Whole Year,Dry ginger,6.0,18.0
+31,499,2002,Whole Year,Dry ginger,9.0,
+31,499,2003,Whole Year,Dry ginger,1.0,10.0
+31,499,2006,Whole Year,Dry ginger,2.0,18.0
+31,499,2007,Whole Year,Dry ginger,1.0,10.0
+31,499,2008,Whole Year,Dry ginger,5.0,49.0
+31,499,2009,Whole Year,Dry ginger,1.0,9.0
+31,581,2000,Whole Year,Dry ginger,112.0,1941.0
+31,581,2001,Whole Year,Dry ginger,179.0,2775.0
+31,581,2002,Whole Year,Dry ginger,159.0,2295.0
+31,581,2003,Whole Year,Dry ginger,121.0,2178.0
+31,581,2004,Whole Year,Dry ginger,216.0,3456.0
+31,581,2005,Whole Year,Dry ginger,208.0,3744.0
+31,581,2006,Whole Year,Dry ginger,198.0,2475.0
+31,581,2007,Whole Year,Dry ginger,143.0,1830.0
+31,581,2008,Whole Year,Dry ginger,240.0,2105.0
+31,581,2009,Whole Year,Dry ginger,158.0,1833.0
+31,581,2010,Whole Year,Dry ginger,158.0,1559.0
+31,604,2001,Whole Year,Dry ginger,3.0,27.0
+31,604,2002,Whole Year,Dry ginger,5.0,
+31,604,2003,Whole Year,Dry ginger,6.0,42.0
+31,604,2004,Whole Year,Dry ginger,13.0,91.0
+31,604,2005,Whole Year,Dry ginger,18.0,117.0
+31,604,2006,Whole Year,Dry ginger,8.0,108.0
+31,604,2007,Whole Year,Dry ginger,1.0,14.0
+31,616,2000,Whole Year,Dry ginger,2.0,22.0
+31,616,2001,Whole Year,Dry ginger,6.0,67.0
+31,616,2002,Whole Year,Dry ginger,6.0,65.0
+31,616,2003,Whole Year,Dry ginger,1.0,11.0
+31,616,2004,Whole Year,Dry ginger,1.0,12.0
+31,616,2005,Whole Year,Dry ginger,1.0,11.0
+31,616,2006,Whole Year,Dry ginger,4.0,44.0
+31,616,2007,Whole Year,Dry ginger,9.0,95.0
+31,616,2008,Whole Year,Dry ginger,3.0,34.0
+31,616,2009,Whole Year,Dry ginger,5.0,57.0
+31,616,2010,Whole Year,Dry ginger,3.0,29.0
+32,0,1998,Kharif,Dry ginger,287.0,409.0
+32,0,1999,Kharif,Dry ginger,256.0,358.0
+32,0,2000,Kharif,Dry ginger,248.0,233.0
+32,0,2001,Kharif,Dry ginger,267.0,253.0
+32,0,2002,Kharif,Dry ginger,269.0,283.0
+32,0,2003,Kharif,Dry ginger,271.0,288.0
+32,0,2004,Kharif,Dry ginger,277.0,489.0
+32,0,2005,Kharif,Dry ginger,270.0,645.0
+32,0,2006,Kharif,Dry ginger,312.0,674.0
+32,0,2007,Kharif,Dry ginger,336.0,748.0
+32,0,2008,Kharif,Dry ginger,347.0,748.0
+32,1,1998,Kharif,Dry ginger,85.0,26.0
+32,1,1999,Kharif,Dry ginger,134.0,450.0
+32,1,2000,Kharif,Dry ginger,219.0,88.0
+32,1,2001,Kharif,Dry ginger,94.0,38.0
+32,1,2002,Kharif,Dry ginger,260.0,182.0
+32,1,2003,Kharif,Dry ginger,257.0,231.0
+32,1,2004,Kharif,Dry ginger,275.0,540.0
+32,1,2005,Kharif,Dry ginger,295.0,374.0
+32,1,2006,Kharif,Dry ginger,307.0,360.0
+32,1,2007,Kharif,Dry ginger,205.0,270.0
+32,1,2008,Kharif,Dry ginger,220.0,270.0
+32,54,1998,Kharif,Dry ginger,160.0,66.0
+32,54,1999,Kharif,Dry ginger,154.0,72.0
+32,54,2000,Kharif,Dry ginger,108.0,213.0
+32,54,2001,Kharif,Dry ginger,125.0,224.0
+32,54,2002,Kharif,Dry ginger,171.0,315.0
+32,54,2003,Kharif,Dry ginger,134.0,268.0
+32,54,2004,Kharif,Dry ginger,184.0,325.0
+32,54,2005,Kharif,Dry ginger,225.0,421.0
+32,54,2006,Kharif,Dry ginger,270.0,484.0
+32,54,2007,Kharif,Dry ginger,270.0,484.0
+32,54,2008,Kharif,Dry ginger,270.0,424.0
+32,59,1998,Kharif,Dry ginger,48.0,63.0
+32,59,1999,Kharif,Dry ginger,123.0,161.0
+32,59,2000,Kharif,Dry ginger,113.0,164.0
+32,59,2001,Kharif,Dry ginger,156.0,356.0
+32,59,2002,Kharif,Dry ginger,126.0,233.0
+32,59,2003,Kharif,Dry ginger,143.0,254.0
+32,59,2004,Kharif,Dry ginger,128.0,226.0
+32,59,2005,Kharif,Dry ginger,148.0,279.0
+32,59,2006,Kharif,Dry ginger,176.0,326.0
+32,59,2007,Kharif,Dry ginger,181.0,346.0
+32,59,2008,Kharif,Dry ginger,181.0,346.0
+32,92,1998,Kharif,Dry ginger,360.0,720.0
+32,92,1999,Kharif,Dry ginger,263.0,526.0
+32,92,2000,Kharif,Dry ginger,311.0,622.0
+32,92,2001,Kharif,Dry ginger,275.0,578.0
+32,92,2002,Kharif,Dry ginger,286.0,601.0
+32,92,2003,Kharif,Dry ginger,293.0,453.0
+32,92,2004,Kharif,Dry ginger,294.0,619.0
+32,92,2005,Kharif,Dry ginger,346.0,508.0
+32,92,2006,Kharif,Dry ginger,349.0,541.0
+32,92,2007,Kharif,Dry ginger,710.0,1174.0
+32,92,2008,Kharif,Dry ginger,780.0,1410.0
+32,127,1998,Kharif,Dry ginger,400.0,800.0
+32,127,1999,Kharif,Dry ginger,400.0,800.0
+32,127,2000,Kharif,Dry ginger,445.0,1112.0
+32,127,2001,Kharif,Dry ginger,350.0,875.0
+32,127,2002,Kharif,Dry ginger,365.0,913.0
+32,127,2003,Kharif,Dry ginger,400.0,1000.0
+32,127,2004,Kharif,Dry ginger,420.0,1050.0
+32,127,2005,Kharif,Dry ginger,420.0,1050.0
+32,127,2006,Kharif,Dry ginger,450.0,1170.0
+32,127,2007,Kharif,Dry ginger,590.0,1685.0
+32,127,2008,Kharif,Dry ginger,595.0,1686.0
+32,136,1998,Kharif,Dry ginger,2041.0,5772.0
+32,136,1999,Kharif,Dry ginger,2049.0,5967.0
+32,136,2000,Kharif,Dry ginger,2054.0,6025.0
+32,136,2001,Kharif,Dry ginger,2017.0,6142.0
+32,136,2002,Kharif,Dry ginger,2019.0,6158.0
+32,136,2003,Kharif,Dry ginger,2034.0,6197.0
+32,136,2004,Kharif,Dry ginger,2034.0,6197.0
+32,136,2005,Kharif,Dry ginger,239.0,681.0
+32,136,2006,Kharif,Dry ginger,2052.0,6259.0
+32,136,2007,Kharif,Dry ginger,2063.0,6690.0
+32,136,2008,Kharif,Dry ginger,2102.0,6774.0
+32,161,1998,Kharif,Dry ginger,276.0,343.0
+32,161,1999,Kharif,Dry ginger,274.0,358.0
+32,161,2000,Kharif,Dry ginger,275.0,356.0
+32,161,2001,Kharif,Dry ginger,280.0,365.0
+32,161,2002,Kharif,Dry ginger,280.0,366.0
+32,161,2003,Kharif,Dry ginger,255.0,339.0
+32,161,2004,Kharif,Dry ginger,253.0,344.0
+32,161,2005,Kharif,Dry ginger,180.0,218.0
+32,161,2006,Kharif,Dry ginger,137.0,169.0
+32,161,2007,Kharif,Dry ginger,137.0,179.0
+32,161,2008,Kharif,Dry ginger,137.0,278.0
+32,162,1998,Kharif,Dry ginger,975.0,2284.0
+32,162,1999,Kharif,Dry ginger,745.0,2038.0
+32,162,2000,Kharif,Dry ginger,687.0,1965.0
+32,162,2001,Kharif,Dry ginger,785.0,1897.0
+32,162,2002,Kharif,Dry ginger,1006.0,4863.0
+32,162,2003,Kharif,Dry ginger,880.0,2281.0
+32,162,2004,Kharif,Dry ginger,676.0,1720.0
+32,162,2005,Kharif,Dry ginger,752.0,1775.0
+32,162,2006,Kharif,Dry ginger,685.0,1627.0
+32,162,2007,Kharif,Dry ginger,1038.0,2535.0
+32,162,2008,Kharif,Dry ginger,1197.0,2630.0
+32,234,1998,Kharif,Dry ginger,73.0,66.0
+32,234,1999,Kharif,Dry ginger,63.0,51.0
+32,234,2000,Kharif,Dry ginger,83.0,75.0
+32,234,2001,Kharif,Dry ginger,102.0,82.0
+32,234,2002,Kharif,Dry ginger,69.0,94.0
+32,234,2003,Kharif,Dry ginger,78.0,124.0
+32,234,2004,Kharif,Dry ginger,83.0,134.0
+32,234,2005,Kharif,Dry ginger,83.0,134.0
+32,234,2006,Kharif,Dry ginger,83.0,134.0
+32,234,2007,Kharif,Dry ginger,81.0,74.0
+32,234,2008,Kharif,Dry ginger,81.0,74.0
+32,237,1998,Kharif,Dry ginger,33.0,46.0
+32,237,1999,Kharif,Dry ginger,28.0,38.0
+32,237,2000,Kharif,Dry ginger,34.0,45.0
+32,237,2001,Kharif,Dry ginger,27.0,37.0
+32,237,2002,Kharif,Dry ginger,34.0,47.0
+32,237,2003,Kharif,Dry ginger,48.0,71.0
+32,237,2004,Kharif,Dry ginger,41.0,62.0
+32,237,2005,Kharif,Dry ginger,47.0,65.0
+32,237,2006,Kharif,Dry ginger,34.0,47.0
+32,237,2007,Kharif,Dry ginger,35.0,44.0
+32,237,2008,Kharif,Dry ginger,35.0,44.0
+32,253,1998,Kharif,Dry ginger,1320.0,2251.0
+32,253,1999,Kharif,Dry ginger,1415.0,2448.0
+32,253,2000,Kharif,Dry ginger,1430.0,2402.0
+32,253,2001,Kharif,Dry ginger,1435.0,2411.0
+32,253,2002,Kharif,Dry ginger,985.0,1773.0
+32,253,2003,Kharif,Dry ginger,1220.0,2300.0
+32,253,2004,Kharif,Dry ginger,1323.0,2712.0
+32,253,2005,Kharif,Dry ginger,1307.0,2997.0
+32,253,2006,Kharif,Dry ginger,1307.0,2997.0
+32,253,2007,Kharif,Dry ginger,1356.0,3174.0
+32,253,2008,Kharif,Dry ginger,1459.0,3374.0
+32,373,1998,Kharif,Dry ginger,285.0,296.0
+32,373,1999,Kharif,Dry ginger,370.0,414.0
+32,373,2000,Kharif,Dry ginger,405.0,470.0
+32,373,2001,Kharif,Dry ginger,340.0,408.0
+32,373,2002,Kharif,Dry ginger,340.0,408.0
+32,373,2003,Kharif,Dry ginger,340.0,408.0
+32,373,2004,Kharif,Dry ginger,157.0,207.0
+32,373,2005,Kharif,Dry ginger,160.0,220.0
+32,373,2006,Kharif,Dry ginger,139.0,190.0
+32,373,2007,Kharif,Dry ginger,215.0,339.0
+32,373,2008,Kharif,Dry ginger,215.0,339.0
+32,386,1998,Kharif,Dry ginger,1235.0,1765.0
+32,386,1999,Kharif,Dry ginger,1147.0,1614.0
+32,386,2000,Kharif,Dry ginger,1255.0,1791.0
+32,386,2002,Kharif,Dry ginger,1083.0,1341.0
+32,386,2004,Kharif,Dry ginger,1143.0,1688.0
+32,386,2005,Kharif,Dry ginger,1150.0,1814.0
+32,386,2006,Kharif,Dry ginger,1160.0,1840.0
+32,386,2007,Kharif,Dry ginger,1165.0,1853.0
+32,386,2008,Kharif,Dry ginger,1185.0,1853.0
+32,387,1998,Kharif,Dry ginger,1388.0,3498.0
+32,387,1999,Kharif,Dry ginger,1170.0,2984.0
+32,387,2000,Kharif,Dry ginger,1080.0,2916.0
+32,387,2001,Kharif,Dry ginger,1295.0,1832.0
+32,387,2002,Kharif,Dry ginger,1538.0,2010.0
+32,387,2003,Kharif,Dry ginger,1145.0,1555.0
+32,387,2004,Kharif,Dry ginger,1355.0,1850.0
+32,387,2005,Kharif,Dry ginger,1621.0,2177.0
+32,387,2006,Kharif,Dry ginger,1835.0,2523.0
+32,387,2007,Kharif,Dry ginger,1835.0,2523.0
+32,387,2008,Kharif,Dry ginger,1635.0,2523.0
+32,400,1998,Kharif,Dry ginger,174.0,159.0
+32,400,1999,Kharif,Dry ginger,236.0,253.0
+32,400,2000,Kharif,Dry ginger,255.0,336.0
+32,400,2001,Kharif,Dry ginger,268.0,362.0
+32,400,2002,Kharif,Dry ginger,258.0,373.0
+32,400,2003,Kharif,Dry ginger,251.0,363.0
+32,400,2004,Kharif,Dry ginger,209.0,339.0
+32,400,2005,Kharif,Dry ginger,205.0,352.0
+32,400,2006,Kharif,Dry ginger,214.0,387.0
+32,400,2007,Kharif,Dry ginger,240.0,570.0
+32,400,2008,Kharif,Dry ginger,270.0,510.0
+32,405,1998,Kharif,Dry ginger,168.0,143.0
+32,405,1999,Kharif,Dry ginger,245.0,219.0
+32,405,2000,Kharif,Dry ginger,200.0,29.0
+32,405,2001,Kharif,Dry ginger,188.0,160.0
+32,405,2002,Kharif,Dry ginger,163.0,176.0
+32,405,2003,Kharif,Dry ginger,157.0,184.0
+32,405,2004,Kharif,Dry ginger,157.0,184.0
+32,405,2005,Kharif,Dry ginger,130.0,148.0
+32,405,2006,Kharif,Dry ginger,172.0,205.0
+32,405,2007,Kharif,Dry ginger,198.0,255.0
+32,405,2008,Kharif,Dry ginger,210.0,355.0
+32,471,1998,Kharif,Dry ginger,90.0,132.0
+32,471,1999,Kharif,Dry ginger,93.0,139.0
+32,471,2000,Kharif,Dry ginger,126.0,56.0
+32,471,2001,Kharif,Dry ginger,129.0,50.0
+32,471,2002,Kharif,Dry ginger,131.0,70.0
+32,471,2003,Kharif,Dry ginger,147.0,103.0
+32,471,2004,Kharif,Dry ginger,116.0,95.0
+32,471,2005,Kharif,Dry ginger,116.0,95.0
+32,471,2006,Kharif,Dry ginger,134.0,128.0
+32,471,2007,Kharif,Dry ginger,212.0,194.0
+32,471,2008,Kharif,Dry ginger,212.0,194.0

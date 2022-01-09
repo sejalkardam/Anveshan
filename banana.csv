@@ -1,0 +1,3210 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+0,427,2000,Whole Year,Banana,176.0,641.0
+0,427,2002,Whole Year,Banana,213.0,1278.0
+0,427,2003,Whole Year,Banana,266.0,1763.0
+0,427,2004,Whole Year,Banana,66.42,404.12
+0,427,2005,Whole Year,Banana,22.0,582.0
+0,427,2006,Whole Year,Banana,198.0,976.0
+0,427,2010,Whole Year,Banana,593.0,3425.0
+0,429,2000,Whole Year,Banana,1531.0,12073.0
+0,429,2006,Whole Year,Banana,957.57,8582.0
+0,429,2010,Whole Year,Banana,657.0,7968.0
+0,559,2002,Whole Year,Banana,1524.0,10882.0
+0,559,2003,Whole Year,Banana,1530.0,11558.0
+0,559,2004,Whole Year,Banana,1912.1,17374.4
+0,559,2005,Whole Year,Banana,1656.8,10251.13
+0,559,2006,Whole Year,Banana,483.0,4150.0
+0,559,2010,Whole Year,Banana,360.0,5517.0
+1,24,2000,Whole Year,Banana,769.0,11693.0
+1,24,2001,Whole Year,Banana,1582.0,462.0
+1,24,2002,Whole Year,Banana,19.0,1006.0
+1,24,2003,Whole Year,Banana,36.0,1302.0
+1,24,2004,Whole Year,Banana,324.0,16897.0
+1,24,2005,Whole Year,Banana,303.0,16231.0
+1,24,2006,Whole Year,Banana,289.0,14141.0
+1,24,2008,Whole Year,Banana,3603.0,160939.0
+1,24,2009,Whole Year,Banana,5010.0,265981.0
+1,24,2010,Whole Year,Banana,4416.0,223825.0
+1,24,2011,Whole Year,Banana,8000.0,505176.0
+1,24,2013,Whole Year,Banana,8661.0,483881.0
+1,122,2000,Whole Year,Banana,953.0,19033.0
+1,122,2001,Whole Year,Banana,1005.0,7156.0
+1,122,2002,Whole Year,Banana,960.0,50841.0
+1,122,2003,Whole Year,Banana,587.0,21222.0
+1,122,2004,Whole Year,Banana,586.0,30560.0
+1,122,2005,Whole Year,Banana,468.0,25070.0
+1,122,2006,Whole Year,Banana,556.0,27205.0
+1,122,2008,Whole Year,Banana,708.0,22390.0
+1,122,2009,Whole Year,Banana,769.0,40826.0
+1,122,2010,Whole Year,Banana,923.0,46782.0
+1,122,2011,Whole Year,Banana,886.0,55948.0
+1,122,2013,Whole Year,Banana,910.0,50203.0
+1,172,2000,Whole Year,Banana,11043.0,124386.0
+1,172,2001,Whole Year,Banana,10258.0,122822.0
+1,172,2002,Whole Year,Banana,7949.0,116270.0
+1,172,2003,Whole Year,Banana,9547.0,67488.0
+1,172,2004,Whole Year,Banana,10324.0,96684.0
+1,172,2005,Whole Year,Banana,15432.0,215971.0
+1,172,2006,Whole Year,Banana,16772.0,295690.0
+1,172,2008,Whole Year,Banana,15363.0,291774.0
+1,172,2009,Whole Year,Banana,16159.0,354092.0
+1,172,2010,Whole Year,Banana,14357.0,392291.0
+1,172,2011,Whole Year,Banana,13620.0,302514.0
+1,172,2013,Whole Year,Banana,12427.0,153871.0
+1,217,2000,Whole Year,Banana,7612.0,141059.0
+1,217,2001,Whole Year,Banana,7967.0,204939.0
+1,217,2002,Whole Year,Banana,6720.0,151697.0
+1,217,2003,Whole Year,Banana,5681.0,42238.0
+1,217,2004,Whole Year,Banana,6340.0,180798.0
+1,217,2005,Whole Year,Banana,6263.0,164925.0
+1,217,2006,Whole Year,Banana,5653.0,173479.0
+1,217,2008,Whole Year,Banana,5519.0,174969.0
+1,217,2009,Whole Year,Banana,5177.0,122452.0
+1,217,2010,Whole Year,Banana,5045.0,151597.0
+1,217,2011,Whole Year,Banana,5595.0,216308.0
+1,217,2013,Whole Year,Banana,5574.0,211734.0
+1,274,2000,Whole Year,Banana,3620.0,161828.0
+1,274,2001,Whole Year,Banana,4074.0,132748.0
+1,274,2002,Whole Year,Banana,4574.0,299574.0
+1,274,2003,Whole Year,Banana,3771.0,158827.0
+1,274,2004,Whole Year,Banana,3396.0,197474.0
+1,274,2005,Whole Year,Banana,2978.0,196691.0
+1,274,2006,Whole Year,Banana,4440.0,275653.0
+1,274,2008,Whole Year,Banana,4058.0,221705.0
+1,274,2009,Whole Year,Banana,5985.0,381424.0
+1,274,2010,Whole Year,Banana,8706.0,488607.0
+1,274,2011,Whole Year,Banana,7900.0,518880.0
+1,274,2013,Whole Year,Banana,8438.0,497926.0
+1,335,2000,Whole Year,Banana,1363.0,26208.0
+1,335,2001,Whole Year,Banana,1556.0,3946.0
+1,335,2002,Whole Year,Banana,1346.0,20586.0
+1,335,2003,Whole Year,Banana,1249.0,15574.0
+1,335,2004,Whole Year,Banana,1543.0,19223.0
+1,335,2005,Whole Year,Banana,1601.0,27059.0
+1,335,2006,Whole Year,Banana,1509.0,29004.0
+1,335,2008,Whole Year,Banana,1475.0,40328.0
+1,335,2009,Whole Year,Banana,1632.0,35124.0
+1,335,2010,Whole Year,Banana,1465.0,33847.0
+1,335,2011,Whole Year,Banana,1180.0,35937.0
+1,335,2013,Whole Year,Banana,1266.0,45738.0
+1,340,2000,Whole Year,Banana,2327.0,32282.0
+1,340,2001,Whole Year,Banana,2704.0,29845.0
+1,340,2002,Whole Year,Banana,1862.0,49164.0
+1,340,2003,Whole Year,Banana,2960.0,23820.0
+1,340,2004,Whole Year,Banana,1302.0,37774.0
+1,340,2005,Whole Year,Banana,1234.0,28942.0
+1,340,2006,Whole Year,Banana,2128.0,45722.0
+1,340,2008,Whole Year,Banana,2227.0,59036.0
+1,340,2009,Whole Year,Banana,2253.0,55933.0
+1,340,2010,Whole Year,Banana,2018.0,54942.0
+1,340,2011,Whole Year,Banana,612.0,18621.0
+1,340,2013,Whole Year,Banana,1632.0,51539.0
+1,463,2000,Whole Year,Banana,615.0,12085.0
+1,463,2001,Whole Year,Banana,511.0,8370.0
+1,463,2002,Whole Year,Banana,538.0,10429.0
+1,463,2003,Whole Year,Banana,82.0,794.0
+1,463,2004,Whole Year,Banana,89.0,1793.0
+1,463,2005,Whole Year,Banana,90.0,1510.0
+1,463,2006,Whole Year,Banana,95.0,1890.0
+1,463,2008,Whole Year,Banana,452.0,9320.0
+1,463,2009,Whole Year,Banana,382.0,8794.0
+1,463,2010,Whole Year,Banana,292.0,7444.0
+1,463,2011,Whole Year,Banana,430.0,11455.0
+1,463,2013,Whole Year,Banana,487.0,9561.0
+1,566,2000,Whole Year,Banana,567.0,8154.0
+1,566,2001,Whole Year,Banana,479.0,8030.0
+1,566,2002,Whole Year,Banana,521.0,10099.0
+1,566,2003,Whole Year,Banana,485.0,4699.0
+1,566,2004,Whole Year,Banana,458.0,8480.0
+1,566,2005,Whole Year,Banana,470.0,7887.0
+1,566,2006,Whole Year,Banana,667.0,13271.0
+1,566,2008,Whole Year,Banana,860.0,17733.0
+1,566,2009,Whole Year,Banana,1196.0,27534.0
+1,566,2010,Whole Year,Banana,1278.0,32579.0
+1,566,2011,Whole Year,Banana,1177.0,18284.0
+1,566,2013,Whole Year,Banana,816.0,25764.0
+1,567,2000,Whole Year,Banana,1226.0,17335.0
+1,567,2001,Whole Year,Banana,1132.0,14223.0
+1,567,2002,Whole Year,Banana,765.0,14829.0
+1,567,2003,Whole Year,Banana,535.0,3003.0
+1,567,2004,Whole Year,Banana,1365.0,17524.0
+1,567,2005,Whole Year,Banana,1174.0,19700.0
+1,567,2006,Whole Year,Banana,2131.0,42401.0
+1,567,2008,Whole Year,Banana,1977.0,40766.0
+1,567,2009,Whole Year,Banana,1404.0,32323.0
+1,567,2010,Whole Year,Banana,853.0,21745.0
+1,567,2011,Whole Year,Banana,2039.0,54319.0
+1,567,2013,Whole Year,Banana,2422.0,47549.0
+1,625,2000,Whole Year,Banana,2747.0,50705.0
+1,625,2001,Whole Year,Banana,2431.0,18798.0
+1,625,2002,Whole Year,Banana,1594.0,27219.0
+1,625,2003,Whole Year,Banana,1452.0,17908.0
+1,625,2004,Whole Year,Banana,1508.0,32706.0
+1,625,2005,Whole Year,Banana,1484.0,21692.0
+1,625,2006,Whole Year,Banana,1609.0,12177.0
+1,625,2008,Whole Year,Banana,1271.0,13108.0
+1,625,2009,Whole Year,Banana,1005.0,29626.0
+1,625,2010,Whole Year,Banana,1182.0,18459.0
+1,625,2011,Whole Year,Banana,1355.0,22833.0
+1,625,2013,Whole Year,Banana,1409.0,27661.0
+1,626,2000,Whole Year,Banana,5985.0,59183.0
+1,626,2001,Whole Year,Banana,6173.0,77495.0
+1,626,2002,Whole Year,Banana,4684.0,97277.0
+1,626,2003,Whole Year,Banana,4645.0,106645.0
+1,626,2004,Whole Year,Banana,5591.0,136806.0
+1,626,2005,Whole Year,Banana,5246.0,127446.0
+1,626,2006,Whole Year,Banana,5137.0,103233.0
+1,626,2008,Whole Year,Banana,7735.0,135293.0
+1,626,2009,Whole Year,Banana,7755.0,145608.0
+1,626,2010,Whole Year,Banana,7835.0,167277.0
+1,626,2011,Whole Year,Banana,7433.0,133645.0
+1,626,2013,Whole Year,Banana,7124.0,77367.0
+1,633,2000,Whole Year,Banana,8081.0,116102.0
+1,633,2001,Whole Year,Banana,8264.0,99790.0
+1,633,2002,Whole Year,Banana,5547.0,123149.0
+1,633,2003,Whole Year,Banana,5712.0,24247.0
+1,633,2004,Whole Year,Banana,6051.0,156479.0
+1,633,2005,Whole Year,Banana,8130.0,76707.0
+1,633,2006,Whole Year,Banana,7427.0,144648.0
+1,633,2008,Whole Year,Banana,7334.0,142470.0
+1,633,2009,Whole Year,Banana,7631.0,219223.0
+1,633,2010,Whole Year,Banana,8420.0,212967.0
+1,633,2011,Whole Year,Banana,10098.0,348290.0
+1,633,2013,Whole Year,Banana,9460.0,205367.0
+3,41,2005,Whole Year,Banana,1191.0,17437.0
+3,41,2006,Whole Year,Banana,2131.0,31200.0
+3,41,2007,Whole Year,Banana,2157.0,31581.0
+3,41,2008,Whole Year,Banana,1712.0,25065.0
+3,41,2009,Rabi,Banana,1733.0,25373.0
+3,41,2009,Whole Year,Banana,1733.0,25373.0
+3,41,2010,Rabi,Banana,680.0,9956.0
+3,41,2010,Whole Year,Banana,680.0,9956.0
+3,41,2011,Whole Year,Banana,1250.0,19425.0
+3,41,2012,Whole Year,Banana,695.0,11495.0
+3,41,2013,Whole Year,Banana,1250.0,20675.0
+3,41,2014,Whole Year,Banana,1250.0,20675.0
+3,64,1998,Whole Year,Banana,5130.0,77207.0
+3,64,1999,Whole Year,Banana,5130.0,77207.0
+3,64,2000,Whole Year,Banana,5131.0,77222.0
+3,64,2001,Whole Year,Banana,5134.0,77267.0
+3,64,2002,Whole Year,Banana,3170.0,47709.0
+3,64,2003,Whole Year,Banana,3205.0,48235.0
+3,64,2005,Whole Year,Banana,2417.0,36376.0
+3,64,2006,Whole Year,Banana,2451.0,36888.0
+3,64,2007,Whole Year,Banana,2300.0,34615.0
+3,64,2008,Whole Year,Banana,2210.0,33040.0
+3,64,2009,Rabi,Banana,2329.0,34975.0
+3,64,2009,Whole Year,Banana,2329.0,34975.0
+3,64,2010,Rabi,Banana,1979.0,29697.0
+3,64,2010,Whole Year,Banana,1979.0,29697.0
+3,64,2011,Whole Year,Banana,2469.0,38079.0
+3,64,2012,Whole Year,Banana,2280.0,35650.0
+3,64,2013,Whole Year,Banana,2395.0,37448.0
+3,64,2014,Whole Year,Banana,2531.0,39575.0
+3,95,1998,Whole Year,Banana,882.0,10713.0
+3,95,1999,Whole Year,Banana,899.0,10927.0
+3,95,2000,Whole Year,Banana,867.0,10548.0
+3,95,2001,Whole Year,Banana,892.0,10843.0
+3,95,2002,Whole Year,Banana,906.0,11018.0
+3,95,2003,Whole Year,Banana,942.0,11458.0
+3,95,2005,Whole Year,Banana,817.0,9895.0
+3,95,2006,Whole Year,Banana,631.0,7629.0
+3,95,2007,Whole Year,Banana,665.0,8050.0
+3,95,2008,Whole Year,Banana,647.0,8411.0
+3,95,2009,Rabi,Banana,638.0,7940.0
+3,95,2009,Whole Year,Banana,638.0,7940.0
+3,95,2010,Rabi,Banana,660.0,8299.0
+3,95,2010,Whole Year,Banana,660.0,8299.0
+3,95,2011,Whole Year,Banana,670.0,9016.0
+3,95,2012,Whole Year,Banana,695.0,10050.0
+3,95,2013,Whole Year,Banana,708.0,10238.0
+3,95,2014,Whole Year,Banana,780.0,11279.0
+3,103,1998,Whole Year,Banana,2900.0,35409.0
+3,103,1999,Whole Year,Banana,2400.0,29299.0
+3,103,2000,Whole Year,Banana,3024.0,36911.0
+3,103,2001,Whole Year,Banana,3125.0,38150.0
+3,103,2002,Whole Year,Banana,3130.0,38211.0
+3,103,2003,Whole Year,Banana,3145.0,37740.0
+3,103,2005,Whole Year,Banana,2674.0,32460.0
+3,103,2006,Whole Year,Banana,2662.0,32313.0
+3,103,2007,Whole Year,Banana,3128.0,37971.0
+3,103,2008,Whole Year,Banana,2881.0,38893.0
+3,103,2009,Rabi,Banana,2970.0,37401.0
+3,103,2009,Whole Year,Banana,2970.0,37401.0
+3,103,2010,Rabi,Banana,2888.0,36756.0
+3,103,2010,Whole Year,Banana,2888.0,36756.0
+3,103,2011,Whole Year,Banana,2832.0,49983.0
+3,103,2012,Whole Year,Banana,2892.0,51437.0
+3,103,2013,Whole Year,Banana,3075.0,54692.0
+3,103,2014,Whole Year,Banana,3144.0,55919.0
+3,119,2005,Whole Year,Banana,527.0,6382.0
+3,119,2006,Whole Year,Banana,525.0,6347.0
+3,119,2007,Whole Year,Banana,532.0,6440.0
+3,119,2008,Whole Year,Banana,571.0,7509.0
+3,119,2009,Rabi,Banana,578.0,7196.0
+3,119,2009,Whole Year,Banana,578.0,7196.0
+3,119,2010,Rabi,Banana,418.0,5258.0
+3,119,2010,Whole Year,Banana,418.0,5258.0
+3,119,2011,Whole Year,Banana,512.0,6912.0
+3,119,2012,Whole Year,Banana,647.0,10652.0
+3,119,2013,Whole Year,Banana,763.0,12562.0
+3,119,2014,Whole Year,Banana,872.0,14356.0
+3,137,1998,Whole Year,Banana,1810.0,23479.0
+3,137,1999,Whole Year,Banana,1890.0,24511.0
+3,137,2000,Whole Year,Banana,1950.0,25290.0
+3,137,2001,Whole Year,Banana,1850.0,24001.0
+3,137,2002,Whole Year,Banana,1950.0,25292.0
+3,137,2003,Whole Year,Banana,1920.0,24908.0
+3,137,2005,Whole Year,Banana,1470.0,19110.0
+3,137,2006,Whole Year,Banana,257.0,3341.0
+3,137,2007,Whole Year,Banana,1041.0,13533.0
+3,137,2008,Whole Year,Banana,1031.0,14640.0
+3,137,2009,Rabi,Banana,1487.0,19926.0
+3,137,2009,Whole Year,Banana,1487.0,19926.0
+3,137,2010,Rabi,Banana,1604.0,21678.0
+3,137,2010,Whole Year,Banana,1604.0,21678.0
+3,137,2011,Whole Year,Banana,1610.0,23377.0
+3,137,2012,Whole Year,Banana,1626.0,23788.0
+3,137,2013,Whole Year,Banana,1800.0,26334.0
+3,137,2014,Whole Year,Banana,1638.0,23964.0
+3,152,1998,Whole Year,Banana,946.0,14941.0
+3,152,1999,Whole Year,Banana,949.0,14156.0
+3,152,2000,Whole Year,Banana,999.0,14958.0
+3,152,2001,Whole Year,Banana,1010.0,15326.0
+3,152,2002,Whole Year,Banana,1042.0,15743.0
+3,152,2003,Whole Year,Banana,1050.0,16006.0
+3,152,2005,Whole Year,Banana,937.0,14392.0
+3,152,2006,Whole Year,Banana,1005.0,15749.0
+3,152,2007,Whole Year,Banana,983.0,15329.0
+3,152,2008,Whole Year,Banana,1022.0,14350.0
+3,152,2009,Rabi,Banana,1308.0,20132.0
+3,152,2009,Whole Year,Banana,1308.0,20132.0
+3,152,2010,Rabi,Banana,1260.0,19040.0
+3,152,2010,Whole Year,Banana,1260.0,19040.0
+3,152,2011,Whole Year,Banana,1238.0,10099.0
+3,152,2012,Whole Year,Banana,800.0,13173.0
+3,152,2013,Whole Year,Banana,1455.0,23958.0
+3,152,2014,Whole Year,Banana,1505.0,24781.0
+3,155,1998,Whole Year,Banana,1661.0,25438.0
+3,155,1999,Whole Year,Banana,1683.0,25776.0
+3,155,2000,Whole Year,Banana,1691.0,25930.0
+3,155,2001,Whole Year,Banana,1329.0,20309.0
+3,155,2002,Whole Year,Banana,1371.0,20968.0
+3,155,2003,Whole Year,Banana,1223.0,18712.0
+3,155,2005,Whole Year,Banana,1100.0,16850.0
+3,155,2006,Whole Year,Banana,921.0,14085.0
+3,155,2007,Whole Year,Banana,926.0,14163.0
+3,155,2008,Whole Year,Banana,853.0,12218.0
+3,155,2009,Rabi,Banana,870.0,13042.0
+3,155,2009,Whole Year,Banana,870.0,13042.0
+3,155,2010,Rabi,Banana,965.0,14358.0
+3,155,2010,Whole Year,Banana,965.0,14358.0
+3,155,2011,Whole Year,Banana,1000.0,14539.0
+3,155,2012,Whole Year,Banana,1108.0,17119.0
+3,155,2013,Whole Year,Banana,1141.0,17629.0
+3,155,2014,Whole Year,Banana,1161.0,17937.0
+3,158,1998,Whole Year,Banana,565.0,7427.0
+3,158,1999,Whole Year,Banana,517.0,6796.0
+3,158,2000,Whole Year,Banana,614.0,8071.0
+3,158,2001,Whole Year,Banana,1200.0,15774.0
+3,158,2002,Whole Year,Banana,1210.0,15905.0
+3,158,2003,Whole Year,Banana,1212.0,15932.0
+3,158,2005,Whole Year,Banana,1184.0,15564.0
+3,158,2006,Whole Year,Banana,1220.0,16037.0
+3,158,2007,Whole Year,Banana,525.0,6901.0
+3,158,2008,Whole Year,Banana,516.0,8250.0
+3,158,2009,Rabi,Banana,502.0,7075.0
+3,158,2009,Whole Year,Banana,502.0,7075.0
+3,158,2010,Rabi,Banana,646.0,9305.0
+3,158,2010,Whole Year,Banana,646.0,9305.0
+3,158,2011,Whole Year,Banana,621.0,10082.0
+3,158,2012,Whole Year,Banana,720.0,12475.0
+3,158,2013,Whole Year,Banana,705.0,12215.0
+3,158,2014,Whole Year,Banana,735.0,12735.0
+3,159,1998,Whole Year,Banana,500.0,7250.0
+3,159,1999,Whole Year,Banana,525.0,7613.0
+3,159,2000,Whole Year,Banana,430.0,6235.0
+3,159,2001,Whole Year,Banana,537.0,7786.0
+3,159,2002,Whole Year,Banana,550.0,7975.0
+3,159,2003,Whole Year,Banana,600.0,8700.0
+3,159,2005,Whole Year,Banana,605.0,8773.0
+3,159,2006,Whole Year,Banana,610.0,8845.0
+3,159,2007,Whole Year,Banana,730.0,10585.0
+3,159,2008,Whole Year,Banana,720.0,10440.0
+3,159,2009,Rabi,Banana,790.0,11455.0
+3,159,2009,Whole Year,Banana,790.0,11455.0
+3,159,2010,Rabi,Banana,875.0,12688.0
+3,159,2010,Whole Year,Banana,875.0,12688.0
+3,159,2011,Whole Year,Banana,876.0,13140.0
+3,159,2012,Whole Year,Banana,847.0,13726.0
+3,159,2013,Whole Year,Banana,1653.0,26787.0
+3,159,2014,Whole Year,Banana,1915.0,31033.0
+3,206,1998,Whole Year,Banana,1585.0,24515.0
+3,206,1999,Whole Year,Banana,1632.0,25278.0
+3,206,2000,Whole Year,Banana,1632.0,25459.0
+3,206,2001,Whole Year,Banana,1713.0,26581.0
+3,206,2002,Whole Year,Banana,1718.0,26689.0
+3,206,2003,Whole Year,Banana,1713.0,26639.0
+3,206,2005,Whole Year,Banana,2127.0,33054.0
+3,206,2006,Whole Year,Banana,2435.0,37842.0
+3,206,2007,Whole Year,Banana,2235.0,34727.0
+3,206,2008,Whole Year,Banana,2240.0,31360.0
+3,206,2009,Rabi,Banana,2800.0,42092.0
+3,206,2009,Whole Year,Banana,2800.0,42092.0
+3,206,2010,Rabi,Banana,3000.0,44628.0
+3,206,2010,Whole Year,Banana,3000.0,44628.0
+3,206,2011,Whole Year,Banana,3300.0,64043.0
+3,206,2012,Whole Year,Banana,3500.0,56396.0
+3,206,2013,Whole Year,Banana,3800.0,74047.0
+3,206,2014,Whole Year,Banana,3800.0,74047.0
+3,208,1998,Whole Year,Banana,2189.0,30342.0
+3,208,1999,Whole Year,Banana,2234.0,30966.0
+3,208,2000,Whole Year,Banana,2102.0,29136.0
+3,208,2001,Whole Year,Banana,2103.0,29150.0
+3,208,2002,Whole Year,Banana,2112.0,29274.0
+3,208,2003,Whole Year,Banana,2112.0,29274.0
+3,208,2005,Whole Year,Banana,2695.0,37324.0
+3,208,2006,Whole Year,Banana,2762.0,38254.0
+3,208,2007,Whole Year,Banana,2625.0,36393.0
+3,208,2008,Whole Year,Banana,2812.0,38957.0
+3,208,2009,Rabi,Banana,2955.0,40945.0
+3,208,2009,Whole Year,Banana,2955.0,40945.0
+3,208,2010,Rabi,Banana,3135.0,43443.0
+3,208,2010,Whole Year,Banana,3135.0,43443.0
+3,208,2011,Whole Year,Banana,3126.0,41340.0
+3,208,2012,Whole Year,Banana,3230.0,60908.0
+3,208,2013,Whole Year,Banana,3241.0,74679.0
+3,208,2014,Whole Year,Banana,3109.0,71637.0
+3,221,1998,Whole Year,Banana,1080.0,13403.0
+3,221,1999,Whole Year,Banana,1060.0,13155.0
+3,221,2000,Whole Year,Banana,1000.0,12410.0
+3,221,2001,Whole Year,Banana,1030.0,12782.0
+3,221,2002,Whole Year,Banana,1150.0,14272.0
+3,221,2003,Whole Year,Banana,1200.0,14899.0
+3,221,2005,Whole Year,Banana,1250.0,15515.0
+3,221,2006,Whole Year,Banana,1350.0,16756.0
+3,221,2007,Whole Year,Banana,1400.0,17375.0
+3,221,2008,Whole Year,Banana,1587.0,19996.0
+3,221,2009,Rabi,Banana,1665.0,20769.0
+3,221,2009,Whole Year,Banana,1665.0,20769.0
+3,221,2010,Rabi,Banana,1650.0,20622.0
+3,221,2010,Whole Year,Banana,1650.0,20622.0
+3,221,2011,Whole Year,Banana,1600.0,31763.0
+3,221,2012,Whole Year,Banana,1850.0,21125.0
+3,221,2013,Whole Year,Banana,1820.0,20783.0
+3,221,2014,Whole Year,Banana,1539.0,17574.0
+3,270,1998,Whole Year,Banana,2170.0,29193.0
+3,270,1999,Whole Year,Banana,2414.0,32484.0
+3,270,2000,Whole Year,Banana,2208.0,29713.0
+3,270,2001,Whole Year,Banana,2168.0,29176.0
+3,270,2002,Whole Year,Banana,2640.0,35523.0
+3,270,2003,Whole Year,Banana,2670.0,35927.0
+3,270,2005,Whole Year,Banana,2565.0,34515.0
+3,270,2006,Whole Year,Banana,2411.0,32441.0
+3,270,2007,Whole Year,Banana,2306.0,31028.0
+3,270,2008,Whole Year,Banana,2137.0,30543.0
+3,270,2009,Rabi,Banana,2408.0,33073.0
+3,270,2009,Whole Year,Banana,2408.0,33073.0
+3,270,2010,Rabi,Banana,2152.0,29727.0
+3,270,2010,Whole Year,Banana,2152.0,29727.0
+3,270,2011,Whole Year,Banana,2284.0,33108.0
+3,270,2012,Whole Year,Banana,1967.0,30478.0
+3,270,2013,Whole Year,Banana,1845.0,28588.0
+3,270,2014,Whole Year,Banana,2236.0,34646.0
+3,278,1998,Whole Year,Banana,3342.0,43192.0
+3,278,1999,Whole Year,Banana,2785.0,35978.0
+3,278,2000,Whole Year,Banana,2656.0,34308.0
+3,278,2001,Whole Year,Banana,2690.0,34747.0
+3,278,2002,Whole Year,Banana,2847.0,36779.0
+3,278,2003,Whole Year,Banana,2863.0,36986.0
+3,278,2005,Whole Year,Banana,2472.0,31923.0
+3,278,2006,Whole Year,Banana,2422.0,31304.0
+3,278,2007,Whole Year,Banana,2845.0,36767.0
+3,278,2008,Whole Year,Banana,2903.0,39046.0
+3,278,2009,Rabi,Banana,2530.0,33101.0
+3,278,2009,Whole Year,Banana,2530.0,33101.0
+3,278,2010,Rabi,Banana,2597.0,34169.0
+3,278,2010,Whole Year,Banana,2597.0,34169.0
+3,278,2011,Whole Year,Banana,2616.0,37736.0
+3,278,2012,Whole Year,Banana,2736.0,39771.0
+3,278,2013,Whole Year,Banana,3081.0,44786.0
+3,278,2014,Whole Year,Banana,2961.0,43041.0
+3,279,2005,Whole Year,Banana,380.0,4907.0
+3,279,2006,Whole Year,Banana,500.0,6462.0
+3,279,2007,Whole Year,Banana,420.0,5428.0
+3,279,2008,Whole Year,Banana,455.0,6334.0
+3,279,2009,Rabi,Banana,500.0,6628.0
+3,279,2009,Whole Year,Banana,500.0,6628.0
+3,279,2010,Rabi,Banana,563.0,7530.0
+3,279,2010,Whole Year,Banana,563.0,7530.0
+3,279,2011,Whole Year,Banana,551.0,7912.0
+3,279,2012,Whole Year,Banana,558.0,8722.0
+3,279,2013,Whole Year,Banana,610.0,9534.0
+3,279,2014,Whole Year,Banana,715.0,11175.0
+3,292,1998,Whole Year,Banana,1687.0,22634.0
+3,292,1999,Whole Year,Banana,1687.0,22635.0
+3,292,2000,Whole Year,Banana,1700.0,22817.0
+3,292,2001,Whole Year,Banana,1703.0,22866.0
+3,292,2002,Whole Year,Banana,1711.0,23806.0
+3,292,2003,Whole Year,Banana,1731.0,24204.0
+3,292,2005,Whole Year,Banana,1778.0,24742.0
+3,292,2006,Whole Year,Banana,1842.0,26153.0
+3,292,2007,Whole Year,Banana,1879.0,26303.0
+3,292,2008,Whole Year,Banana,1842.0,25858.0
+3,292,2009,Rabi,Banana,1936.0,27311.0
+3,292,2009,Whole Year,Banana,1936.0,27311.0
+3,292,2010,Rabi,Banana,1934.0,27253.0
+3,292,2010,Whole Year,Banana,1934.0,27253.0
+3,292,2011,Whole Year,Banana,1703.0,26772.0
+3,292,2012,Whole Year,Banana,1813.0,29572.0
+3,292,2013,Whole Year,Banana,1796.0,29294.0
+3,292,2014,Whole Year,Banana,1838.0,29980.0
+3,294,1998,Whole Year,Banana,938.0,11896.0
+3,294,1999,Whole Year,Banana,900.0,11415.0
+3,294,2000,Whole Year,Banana,950.0,12050.0
+3,294,2001,Whole Year,Banana,950.0,12049.0
+3,294,2002,Whole Year,Banana,952.0,12074.0
+3,294,2003,Whole Year,Banana,965.0,12239.0
+3,294,2005,Whole Year,Banana,970.0,12302.0
+3,294,2006,Whole Year,Banana,1610.0,20419.0
+3,294,2007,Whole Year,Banana,1254.0,15904.0
+3,294,2008,Whole Year,Banana,1298.0,16614.0
+3,294,2009,Rabi,Banana,1169.0,14872.0
+3,294,2009,Whole Year,Banana,1169.0,14872.0
+3,294,2010,Rabi,Banana,1186.0,15105.0
+3,294,2010,Whole Year,Banana,1186.0,15105.0
+3,294,2011,Whole Year,Banana,1204.0,15607.0
+3,294,2012,Whole Year,Banana,1284.0,17507.0
+3,294,2013,Whole Year,Banana,1230.0,16771.0
+3,294,2014,Whole Year,Banana,1280.0,17453.0
+3,322,1998,Whole Year,Banana,925.0,15236.0
+3,322,1999,Whole Year,Banana,900.0,14745.0
+3,322,2000,Whole Year,Banana,935.0,15370.0
+3,322,2001,Whole Year,Banana,1002.0,16527.0
+3,322,2002,Whole Year,Banana,945.0,15503.0
+3,322,2003,Whole Year,Banana,848.0,13683.0
+3,322,2005,Whole Year,Banana,846.0,14444.0
+3,322,2006,Whole Year,Banana,1166.0,18852.0
+3,322,2007,Whole Year,Banana,1271.0,20165.0
+3,322,2008,Whole Year,Banana,1260.0,18657.0
+3,322,2009,Rabi,Banana,1298.0,20053.0
+3,322,2009,Whole Year,Banana,1298.0,20053.0
+3,322,2010,Rabi,Banana,1386.0,20733.0
+3,322,2010,Whole Year,Banana,1386.0,20733.0
+3,322,2011,Whole Year,Banana,1390.0,23604.0
+3,322,2012,Whole Year,Banana,1215.0,21848.0
+3,322,2013,Whole Year,Banana,1239.0,22280.0
+3,322,2014,Whole Year,Banana,1318.0,23700.0
+3,345,1998,Whole Year,Banana,1110.0,14430.0
+3,345,1999,Whole Year,Banana,1195.0,15535.0
+3,345,2000,Whole Year,Banana,1456.0,18928.0
+3,345,2001,Whole Year,Banana,1469.0,19097.0
+3,345,2002,Whole Year,Banana,1485.0,19305.0
+3,345,2003,Whole Year,Banana,1498.0,19474.0
+3,345,2005,Whole Year,Banana,1943.0,25259.0
+3,345,2006,Whole Year,Banana,2120.0,27560.0
+3,345,2007,Whole Year,Banana,2276.0,29588.0
+3,345,2008,Whole Year,Banana,4095.0,56514.0
+3,345,2009,Rabi,Banana,1668.0,22130.0
+3,345,2009,Whole Year,Banana,1668.0,22130.0
+3,345,2010,Rabi,Banana,3970.0,53002.0
+3,345,2010,Whole Year,Banana,3970.0,53002.0
+3,345,2011,Whole Year,Banana,2425.0,35028.0
+3,345,2012,Whole Year,Banana,2310.0,37988.0
+3,345,2013,Whole Year,Banana,2717.0,44681.0
+3,345,2014,Whole Year,Banana,2718.0,44697.0
+3,381,1998,Whole Year,Banana,460.0,5520.0
+3,381,1999,Whole Year,Banana,470.0,5640.0
+3,381,2000,Whole Year,Banana,500.0,6000.0
+3,381,2001,Whole Year,Banana,460.0,5520.0
+3,381,2002,Whole Year,Banana,460.0,5566.0
+3,381,2003,Whole Year,Banana,460.0,5566.0
+3,381,2005,Whole Year,Banana,460.0,5566.0
+3,381,2006,Whole Year,Banana,500.0,6050.0
+3,381,2007,Whole Year,Banana,700.0,8470.0
+3,381,2008,Whole Year,Banana,838.0,11145.0
+3,381,2009,Rabi,Banana,1250.0,15625.0
+3,381,2009,Whole Year,Banana,1250.0,15625.0
+3,381,2010,Rabi,Banana,1692.0,21387.0
+3,381,2010,Whole Year,Banana,1692.0,21387.0
+3,381,2011,Whole Year,Banana,1756.0,26902.0
+3,381,2012,Whole Year,Banana,1953.0,31873.0
+3,381,2013,Whole Year,Banana,2010.0,39860.0
+3,381,2014,Whole Year,Banana,1957.0,38809.0
+3,406,1998,Whole Year,Banana,3755.0,56002.0
+3,406,1999,Whole Year,Banana,4370.0,65268.0
+3,406,2000,Whole Year,Banana,4502.0,67236.0
+3,406,2001,Whole Year,Banana,4504.0,67266.0
+3,406,2002,Whole Year,Banana,4552.0,67988.0
+3,406,2003,Whole Year,Banana,4618.0,68957.0
+3,406,2005,Whole Year,Banana,2790.0,41365.0
+3,406,2006,Whole Year,Banana,2874.0,42625.0
+3,406,2007,Whole Year,Banana,3148.0,46755.0
+3,406,2008,Whole Year,Banana,3098.0,42605.0
+3,406,2009,Rabi,Banana,3078.0,44583.0
+3,406,2009,Whole Year,Banana,3078.0,44583.0
+3,406,2010,Rabi,Banana,3238.0,46535.0
+3,406,2010,Whole Year,Banana,3238.0,46535.0
+3,406,2011,Whole Year,Banana,2821.0,37399.0
+3,406,2012,Whole Year,Banana,2805.0,50137.0
+3,406,2013,Whole Year,Banana,2901.0,51853.0
+3,406,2014,Whole Year,Banana,3001.0,53640.0
+3,412,1998,Whole Year,Banana,2000.0,29288.0
+3,412,1999,Whole Year,Banana,2000.0,29284.0
+3,412,2000,Whole Year,Banana,1900.0,27816.0
+3,412,2001,Whole Year,Banana,2000.0,29284.0
+3,412,2002,Whole Year,Banana,2000.0,29282.0
+3,412,2003,Whole Year,Banana,2000.0,29282.0
+3,412,2005,Whole Year,Banana,1440.0,21083.0
+3,412,2006,Whole Year,Banana,1200.0,17569.0
+3,412,2007,Whole Year,Banana,1210.0,17716.0
+3,412,2008,Whole Year,Banana,1250.0,17312.0
+3,412,2009,Rabi,Banana,1280.0,18403.0
+3,412,2009,Whole Year,Banana,1280.0,18403.0
+3,412,2010,Rabi,Banana,1300.0,18572.0
+3,412,2010,Whole Year,Banana,1300.0,18572.0
+3,412,2011,Whole Year,Banana,1280.0,19169.0
+3,412,2012,Whole Year,Banana,1280.0,20448.0
+3,412,2013,Whole Year,Banana,1280.0,20448.0
+3,412,2014,Whole Year,Banana,1074.0,17157.0
+3,551,1998,Whole Year,Banana,1920.0,27412.0
+3,551,1999,Whole Year,Banana,1962.0,27841.0
+3,551,2000,Whole Year,Banana,1980.0,26977.0
+3,551,2001,Whole Year,Banana,2035.0,28543.0
+3,551,2002,Whole Year,Banana,2091.0,28479.0
+3,551,2003,Whole Year,Banana,2062.0,28023.0
+3,551,2005,Whole Year,Banana,1858.0,24663.0
+3,551,2006,Whole Year,Banana,1769.0,23435.0
+3,551,2007,Whole Year,Banana,1528.0,20450.0
+3,551,2008,Whole Year,Banana,1576.0,22194.0
+3,551,2009,Rabi,Banana,1487.0,20148.0
+3,551,2009,Whole Year,Banana,1487.0,20148.0
+3,551,2010,Rabi,Banana,1363.0,18798.0
+3,551,2010,Whole Year,Banana,1363.0,18798.0
+3,551,2011,Whole Year,Banana,1559.0,23984.0
+3,551,2012,Whole Year,Banana,1569.0,25708.0
+3,551,2013,Whole Year,Banana,1510.0,24741.0
+3,551,2014,Whole Year,Banana,1454.0,23823.0
+3,558,1998,Whole Year,Banana,2580.0,32947.0
+3,558,1999,Whole Year,Banana,2585.0,33069.0
+3,558,2000,Whole Year,Banana,2584.0,33073.0
+3,558,2001,Whole Year,Banana,2923.0,38835.0
+3,558,2002,Whole Year,Banana,2876.0,38047.0
+3,558,2003,Whole Year,Banana,3105.0,42611.0
+3,558,2005,Whole Year,Banana,3042.0,40944.0
+3,558,2006,Whole Year,Banana,3365.0,46850.0
+3,558,2007,Whole Year,Banana,3320.0,45885.0
+3,558,2008,Whole Year,Banana,3238.0,40559.0
+3,558,2009,Rabi,Banana,3354.0,44869.0
+3,558,2009,Whole Year,Banana,3354.0,44869.0
+3,558,2010,Rabi,Banana,4035.0,51514.0
+3,558,2010,Whole Year,Banana,4035.0,51514.0
+3,558,2011,Whole Year,Banana,4158.0,72340.0
+3,558,2012,Whole Year,Banana,3974.0,71453.0
+3,558,2013,Whole Year,Banana,4041.0,72658.0
+3,558,2014,Whole Year,Banana,3933.0,70716.0
+3,592,1998,Whole Year,Banana,1750.0,24010.0
+3,592,1999,Whole Year,Banana,1735.0,23805.0
+3,592,2000,Whole Year,Banana,1723.0,23637.0
+3,592,2001,Whole Year,Banana,1773.0,24313.0
+3,592,2002,Whole Year,Banana,1763.0,24187.0
+3,592,2003,Whole Year,Banana,1840.0,25190.0
+3,592,2005,Whole Year,Banana,1879.0,25773.0
+3,592,2006,Whole Year,Banana,1793.0,24589.0
+3,592,2007,Whole Year,Banana,1430.0,19598.0
+3,592,2008,Whole Year,Banana,1625.0,22270.0
+3,592,2009,Rabi,Banana,1856.0,25455.0
+3,592,2009,Whole Year,Banana,1856.0,25455.0
+3,592,2010,Rabi,Banana,1860.0,25510.0
+3,592,2010,Whole Year,Banana,1860.0,25510.0
+3,592,2011,Whole Year,Banana,2112.0,29022.0
+3,592,2012,Whole Year,Banana,2101.0,30402.0
+3,592,2013,Whole Year,Banana,2136.0,30908.0
+3,592,2014,Whole Year,Banana,2147.0,31066.0
+3,603,2005,Whole Year,Banana,550.0,7095.0
+3,603,2006,Whole Year,Banana,718.0,9262.0
+3,603,2007,Whole Year,Banana,1165.0,15029.0
+3,603,2008,Whole Year,Banana,1163.0,16270.0
+3,603,2009,Rabi,Banana,541.0,7175.0
+3,603,2009,Whole Year,Banana,541.0,7175.0
+3,603,2010,Rabi,Banana,592.0,7939.0
+3,603,2010,Whole Year,Banana,592.0,7939.0
+3,603,2011,Whole Year,Banana,600.0,8721.0
+3,603,2012,Whole Year,Banana,608.0,9333.0
+3,603,2013,Whole Year,Banana,604.0,9271.0
+3,603,2014,Whole Year,Banana,668.0,10254.0
+4,29,1997,Whole Year,Banana,386.0,11611.0
+4,29,1998,Whole Year,Banana,381.0,6347.0
+4,29,1999,Whole Year,Banana,132.0,936.0
+4,29,2000,Whole Year,Banana,615.0,2491.0
+4,29,2001,Whole Year,Banana,504.0,14329.0
+4,29,2002,Whole Year,Banana,431.0,3741.0
+4,29,2003,Whole Year,Banana,516.0,4933.0
+4,29,2004,Whole Year,Banana,484.0,3964.0
+4,29,2005,Whole Year,Banana,401.0,5730.0
+4,29,2007,Whole Year,Banana,375.0,4391.0
+4,31,2003,Whole Year,Banana,7.0,116.0
+4,70,1997,Whole Year,Banana,253.0,16324.0
+4,70,1998,Whole Year,Banana,250.0,11923.0
+4,70,1999,Whole Year,Banana,240.0,3238.0
+4,70,2000,Whole Year,Banana,280.0,6835.0
+4,70,2001,Whole Year,Banana,278.0,23786.0
+4,70,2002,Whole Year,Banana,306.0,24560.0
+4,70,2003,Whole Year,Banana,323.0,25039.0
+4,70,2004,Whole Year,Banana,282.0,3615.0
+4,70,2005,Whole Year,Banana,295.0,10829.0
+4,70,2007,Whole Year,Banana,299.0,3908.0
+4,77,1997,Whole Year,Banana,2716.0,42288.0
+4,77,1998,Whole Year,Banana,2367.0,25682.0
+4,77,1999,Whole Year,Banana,1109.0,21980.0
+4,77,2000,Whole Year,Banana,1089.0,10171.0
+4,77,2001,Whole Year,Banana,875.0,7228.0
+4,77,2002,Whole Year,Banana,998.0,2236.0
+4,77,2003,Whole Year,Banana,840.0,2041.0
+4,77,2004,Whole Year,Banana,851.0,1889.0
+4,77,2005,Whole Year,Banana,1098.0,2580.0
+4,77,2007,Whole Year,Banana,851.0,1949.0
+4,135,1997,Whole Year,Banana,86.0,402.0
+4,135,1998,Whole Year,Banana,89.0,743.0
+4,135,1999,Whole Year,Banana,89.0,1072.0
+4,135,2000,Whole Year,Banana,86.0,825.0
+4,135,2001,Whole Year,Banana,88.0,717.0
+4,135,2002,Whole Year,Banana,352.0,6530.0
+4,135,2003,Whole Year,Banana,91.0,894.0
+4,135,2004,Whole Year,Banana,100.0,2372.0
+4,135,2005,Whole Year,Banana,90.0,863.0
+4,135,2007,Whole Year,Banana,84.0,1800.0
+4,202,2000,Whole Year,Banana,30.0,630.0
+4,202,2001,Whole Year,Banana,29.0,651.0
+4,202,2002,Whole Year,Banana,3.0,59.0
+4,202,2003,Whole Year,Banana,2.0,33.0
+4,212,1997,Whole Year,Banana,28.0,678.0
+4,212,1998,Whole Year,Banana,20.0,364.0
+4,212,1999,Whole Year,Banana,13.0,175.0
+4,212,2000,Whole Year,Banana,18.0,378.0
+4,212,2001,Whole Year,Banana,53.0,1190.0
+4,212,2002,Whole Year,Banana,15.0,295.0
+4,212,2003,Whole Year,Banana,13.0,215.0
+4,212,2004,Whole Year,Banana,13.0,167.0
+4,212,2005,Whole Year,Banana,19.0,291.0
+4,212,2007,Whole Year,Banana,23.0,301.0
+4,275,2000,Whole Year,Banana,5.0,105.0
+4,301,1997,Whole Year,Banana,3608.0,85401.0
+4,301,1998,Whole Year,Banana,3619.0,60293.0
+4,301,1999,Whole Year,Banana,2924.0,21141.0
+4,301,2000,Whole Year,Banana,3543.0,166379.0
+4,301,2001,Whole Year,Banana,3362.0,163360.0
+4,301,2002,Whole Year,Banana,4552.0,120400.0
+4,301,2003,Whole Year,Banana,1391.0,27375.0
+4,301,2004,Whole Year,Banana,3437.0,23475.0
+4,301,2005,Whole Year,Banana,3553.0,48108.0
+4,301,2007,Whole Year,Banana,5862.0,56979.0
+4,306,1997,Whole Year,Banana,1376.0,88780.0
+4,306,1998,Whole Year,Banana,1420.0,67720.0
+4,306,1999,Whole Year,Banana,1044.0,14084.0
+4,306,2000,Whole Year,Banana,428.0,10447.0
+4,306,2001,Whole Year,Banana,142.0,2150.0
+4,306,2002,Whole Year,Banana,55.0,4414.0
+4,306,2003,Whole Year,Banana,317.0,24574.0
+4,306,2004,Whole Year,Banana,344.0,4410.0
+4,306,2005,Whole Year,Banana,855.0,31387.0
+4,306,2007,Whole Year,Banana,719.0,9397.0
+4,317,1997,Whole Year,Banana,165.0,3906.0
+4,317,1998,Whole Year,Banana,159.0,2649.0
+4,317,1999,Whole Year,Banana,74.0,525.0
+4,317,2000,Whole Year,Banana,561.0,17935.0
+4,317,2001,Whole Year,Banana,570.0,16205.0
+4,317,2002,Whole Year,Banana,464.0,8904.0
+4,317,2003,Whole Year,Banana,427.0,3484.0
+4,317,2004,Whole Year,Banana,415.0,3386.0
+4,317,2005,Whole Year,Banana,422.0,7516.0
+4,317,2007,Whole Year,Banana,507.0,6236.0
+4,361,1997,Whole Year,Banana,324.0,5965.0
+4,361,1998,Whole Year,Banana,490.0,3655.0
+4,361,1999,Whole Year,Banana,407.0,1783.0
+4,361,2000,Whole Year,Banana,327.0,13855.0
+4,361,2001,Whole Year,Banana,436.0,5768.0
+4,361,2002,Whole Year,Banana,491.0,3167.0
+4,361,2003,Whole Year,Banana,551.0,8673.0
+4,361,2004,Whole Year,Banana,439.0,16296.0
+4,361,2005,Whole Year,Banana,409.0,14209.0
+4,361,2007,Whole Year,Banana,457.0,16420.0
+4,362,1997,Whole Year,Banana,659.0,8020.0
+4,362,1998,Whole Year,Banana,453.0,3783.0
+4,362,1999,Whole Year,Banana,416.0,5009.0
+4,362,2000,Whole Year,Banana,549.0,5265.0
+4,362,2001,Whole Year,Banana,379.0,3089.0
+4,362,2002,Whole Year,Banana,222.0,2178.0
+4,362,2003,Whole Year,Banana,209.0,1747.0
+4,362,2004,Whole Year,Banana,232.0,1861.0
+4,362,2005,Whole Year,Banana,290.0,2781.0
+4,362,2007,Whole Year,Banana,250.0,2005.0
+4,402,1997,Whole Year,Banana,744.0,25653.0
+4,402,1998,Whole Year,Banana,804.0,16088.0
+4,402,1999,Whole Year,Banana,715.0,5527.0
+4,402,2000,Whole Year,Banana,753.0,3517.0
+4,402,2002,Whole Year,Banana,605.0,5971.0
+4,402,2003,Whole Year,Banana,673.0,4011.0
+4,402,2004,Whole Year,Banana,553.0,5016.0
+4,402,2005,Whole Year,Banana,329.0,2109.0
+4,402,2007,Whole Year,Banana,446.0,2997.0
+4,423,2007,Whole Year,Banana,1.0,13.0
+4,448,1997,Whole Year,Banana,314.0,1416.0
+4,448,1998,Whole Year,Banana,294.0,2211.0
+4,448,1999,Whole Year,Banana,351.0,3648.0
+4,448,2000,Whole Year,Banana,296.0,1246.0
+4,448,2001,Whole Year,Banana,194.0,2732.0
+4,448,2002,Whole Year,Banana,170.0,2467.0
+4,448,2003,Whole Year,Banana,171.0,2103.0
+4,448,2004,Whole Year,Banana,175.0,1593.0
+4,448,2005,Whole Year,Banana,216.0,1754.0
+4,448,2007,Whole Year,Banana,188.0,1587.0
+4,468,1997,Whole Year,Banana,506.0,13500.0
+4,468,1998,Whole Year,Banana,494.0,10137.0
+4,468,1999,Whole Year,Banana,537.0,5311.0
+4,468,2000,Whole Year,Banana,359.0,1145.0
+4,468,2001,Whole Year,Banana,346.0,4872.0
+4,468,2002,Whole Year,Banana,393.0,4740.0
+4,468,2003,Whole Year,Banana,392.0,4822.0
+4,468,2004,Whole Year,Banana,377.0,980.0
+4,468,2005,Whole Year,Banana,415.0,6167.0
+4,468,2007,Whole Year,Banana,414.0,6997.0
+4,470,1997,Whole Year,Banana,1683.0,37363.0
+4,470,1998,Whole Year,Banana,1622.0,27023.0
+4,470,1999,Whole Year,Banana,1495.0,10181.0
+4,470,2000,Whole Year,Banana,1232.0,3474.0
+4,470,2001,Whole Year,Banana,2573.0,5352.0
+4,470,2002,Whole Year,Banana,2502.0,19466.0
+4,470,2003,Whole Year,Banana,2065.0,21765.0
+4,470,2004,Whole Year,Banana,1923.0,20422.0
+4,470,2005,Whole Year,Banana,1896.0,49505.0
+4,470,2007,Whole Year,Banana,1712.0,31449.0
+4,505,1997,Whole Year,Banana,19.0,350.0
+4,505,1998,Whole Year,Banana,35.0,261.0
+4,505,1999,Whole Year,Banana,13.0,289.0
+4,505,2000,Whole Year,Banana,139.0,6080.0
+4,505,2001,Whole Year,Banana,42.0,1178.0
+4,505,2002,Whole Year,Banana,52.0,1599.0
+4,505,2003,Whole Year,Banana,38.0,1062.0
+4,505,2004,Whole Year,Banana,11.0,408.0
+4,505,2005,Whole Year,Banana,11.0,382.0
+4,505,2007,Whole Year,Banana,11.0,395.0
+4,509,1997,Whole Year,Banana,1273.0,993.0
+4,509,1998,Whole Year,Banana,1609.0,13435.0
+4,509,1999,Whole Year,Banana,1531.0,18433.0
+4,509,2000,Whole Year,Banana,1652.0,15843.0
+4,509,2001,Whole Year,Banana,1682.0,13708.0
+4,509,2002,Whole Year,Banana,1635.0,32275.0
+4,509,2003,Whole Year,Banana,1641.0,16426.0
+4,509,2004,Whole Year,Banana,1650.0,42785.0
+4,509,2005,Whole Year,Banana,1676.0,16073.0
+4,509,2007,Whole Year,Banana,1663.0,38997.0
+4,518,1997,Whole Year,Banana,212.0,5135.0
+4,518,1998,Whole Year,Banana,46.0,838.0
+4,518,1999,Whole Year,Banana,51.0,688.0
+4,518,2000,Whole Year,Banana,55.0,1155.0
+4,518,2001,Whole Year,Banana,56.0,1257.0
+4,518,2002,Whole Year,Banana,88.0,1730.0
+4,518,2003,Whole Year,Banana,26.0,430.0
+4,518,2004,Whole Year,Banana,57.0,731.0
+4,518,2005,Whole Year,Banana,45.0,690.0
+4,518,2007,Whole Year,Banana,91.0,1189.0
+4,532,1997,Whole Year,Banana,100.0,2539.0
+4,532,1998,Whole Year,Banana,170.0,4029.0
+4,532,1999,Whole Year,Banana,156.0,2510.0
+4,532,2000,Whole Year,Banana,148.0,623.0
+4,532,2001,Whole Year,Banana,138.0,1943.0
+4,532,2002,Whole Year,Banana,134.0,1944.0
+4,532,2003,Whole Year,Banana,139.0,1710.0
+4,532,2004,Whole Year,Banana,147.0,1330.0
+4,532,2005,Whole Year,Banana,95.0,771.0
+4,532,2007,Whole Year,Banana,60.0,506.0
+4,548,1997,Whole Year,Banana,389.0,8671.0
+4,548,1998,Whole Year,Banana,326.0,7726.0
+4,548,1999,Whole Year,Banana,348.0,1660.0
+4,548,2000,Whole Year,Banana,194.0,817.0
+4,548,2001,Whole Year,Banana,172.0,2422.0
+4,548,2002,Whole Year,Banana,171.0,2481.0
+4,548,2003,Whole Year,Banana,204.0,2509.0
+4,548,2004,Whole Year,Banana,345.0,3122.0
+4,548,2005,Whole Year,Banana,201.0,1632.0
+4,548,2007,Whole Year,Banana,249.0,2102.0
+4,552,1997,Whole Year,Banana,90.0,2180.0
+4,552,1998,Whole Year,Banana,96.0,1748.0
+4,552,1999,Whole Year,Banana,52.0,701.0
+4,552,2000,Whole Year,Banana,318.0,6678.0
+4,552,2001,Whole Year,Banana,941.0,14021.0
+4,552,2002,Whole Year,Banana,100.0,1966.0
+4,552,2003,Whole Year,Banana,92.0,1523.0
+4,552,2004,Whole Year,Banana,87.0,1115.0
+4,552,2005,Whole Year,Banana,68.0,1043.0
+4,552,2007,Whole Year,Banana,66.0,863.0
+4,572,1997,Whole Year,Banana,522.0,9610.0
+4,572,1998,Whole Year,Banana,587.0,4379.0
+4,572,1999,Whole Year,Banana,1441.0,39282.0
+4,572,2000,Whole Year,Banana,1297.0,54759.0
+4,572,2001,Whole Year,Banana,1108.0,37528.0
+4,572,2002,Whole Year,Banana,1339.0,53105.0
+4,572,2003,Whole Year,Banana,853.0,30589.0
+4,572,2004,Whole Year,Banana,795.0,29510.0
+4,572,2005,Whole Year,Banana,415.0,14417.0
+4,572,2007,Whole Year,Banana,580.0,20839.0
+4,618,1997,Whole Year,Banana,2728.0,69591.0
+4,618,1998,Whole Year,Banana,2393.0,52287.0
+4,618,1999,Whole Year,Banana,2248.0,49434.0
+4,618,2000,Whole Year,Banana,2212.0,9335.0
+4,618,2001,Whole Year,Banana,2295.0,31556.0
+4,618,2002,Whole Year,Banana,2229.0,36110.0
+4,618,2003,Whole Year,Banana,2026.0,29174.0
+4,618,2004,Whole Year,Banana,2067.0,21125.0
+4,618,2005,Whole Year,Banana,2797.0,20474.0
+4,618,2007,Whole Year,Banana,2964.0,22289.0
+6,46,2011,Whole Year,Banana,16.0,488.0
+6,46,2012,Whole Year,Banana,9.0,155.0
+6,46,2013,Whole Year,Banana,15.0,357.0
+6,46,2014,Whole Year,Banana,15.0,429.0
+6,47,2011,Whole Year,Banana,14.0,562.0
+6,47,2012,Whole Year,Banana,14.0,161.0
+6,47,2013,Whole Year,Banana,11.0,562.0
+6,47,2014,Whole Year,Banana,9.0,394.0
+6,48,2011,Whole Year,Banana,14.0,393.0
+6,48,2012,Whole Year,Banana,11.0,149.0
+6,48,2013,Whole Year,Banana,14.0,361.0
+6,48,2014,Whole Year,Banana,14.0,361.0
+6,66,2000,Whole Year,Banana,51.0,2377.0
+6,66,2001,Whole Year,Banana,96.0,4474.0
+6,66,2002,Whole Year,Banana,42.0,1957.0
+6,66,2003,Whole Year,Banana,56.0,2610.0
+6,66,2004,Whole Year,Banana,53.0,2470.0
+6,66,2005,Whole Year,Banana,62.0,2889.0
+6,66,2006,Whole Year,Banana,47.0,2317.0
+6,66,2007,Whole Year,Banana,63.0,2936.0
+6,66,2008,Whole Year,Banana,43.0,2004.0
+6,66,2009,Whole Year,Banana,57.0,5547.0
+6,66,2010,Whole Year,Banana,61.0,2843.0
+6,66,2011,Whole Year,Banana,87.0,3186.0
+6,66,2012,Whole Year,Banana,92.0,1229.0
+6,66,2013,Whole Year,Banana,74.0,2956.0
+6,66,2014,Whole Year,Banana,66.0,2988.0
+6,73,2011,Whole Year,Banana,111.0,3387.0
+6,73,2012,Whole Year,Banana,111.0,101.0
+6,73,2013,Whole Year,Banana,198.0,6435.0
+6,73,2014,Whole Year,Banana,198.0,7080.0
+6,88,2006,Whole Year,Banana,3.0,
+6,88,2007,Whole Year,Banana,3.0,110.0
+6,88,2008,Whole Year,Banana,3.0,70.0
+6,88,2009,Whole Year,Banana,4.0,327.0
+6,88,2010,Whole Year,Banana,3.0,100.0
+6,88,2011,Whole Year,Banana,6.0,220.0
+6,88,2012,Whole Year,Banana,7.0,140.0
+6,88,2013,Whole Year,Banana,7.0,327.0
+6,88,2014,Whole Year,Banana,6.0,200.0
+6,91,2000,Whole Year,Banana,4.0,143.0
+6,91,2001,Whole Year,Banana,3.0,107.0
+6,91,2002,Whole Year,Banana,7.0,203.0
+6,91,2003,Whole Year,Banana,2.0,68.0
+6,91,2004,Whole Year,Banana,3.0,102.0
+6,91,2005,Whole Year,Banana,6.0,240.0
+6,91,2006,Whole Year,Banana,2.0,68.0
+6,91,2007,Whole Year,Banana,6.0,204.0
+6,91,2008,Whole Year,Banana,7.0,239.0
+6,91,2009,Whole Year,Banana,7.0,512.0
+6,134,2000,Whole Year,Banana,39.0,1508.0
+6,134,2001,Whole Year,Banana,24.0,879.0
+6,134,2002,Whole Year,Banana,69.0,2619.0
+6,134,2003,Whole Year,Banana,35.0,1351.0
+6,134,2004,Whole Year,Banana,63.0,2097.0
+6,134,2005,Whole Year,Banana,91.0,3634.0
+6,134,2006,Whole Year,Banana,70.0,2770.0
+6,134,2007,Whole Year,Banana,94.0,3443.0
+6,134,2008,Whole Year,Banana,82.0,2129.0
+6,134,2009,Whole Year,Banana,82.0,7458.0
+6,134,2010,Whole Year,Banana,78.0,2597.0
+6,134,2011,Whole Year,Banana,38.0,1265.0
+6,134,2012,Whole Year,Banana,42.0,606.0
+6,134,2013,Whole Year,Banana,50.0,2331.0
+6,134,2014,Whole Year,Banana,53.0,1764.0
+6,147,2000,Whole Year,Banana,4.0,220.0
+6,147,2001,Whole Year,Banana,7.0,383.0
+6,147,2002,Whole Year,Banana,13.0,711.0
+6,147,2003,Whole Year,Banana,21.0,1150.0
+6,147,2004,Whole Year,Banana,15.0,821.0
+6,147,2005,Whole Year,Banana,23.0,1007.0
+6,147,2006,Whole Year,Banana,36.0,1576.0
+6,147,2007,Whole Year,Banana,28.0,1226.0
+6,147,2008,Whole Year,Banana,14.0,613.0
+6,147,2009,Whole Year,Banana,27.0,1889.0
+6,147,2010,Whole Year,Banana,14.0,645.0
+6,147,2011,Whole Year,Banana,43.0,1982.0
+6,147,2012,Whole Year,Banana,46.0,1520.0
+6,147,2013,Whole Year,Banana,46.0,2120.0
+6,147,2014,Whole Year,Banana,52.0,2396.0
+6,169,2000,Whole Year,Banana,10.0,324.0
+6,169,2001,Whole Year,Banana,30.0,715.0
+6,169,2002,Whole Year,Banana,14.0,441.0
+6,169,2003,Whole Year,Banana,50.0,1669.0
+6,169,2004,Whole Year,Banana,7.0,230.0
+6,169,2005,Whole Year,Banana,170.0,6079.0
+6,169,2006,Whole Year,Banana,35.0,1135.0
+6,169,2007,Whole Year,Banana,115.0,3728.0
+6,169,2008,Whole Year,Banana,8.0,271.0
+6,169,2009,Whole Year,Banana,126.0,10126.0
+6,169,2010,Whole Year,Banana,151.0,4319.0
+6,169,2011,Whole Year,Banana,89.0,2716.0
+6,169,2012,Whole Year,Banana,60.0,527.0
+6,169,2013,Whole Year,Banana,93.0,3015.0
+6,169,2014,Whole Year,Banana,95.0,3170.0
+6,200,2011,Whole Year,Banana,13.0,522.0
+6,200,2012,Whole Year,Banana,17.0,219.0
+6,200,2013,Whole Year,Banana,20.0,875.0
+6,200,2014,Whole Year,Banana,8.0,350.0
+6,258,2000,Whole Year,Banana,2.0,72.0
+6,258,2001,Whole Year,Banana,1.0,34.0
+6,258,2002,Whole Year,Banana,9.0,306.0
+6,258,2003,Whole Year,Banana,4.0,136.0
+6,258,2004,Whole Year,Banana,7.0,238.0
+6,258,2005,Whole Year,Banana,10.0,341.0
+6,258,2006,Whole Year,Banana,1.0,37.0
+6,258,2007,Whole Year,Banana,10.0,341.0
+6,258,2010,Whole Year,Banana,13.0,517.0
+6,258,2011,Whole Year,Banana,21.0,714.0
+6,258,2012,Whole Year,Banana,35.0,443.0
+6,258,2013,Whole Year,Banana,18.0,613.0
+6,258,2014,Whole Year,Banana,10.0,352.0
+6,259,2000,Whole Year,Banana,1.0,32.0
+6,259,2001,Whole Year,Banana,34.0,1077.0
+6,259,2002,Whole Year,Banana,3.0,93.0
+6,259,2003,Whole Year,Banana,33.0,1063.0
+6,259,2004,Whole Year,Banana,17.0,537.0
+6,259,2005,Whole Year,Banana,17.0,530.0
+6,259,2006,Whole Year,Banana,13.0,411.0
+6,259,2007,Whole Year,Banana,22.0,685.0
+6,259,2008,Whole Year,Banana,21.0,621.0
+6,259,2009,Whole Year,Banana,18.0,1241.0
+6,259,2010,Whole Year,Banana,24.0,747.0
+6,259,2011,Whole Year,Banana,32.0,996.0
+6,259,2012,Whole Year,Banana,29.0,374.0
+6,259,2013,Whole Year,Banana,33.0,1028.0
+6,259,2014,Whole Year,Banana,29.0,903.0
+6,272,2000,Whole Year,Banana,4.0,146.0
+6,272,2001,Whole Year,Banana,5.0,216.0
+6,272,2002,Whole Year,Banana,2.0,91.0
+6,272,2005,Whole Year,Banana,1.0,30.0
+6,272,2011,Whole Year,Banana,18.0,549.0
+6,272,2012,Whole Year,Banana,23.0,
+6,272,2013,Whole Year,Banana,26.0,1110.0
+6,272,2014,Whole Year,Banana,54.0,2469.0
+6,283,2000,Whole Year,Banana,14.0,653.0
+6,283,2001,Whole Year,Banana,16.0,746.0
+6,283,2002,Whole Year,Banana,10.0,267.0
+6,283,2003,Whole Year,Banana,15.0,749.0
+6,283,2004,Whole Year,Banana,6.0,280.0
+6,283,2005,Whole Year,Banana,9.0,419.0
+6,283,2006,Whole Year,Banana,10.0,465.0
+6,283,2007,Whole Year,Banana,11.0,549.0
+6,283,2008,Whole Year,Banana,11.0,512.0
+6,283,2009,Whole Year,Banana,11.0,932.0
+6,283,2010,Whole Year,Banana,7.0,326.0
+6,283,2011,Whole Year,Banana,19.0,506.0
+6,283,2012,Whole Year,Banana,12.0,168.0
+6,283,2013,Whole Year,Banana,13.0,355.0
+6,283,2014,Whole Year,Banana,13.0,433.0
+6,327,2011,Whole Year,Banana,27.0,989.0
+6,327,2012,Whole Year,Banana,25.0,449.0
+6,327,2013,Whole Year,Banana,26.0,1039.0
+6,327,2014,Whole Year,Banana,24.0,959.0
+6,330,2000,Whole Year,Banana,5.0,179.0
+6,330,2001,Whole Year,Banana,3.0,102.0
+6,330,2002,Whole Year,Banana,2.0,58.0
+6,330,2003,Whole Year,Banana,2.0,68.0
+6,330,2004,Whole Year,Banana,4.0,136.0
+6,330,2005,Whole Year,Banana,7.0,217.0
+6,330,2008,Whole Year,Banana,3.0,84.0
+6,330,2011,Whole Year,Banana,2.0,68.0
+6,330,2012,Whole Year,Banana,3.0,
+6,330,2013,Whole Year,Banana,3.0,102.0
+6,330,2014,Whole Year,Banana,3.0,106.0
+6,331,2000,Whole Year,Banana,2.0,60.0
+6,331,2001,Whole Year,Banana,3.0,97.0
+6,331,2003,Whole Year,Banana,1.0,31.0
+6,365,2002,Whole Year,Banana,1.0,45.0
+6,365,2003,Whole Year,Banana,1.0,45.0
+6,365,2007,Whole Year,Banana,4.0,175.0
+6,365,2008,Whole Year,Banana,1.0,37.0
+6,365,2010,Whole Year,Banana,3.0,132.0
+6,365,2011,Whole Year,Banana,7.0,358.0
+6,365,2012,Whole Year,Banana,9.0,
+6,365,2013,Whole Year,Banana,14.0,715.0
+6,365,2014,Whole Year,Banana,19.0,832.0
+6,398,2011,Whole Year,Banana,12.0,409.0
+6,398,2012,Whole Year,Banana,12.0,331.0
+6,398,2013,Whole Year,Banana,13.0,443.0
+6,398,2014,Whole Year,Banana,15.0,554.0
+6,418,2006,Whole Year,Banana,2.0,
+6,418,2007,Whole Year,Banana,3.0,130.0
+6,418,2008,Whole Year,Banana,3.0,70.0
+6,418,2009,Whole Year,Banana,4.0,327.0
+6,418,2010,Whole Year,Banana,4.0,160.0
+6,418,2011,Whole Year,Banana,6.0,200.0
+6,418,2012,Whole Year,Banana,6.0,60.0
+6,418,2013,Whole Year,Banana,4.0,154.0
+6,418,2014,Whole Year,Banana,6.0,240.0
+6,475,2000,Whole Year,Banana,16.0,473.0
+6,475,2001,Whole Year,Banana,15.0,428.0
+6,475,2002,Whole Year,Banana,12.0,342.0
+6,475,2003,Whole Year,Banana,18.0,513.0
+6,475,2004,Whole Year,Banana,5.0,140.0
+6,475,2005,Whole Year,Banana,26.0,865.0
+6,475,2006,Whole Year,Banana,15.0,475.0
+6,475,2007,Whole Year,Banana,95.0,2958.0
+6,475,2008,Whole Year,Banana,24.0,709.0
+6,475,2009,Whole Year,Banana,109.0,3927.0
+6,475,2010,Whole Year,Banana,98.0,3104.0
+6,475,2011,Whole Year,Banana,26.0,824.0
+6,475,2012,Whole Year,Banana,101.0,602.0
+6,475,2013,Whole Year,Banana,95.0,3110.0
+6,475,2014,Whole Year,Banana,92.0,3010.0
+6,476,2000,Whole Year,Banana,21.0,950.0
+6,476,2001,Whole Year,Banana,19.0,860.0
+6,476,2002,Whole Year,Banana,22.0,980.0
+6,476,2003,Whole Year,Banana,29.0,1291.0
+6,476,2004,Whole Year,Banana,24.0,1069.0
+6,476,2005,Whole Year,Banana,39.0,1765.0
+6,476,2006,Whole Year,Banana,52.0,2392.0
+6,476,2007,Whole Year,Banana,35.0,1533.0
+6,476,2008,Whole Year,Banana,44.0,1928.0
+6,476,2009,Whole Year,Banana,52.0,3542.0
+6,476,2010,Whole Year,Banana,40.0,1606.0
+6,476,2011,Whole Year,Banana,66.0,2649.0
+6,476,2012,Whole Year,Banana,101.0,1245.0
+6,476,2013,Whole Year,Banana,102.0,5212.0
+6,476,2014,Whole Year,Banana,99.0,4336.0
+6,481,2000,Whole Year,Banana,15.0,660.0
+6,481,2001,Whole Year,Banana,5.0,216.0
+6,481,2002,Whole Year,Banana,36.0,1536.0
+6,481,2003,Whole Year,Banana,4.0,171.0
+6,481,2004,Whole Year,Banana,30.0,1281.0
+6,481,2005,Whole Year,Banana,11.0,402.0
+6,481,2006,Whole Year,Banana,7.0,256.0
+6,481,2007,Whole Year,Banana,12.0,475.0
+6,481,2008,Whole Year,Banana,33.0,1267.0
+6,481,2009,Whole Year,Banana,25.0,2267.0
+6,481,2010,Whole Year,Banana,37.0,1353.0
+6,481,2011,Whole Year,Banana,74.0,2932.0
+6,481,2012,Whole Year,Banana,87.0,1975.0
+6,481,2013,Whole Year,Banana,77.0,3285.0
+6,481,2014,Whole Year,Banana,69.0,2944.0
+6,569,2011,Whole Year,Banana,123.0,4096.0
+6,569,2012,Whole Year,Banana,97.0,2750.0
+6,569,2013,Whole Year,Banana,95.0,4428.0
+6,569,2014,Whole Year,Banana,101.0,3362.0
+6,576,2000,Whole Year,Banana,13.0,390.0
+6,576,2001,Whole Year,Banana,21.0,678.0
+6,576,2002,Whole Year,Banana,14.0,439.0
+6,576,2003,Whole Year,Banana,12.0,376.0
+6,576,2004,Whole Year,Banana,10.0,281.0
+6,576,2005,Whole Year,Banana,21.0,619.0
+6,576,2006,Whole Year,Banana,14.0,492.0
+6,576,2007,Whole Year,Banana,19.0,578.0
+6,576,2008,Whole Year,Banana,11.0,257.0
+6,576,2009,Whole Year,Banana,15.0,633.0
+6,576,2010,Whole Year,Banana,12.0,337.0
+6,576,2011,Whole Year,Banana,12.0,337.0
+6,576,2012,Whole Year,Banana,13.0,116.0
+6,576,2013,Whole Year,Banana,17.0,485.0
+6,576,2014,Whole Year,Banana,15.0,351.0
+7,130,1998,Winter,Banana,14.0,280.0
+7,130,1999,Kharif,Banana,22.0,440.0
+7,130,2000,Kharif,Banana,15.0,220.0
+7,130,2001,Kharif,Banana,15.0,300.0
+7,130,2002,Kharif,Banana,15.0,300.0
+7,130,2003,Kharif,Banana,440.0,1408.0
+7,130,2004,Kharif,Banana,50.0,160.0
+7,130,2005,Kharif,Banana,60.0,200.0
+7,130,2006,Rabi,Banana,60.0,1500.0
+8,432,2013,Whole Year,Banana,1253.0,14235.0
+8,432,2014,Whole Year,Banana,1304.0,14754.0
+8,562,2013,Whole Year,Banana,1071.0,12073.0
+8,562,2014,Whole Year,Banana,1076.0,12128.0
+9,5,1997,Whole Year,Banana,200.0,14300.0
+9,5,1998,Whole Year,Banana,100.0,8000.0
+9,5,1999,Whole Year,Banana,100.0,8800.0
+9,5,2000,Whole Year,Banana,200.0,8000.0
+9,5,2006,Whole Year,Banana,100.0,1300.0
+9,5,2007,Whole Year,Banana,100.0,4000.0
+9,5,2008,Whole Year,Banana,100.0,6100.0
+9,20,2005,Whole Year,Banana,100.0,7700.0
+9,23,2003,Whole Year,Banana,10300.0,746900.0
+9,23,2004,Whole Year,Banana,11200.0,590500.0
+9,23,2005,Whole Year,Banana,8900.0,645800.0
+9,23,2006,Whole Year,Banana,8400.0,675100.0
+9,23,2007,Whole Year,Banana,8200.0,606400.0
+9,23,2008,Whole Year,Banana,8000.0,609300.0
+9,23,2009,Whole Year,Banana,6700.0,521900.0
+9,23,2010,Whole Year,Banana,8600.0,661600.0
+9,23,2011,Whole Year,Banana,9800.0,740600.0
+9,23,2012,Whole Year,Banana,9800.0,775100.0
+9,80,1997,Whole Year,Banana,5100.0,305000.0
+9,80,1998,Whole Year,Banana,4000.0,244600.0
+9,80,1999,Whole Year,Banana,3700.0,240200.0
+9,80,2000,Whole Year,Banana,4300.0,254600.0
+9,80,2001,Whole Year,Banana,5000.0,295700.0
+9,80,2003,Whole Year,Banana,6800.0,502400.0
+9,80,2004,Whole Year,Banana,10100.0,640400.0
+9,80,2005,Whole Year,Banana,10300.0,690500.0
+9,80,2006,Whole Year,Banana,7300.0,467500.0
+9,80,2007,Whole Year,Banana,9600.0,555800.0
+9,80,2008,Whole Year,Banana,8700.0,564400.0
+9,80,2009,Whole Year,Banana,4900.0,325600.0
+9,80,2010,Whole Year,Banana,4500.0,286000.0
+9,80,2011,Whole Year,Banana,8700.0,668300.0
+9,80,2012,Whole Year,Banana,8200.0,557100.0
+9,81,1997,Whole Year,Banana,300.0,23300.0
+9,81,1998,Whole Year,Banana,300.0,21600.0
+9,81,1999,Whole Year,Banana,200.0,7600.0
+9,81,2004,Whole Year,Banana,200.0,10500.0
+9,81,2005,Whole Year,Banana,200.0,14000.0
+9,81,2006,Whole Year,Banana,100.0,4000.0
+9,81,2011,Whole Year,Banana,100.0,6800.0
+9,133,2006,Whole Year,Banana,100.0,1200.0
+9,133,2007,Whole Year,Banana,100.0,2400.0
+9,133,2012,Whole Year,Banana,100.0,4700.0
+9,196,2001,Whole Year,Banana,10900.0,579800.0
+9,271,1997,Whole Year,Banana,400.0,10200.0
+9,271,1998,Whole Year,Banana,400.0,22000.0
+9,271,1999,Whole Year,Banana,400.0,14700.0
+9,271,2000,Whole Year,Banana,300.0,17400.0
+9,271,2001,Whole Year,Banana,400.0,19500.0
+9,271,2003,Whole Year,Banana,300.0,15800.0
+9,271,2004,Whole Year,Banana,100.0,6400.0
+9,271,2006,Whole Year,Banana,100.0,2400.0
+9,271,2007,Whole Year,Banana,100.0,5400.0
+9,271,2008,Whole Year,Banana,100.0,7400.0
+9,271,2009,Whole Year,Banana,100.0,3900.0
+9,271,2010,Whole Year,Banana,100.0,4800.0
+9,273,1997,Whole Year,Banana,300.0,17400.0
+9,273,1998,Whole Year,Banana,400.0,29500.0
+9,273,1999,Whole Year,Banana,300.0,22000.0
+9,273,2000,Whole Year,Banana,200.0,10500.0
+9,273,2001,Whole Year,Banana,100.0,8200.0
+9,273,2003,Whole Year,Banana,600.0,43100.0
+9,273,2004,Whole Year,Banana,200.0,13600.0
+9,273,2005,Whole Year,Banana,100.0,7200.0
+9,310,1997,Whole Year,Banana,6900.0,358800.0
+9,310,1998,Whole Year,Banana,5900.0,368300.0
+9,310,1999,Whole Year,Banana,6500.0,354400.0
+9,310,2000,Whole Year,Banana,11100.0,563500.0
+9,310,2005,Whole Year,Banana,100.0,4100.0
+9,310,2006,Whole Year,Banana,100.0,9700.0
+9,310,2007,Whole Year,Banana,100.0,3400.0
+9,310,2008,Whole Year,Banana,100.0,4400.0
+9,310,2009,Whole Year,Banana,100.0,5700.0
+9,419,2003,Whole Year,Banana,4000.0,264600.0
+9,419,2004,Whole Year,Banana,3400.0,238000.0
+9,419,2005,Whole Year,Banana,4400.0,308600.0
+9,419,2006,Whole Year,Banana,4000.0,283300.0
+9,419,2007,Whole Year,Banana,4600.0,292900.0
+9,419,2008,Whole Year,Banana,4300.0,301100.0
+9,419,2009,Whole Year,Banana,4300.0,310400.0
+9,419,2010,Whole Year,Banana,5200.0,358600.0
+9,419,2011,Whole Year,Banana,5600.0,350900.0
+9,419,2012,Whole Year,Banana,5800.0,376700.0
+9,422,2003,Whole Year,Banana,200.0,10300.0
+9,422,2004,Whole Year,Banana,200.0,11100.0
+9,422,2005,Whole Year,Banana,200.0,13200.0
+9,422,2006,Whole Year,Banana,200.0,15800.0
+9,422,2007,Whole Year,Banana,200.0,17000.0
+9,422,2008,Whole Year,Banana,300.0,20700.0
+9,422,2009,Whole Year,Banana,300.0,17600.0
+9,422,2010,Whole Year,Banana,100.0,10300.0
+9,422,2011,Whole Year,Banana,300.0,18000.0
+9,422,2012,Whole Year,Banana,200.0,12400.0
+9,442,1997,Whole Year,Banana,100.0,3000.0
+9,442,1999,Whole Year,Banana,100.0,5500.0
+9,442,2000,Whole Year,Banana,100.0,4800.0
+9,442,2001,Whole Year,Banana,100.0,4200.0
+9,442,2003,Whole Year,Banana,300.0,18500.0
+9,442,2004,Whole Year,Banana,200.0,13200.0
+9,442,2005,Whole Year,Banana,200.0,13600.0
+9,442,2006,Whole Year,Banana,100.0,6000.0
+9,442,2007,Whole Year,Banana,100.0,7600.0
+9,442,2008,Whole Year,Banana,100.0,11600.0
+9,442,2009,Whole Year,Banana,100.0,5200.0
+9,442,2010,Whole Year,Banana,100.0,8400.0
+9,442,2011,Whole Year,Banana,100.0,6400.0
+9,442,2012,Whole Year,Banana,100.0,5200.0
+9,502,1998,Whole Year,Banana,100.0,3600.0
+9,502,2011,Whole Year,Banana,100.0,3600.0
+9,502,2012,Whole Year,Banana,100.0,3600.0
+9,574,1997,Whole Year,Banana,2000.0,114600.0
+9,574,1998,Whole Year,Banana,2100.0,135500.0
+9,574,1999,Whole Year,Banana,1400.0,96600.0
+9,574,2000,Whole Year,Banana,2200.0,99700.0
+9,574,2001,Whole Year,Banana,2900.0,187600.0
+9,574,2003,Whole Year,Banana,2900.0,214100.0
+9,574,2004,Whole Year,Banana,3200.0,195000.0
+9,574,2005,Whole Year,Banana,2200.0,159300.0
+9,574,2006,Whole Year,Banana,2300.0,183400.0
+9,574,2007,Whole Year,Banana,3600.0,239800.0
+9,574,2008,Whole Year,Banana,2900.0,224800.0
+9,574,2009,Whole Year,Banana,2900.0,211600.0
+9,574,2010,Whole Year,Banana,3000.0,197200.0
+9,574,2011,Whole Year,Banana,1700.0,110100.0
+9,574,2012,Whole Year,Banana,1000.0,79300.0
+9,578,2008,Whole Year,Banana,400.0,36000.0
+9,578,2009,Whole Year,Banana,300.0,25900.0
+9,578,2010,Whole Year,Banana,300.0,20000.0
+9,578,2011,Whole Year,Banana,200.0,11700.0
+9,578,2012,Whole Year,Banana,200.0,14000.0
+9,617,1997,Whole Year,Banana,3700.0,245400.0
+9,617,1998,Whole Year,Banana,4800.0,355600.0
+9,617,1999,Whole Year,Banana,3700.0,276100.0
+9,617,2000,Whole Year,Banana,4200.0,308600.0
+9,617,2001,Whole Year,Banana,4600.0,351100.0
+9,617,2003,Whole Year,Banana,2600.0,201800.0
+9,617,2004,Whole Year,Banana,3300.0,209000.0
+9,617,2005,Whole Year,Banana,4000.0,237700.0
+9,617,2006,Whole Year,Banana,3600.0,228900.0
+9,617,2007,Whole Year,Banana,4300.0,287700.0
+9,617,2008,Whole Year,Banana,3100.0,210600.0
+9,617,2009,Whole Year,Banana,2300.0,171800.0
+9,617,2010,Whole Year,Banana,1500.0,97200.0
+9,617,2011,Whole Year,Banana,2000.0,133500.0
+9,617,2012,Whole Year,Banana,2600.0,172500.0
+9,619,1997,Whole Year,Banana,300.0,16400.0
+9,619,1998,Whole Year,Banana,300.0,16100.0
+9,619,1999,Whole Year,Banana,300.0,17500.0
+9,619,2000,Whole Year,Banana,200.0,10000.0
+9,619,2001,Whole Year,Banana,400.0,27700.0
+9,619,2003,Whole Year,Banana,200.0,9900.0
+9,619,2004,Whole Year,Banana,100.0,3700.0
+9,619,2006,Whole Year,Banana,200.0,13200.0
+9,619,2007,Whole Year,Banana,200.0,10700.0
+9,619,2008,Whole Year,Banana,100.0,6500.0
+9,619,2009,Whole Year,Banana,100.0,5900.0
+9,619,2010,Whole Year,Banana,100.0,6200.0
+10,183,2002,Whole Year,Banana,2.0,0.0
+10,183,2003,Whole Year,Banana,5.0,0.0
+10,263,2002,Whole Year,Banana,103.0,0.0
+10,341,2002,Whole Year,Banana,2.0,0.0
+10,341,2003,Whole Year,Banana,2.0,0.0
+10,444,2003,Whole Year,Banana,2.0,0.0
+10,557,2002,Whole Year,Banana,47.0,0.0
+10,557,2003,Whole Year,Banana,43.0,0.0
+14,37,1999,Whole Year,Banana,954.0,23628.0
+14,37,2000,Whole Year,Banana,872.0,14647.0
+14,37,2002,Whole Year,Banana,466.0,7118.0
+14,37,2003,Whole Year,Banana,434.0,7423.0
+14,37,2004,Whole Year,Banana,191.0,7032.0
+14,37,2005,Whole Year,Banana,84.0,2477.0
+14,37,2006,Whole Year,Banana,572.0,11420.0
+14,37,2007,Whole Year,Banana,862.0,13986.0
+14,37,2008,Whole Year,Banana,1424.0,32850.0
+14,37,2009,Whole Year,Banana,1575.0,17048.0
+14,37,2010,Whole Year,Banana,1518.0,16956.0
+14,37,2011,Whole Year,Banana,1135.0,14772.0
+14,52,1999,Whole Year,Banana,2467.0,46158.0
+14,52,2000,Whole Year,Banana,2320.0,31503.0
+14,52,2002,Whole Year,Banana,2046.0,25082.0
+14,52,2003,Whole Year,Banana,1910.0,21873.0
+14,52,2004,Whole Year,Banana,3128.0,53351.0
+14,52,2005,Whole Year,Banana,3407.0,48182.0
+14,52,2006,Whole Year,Banana,3317.0,264763.0
+14,52,2007,Whole Year,Banana,1173.0,34141.0
+14,52,2008,Whole Year,Banana,1054.0,26183.0
+14,52,2009,Whole Year,Banana,1172.0,39752.0
+14,52,2010,Whole Year,Banana,1288.0,46157.0
+14,52,2011,Whole Year,Banana,875.0,31914.0
+14,71,1999,Whole Year,Banana,1455.0,30167.0
+14,71,2000,Whole Year,Banana,1466.0,30141.0
+14,71,2002,Whole Year,Banana,1198.0,17373.0
+14,71,2003,Whole Year,Banana,662.0,14299.0
+14,71,2004,Whole Year,Banana,828.0,19154.0
+14,71,2005,Whole Year,Banana,1382.0,49684.0
+14,71,2006,Whole Year,Banana,1050.0,47233.0
+14,71,2007,Whole Year,Banana,1863.0,89815.0
+14,71,2008,Whole Year,Banana,1950.0,76538.0
+14,71,2009,Whole Year,Banana,2285.0,97158.0
+14,71,2010,Whole Year,Banana,2404.0,105423.0
+14,71,2011,Whole Year,Banana,2156.0,103046.0
+14,72,1999,Whole Year,Banana,1756.0,48344.0
+14,72,2000,Whole Year,Banana,1780.0,33816.0
+14,72,2002,Whole Year,Banana,2087.0,51609.0
+14,72,2003,Whole Year,Banana,2483.0,47400.0
+14,72,2004,Whole Year,Banana,3255.0,89106.0
+14,72,2005,Whole Year,Banana,14.0,607.0
+14,72,2006,Whole Year,Banana,2295.0,25435.0
+14,72,2007,Whole Year,Banana,1189.0,21821.0
+14,72,2008,Whole Year,Banana,1539.0,49871.0
+14,72,2009,Whole Year,Banana,1532.0,56569.0
+14,72,2010,Whole Year,Banana,1624.0,62633.0
+14,72,2011,Whole Year,Banana,1649.0,67189.0
+14,74,1999,Whole Year,Banana,1191.0,27946.0
+14,74,2000,Whole Year,Banana,1359.0,24982.0
+14,74,2002,Whole Year,Banana,345.0,7631.0
+14,74,2003,Whole Year,Banana,314.0,6121.0
+14,74,2004,Whole Year,Banana,530.0,23206.0
+14,74,2005,Whole Year,Banana,490.0,5733.0
+14,74,2006,Whole Year,Banana,532.0,2808.0
+14,74,2007,Whole Year,Banana,415.0,15375.0
+14,74,2008,Whole Year,Banana,372.0,16495.0
+14,74,2009,Whole Year,Banana,408.0,13127.0
+14,74,2010,Whole Year,Banana,255.0,8548.0
+14,74,2011,Whole Year,Banana,281.0,7021.0
+14,87,1999,Whole Year,Banana,411.0,9644.0
+14,87,2000,Whole Year,Banana,469.0,8622.0
+14,87,2002,Whole Year,Banana,249.0,2846.0
+14,87,2003,Whole Year,Banana,189.0,3500.0
+14,87,2004,Whole Year,Banana,63.0,2573.0
+14,87,2005,Whole Year,Banana,207.0,2458.0
+14,87,2006,Whole Year,Banana,195.0,3893.0
+14,87,2007,Whole Year,Banana,114.0,2016.0
+14,87,2008,Whole Year,Banana,147.0,5647.0
+14,87,2009,Whole Year,Banana,174.0,3859.0
+14,87,2010,Whole Year,Banana,219.0,5144.0
+14,87,2011,Whole Year,Banana,92.0,2299.0
+14,88,1999,Whole Year,Banana,1289.0,25517.0
+14,88,2000,Whole Year,Banana,1542.0,29889.0
+14,88,2002,Whole Year,Banana,1512.0,28318.0
+14,88,2003,Whole Year,Banana,1868.0,30768.0
+14,88,2004,Whole Year,Banana,520.0,10514.0
+14,88,2005,Whole Year,Banana,582.0,6559.0
+14,88,2006,Whole Year,Banana,1406.0,38697.0
+14,88,2007,Whole Year,Banana,1696.0,38201.0
+14,88,2008,Whole Year,Banana,1684.0,41037.0
+14,88,2009,Whole Year,Banana,1932.0,64878.0
+14,88,2010,Whole Year,Banana,1933.0,64912.0
+14,88,2011,Whole Year,Banana,1855.0,64548.0
+14,104,1999,Whole Year,Banana,129.0,3513.0
+14,104,2000,Whole Year,Banana,1132.0,24597.0
+14,104,2002,Whole Year,Banana,1878.0,38490.0
+14,104,2003,Whole Year,Banana,3110.0,37818.0
+14,104,2004,Whole Year,Banana,1801.0,26037.0
+14,104,2005,Whole Year,Banana,3044.0,45599.0
+14,104,2006,Whole Year,Banana,2395.0,27514.0
+14,104,2007,Whole Year,Banana,7087.0,125334.0
+14,104,2008,Whole Year,Banana,8367.0,197277.0
+14,104,2009,Whole Year,Banana,7976.0,267108.0
+14,104,2010,Whole Year,Banana,8305.0,298831.0
+14,104,2011,Whole Year,Banana,10261.0,373090.0
+14,117,2007,Whole Year,Banana,590.0,7490.0
+14,117,2008,Whole Year,Banana,2321.0,42377.0
+14,117,2009,Whole Year,Banana,2273.0,41284.0
+14,117,2010,Whole Year,Banana,2413.0,50586.0
+14,117,2011,Whole Year,Banana,3297.0,76734.0
+14,118,1999,Whole Year,Banana,1124.0,26822.0
+14,118,2000,Whole Year,Banana,1239.0,23136.0
+14,118,2002,Whole Year,Banana,2241.0,25337.0
+14,118,2003,Whole Year,Banana,1320.0,5951.0
+14,118,2004,Whole Year,Banana,1612.0,4465.0
+14,118,2005,Whole Year,Banana,1609.0,7797.0
+14,118,2006,Whole Year,Banana,1313.0,6373.0
+14,118,2007,Whole Year,Banana,1896.0,3109.0
+14,118,2008,Whole Year,Banana,2085.0,9216.0
+14,118,2009,Whole Year,Banana,2228.0,16262.0
+14,118,2010,Whole Year,Banana,2195.0,17780.0
+14,118,2011,Whole Year,Banana,2354.0,19180.0
+14,120,1999,Whole Year,Banana,575.0,11806.0
+14,120,2000,Whole Year,Banana,824.0,9305.0
+14,120,2002,Whole Year,Banana,3199.0,49719.0
+14,120,2003,Whole Year,Banana,972.0,35307.0
+14,120,2004,Whole Year,Banana,1171.0,11100.0
+14,120,2005,Whole Year,Banana,724.0,10489.0
+14,120,2006,Whole Year,Banana,1329.0,14090.0
+14,120,2007,Whole Year,Banana,1501.0,17539.0
+14,120,2008,Whole Year,Banana,1874.0,14585.0
+14,120,2009,Whole Year,Banana,2228.0,18515.0
+14,120,2010,Whole Year,Banana,2248.0,27118.0
+14,120,2011,Whole Year,Banana,2144.0,28245.0
+14,131,1999,Whole Year,Banana,1891.0,56940.0
+14,131,2000,Whole Year,Banana,2911.0,64912.0
+14,131,2002,Whole Year,Banana,3495.0,71931.0
+14,131,2003,Whole Year,Banana,4494.0,38783.0
+14,131,2004,Whole Year,Banana,5220.0,64952.0
+14,131,2005,Whole Year,Banana,8032.0,15301.0
+14,131,2006,Whole Year,Banana,3089.0,10444.0
+14,131,2007,Whole Year,Banana,3132.0,3154.0
+14,131,2008,Whole Year,Banana,3128.0,3804.0
+14,131,2009,Whole Year,Banana,3135.0,7888.0
+14,131,2010,Whole Year,Banana,3146.0,8186.0
+14,131,2011,Whole Year,Banana,3173.0,9268.0
+14,140,1999,Whole Year,Banana,1007.0,23628.0
+14,140,2000,Whole Year,Banana,1150.0,21140.0
+14,140,2002,Whole Year,Banana,1355.0,21367.0
+14,140,2003,Whole Year,Banana,222.0,5529.0
+14,140,2004,Whole Year,Banana,477.0,5457.0
+14,140,2005,Whole Year,Banana,659.0,10332.0
+14,140,2006,Whole Year,Banana,983.0,27379.0
+14,140,2007,Whole Year,Banana,1452.0,20560.0
+14,140,2008,Whole Year,Banana,1796.0,21678.0
+14,140,2009,Whole Year,Banana,2145.0,30663.0
+14,140,2010,Whole Year,Banana,2406.0,42812.0
+14,140,2011,Whole Year,Banana,2961.0,58225.0
+14,151,1999,Whole Year,Banana,92.0,2159.0
+14,151,2000,Whole Year,Banana,105.0,1930.0
+14,151,2002,Whole Year,Banana,113.0,1935.0
+14,151,2003,Whole Year,Banana,129.0,1675.0
+14,151,2004,Whole Year,Banana,160.0,2008.0
+14,151,2005,Whole Year,Banana,253.0,3004.0
+14,151,2006,Whole Year,Banana,239.0,4772.0
+14,151,2007,Whole Year,Banana,276.0,4881.0
+14,151,2008,Whole Year,Banana,326.0,12462.0
+14,151,2009,Whole Year,Banana,371.0,8228.0
+14,151,2010,Whole Year,Banana,393.0,9230.0
+14,151,2011,Whole Year,Banana,254.0,6347.0
+14,192,1999,Whole Year,Banana,40.0,939.0
+14,192,2000,Whole Year,Banana,45.0,827.0
+14,192,2002,Whole Year,Banana,183.0,3133.0
+14,192,2003,Whole Year,Banana,269.0,3494.0
+14,192,2004,Whole Year,Banana,254.0,3188.0
+14,192,2005,Whole Year,Banana,99.0,1176.0
+14,192,2006,Whole Year,Banana,93.0,1857.0
+14,192,2007,Whole Year,Banana,163.0,2883.0
+14,192,2008,Whole Year,Banana,211.0,3666.0
+14,192,2009,Whole Year,Banana,206.0,4569.0
+14,192,2010,Whole Year,Banana,247.0,5801.0
+14,192,2011,Whole Year,Banana,456.0,11394.0
+14,214,1999,Whole Year,Banana,3099.0,59755.0
+14,214,2000,Whole Year,Banana,2725.0,54176.0
+14,214,2002,Whole Year,Banana,2126.0,50652.0
+14,214,2003,Whole Year,Banana,948.0,10061.0
+14,214,2004,Whole Year,Banana,908.0,17701.0
+14,214,2005,Whole Year,Banana,862.0,20523.0
+14,214,2006,Whole Year,Banana,1131.0,25622.0
+14,214,2007,Whole Year,Banana,1114.0,22293.0
+14,214,2008,Whole Year,Banana,1146.0,19734.0
+14,214,2009,Whole Year,Banana,1886.0,44740.0
+14,214,2010,Whole Year,Banana,2326.0,60127.0
+14,214,2011,Whole Year,Banana,2539.0,68891.0
+14,228,1999,Whole Year,Banana,1210.0,26694.0
+14,228,2000,Whole Year,Banana,2012.0,35055.0
+14,228,2002,Whole Year,Banana,2444.0,41169.0
+14,228,2003,Whole Year,Banana,1469.0,8367.0
+14,228,2004,Whole Year,Banana,2728.0,14649.0
+14,228,2005,Whole Year,Banana,3211.0,55509.0
+14,228,2006,Whole Year,Banana,3135.0,65954.0
+14,228,2007,Whole Year,Banana,3313.0,52143.0
+14,228,2008,Whole Year,Banana,3403.0,42211.0
+14,228,2009,Whole Year,Banana,3630.0,49295.0
+14,228,2010,Whole Year,Banana,3630.0,56555.0
+14,228,2011,Whole Year,Banana,4160.0,72039.0
+14,230,1999,Whole Year,Banana,500.0,11732.0
+14,230,2000,Whole Year,Banana,571.0,10497.0
+14,230,2002,Whole Year,Banana,1501.0,38304.0
+14,230,2003,Whole Year,Banana,862.0,35231.0
+14,230,2004,Whole Year,Banana,942.0,36550.0
+14,230,2005,Whole Year,Banana,1199.0,41846.0
+14,230,2006,Whole Year,Banana,1201.0,38731.0
+14,230,2007,Whole Year,Banana,1246.0,73996.0
+14,230,2008,Whole Year,Banana,1016.0,39199.0
+14,230,2009,Whole Year,Banana,1089.0,28219.0
+14,230,2010,Whole Year,Banana,1516.0,42166.0
+14,230,2011,Whole Year,Banana,1413.0,40820.0
+14,319,1999,Whole Year,Banana,171.0,4012.0
+14,319,2000,Whole Year,Banana,195.0,3585.0
+14,319,2002,Whole Year,Banana,613.0,8188.0
+14,319,2003,Whole Year,Banana,164.0,510.0
+14,319,2004,Whole Year,Banana,547.0,9767.0
+14,319,2005,Whole Year,Banana,563.0,7440.0
+14,319,2006,Whole Year,Banana,499.0,2376.0
+14,319,2007,Whole Year,Banana,1564.0,8940.0
+14,319,2008,Whole Year,Banana,1541.0,9973.0
+14,319,2009,Whole Year,Banana,1392.0,4325.0
+14,319,2010,Whole Year,Banana,1976.0,10145.0
+14,319,2011,Whole Year,Banana,1941.0,13760.0
+14,323,1999,Whole Year,Banana,422.0,9902.0
+14,323,2000,Whole Year,Banana,481.0,8842.0
+14,323,2002,Whole Year,Banana,1096.0,14701.0
+14,323,2003,Whole Year,Banana,1366.0,42123.0
+14,323,2004,Whole Year,Banana,1101.0,7498.0
+14,323,2005,Whole Year,Banana,1382.0,23168.0
+14,323,2006,Whole Year,Banana,2068.0,63037.0
+14,323,2007,Whole Year,Banana,568.0,5824.0
+14,323,2008,Whole Year,Banana,518.0,16886.0
+14,323,2009,Whole Year,Banana,568.0,8145.0
+14,323,2010,Whole Year,Banana,823.0,10525.0
+14,323,2011,Whole Year,Banana,750.0,10234.0
+14,328,1999,Whole Year,Banana,570.0,13374.0
+14,328,2000,Whole Year,Banana,650.0,11949.0
+14,328,2002,Whole Year,Banana,497.0,8510.0
+14,328,2003,Whole Year,Banana,363.0,271.0
+14,328,2004,Whole Year,Banana,3657.0,12445.0
+14,328,2005,Whole Year,Banana,376.0,4119.0
+14,328,2006,Whole Year,Banana,368.0,15238.0
+14,328,2007,Whole Year,Banana,870.0,37339.0
+14,328,2008,Whole Year,Banana,1281.0,23577.0
+14,328,2009,Whole Year,Banana,1183.0,50410.0
+14,328,2010,Whole Year,Banana,1279.0,75163.0
+14,328,2011,Whole Year,Banana,1425.0,97498.0
+14,379,1999,Whole Year,Banana,1211.0,23788.0
+14,379,2000,Whole Year,Banana,1556.0,30034.0
+14,379,2002,Whole Year,Banana,1463.0,23642.0
+14,379,2003,Whole Year,Banana,752.0,9569.0
+14,379,2004,Whole Year,Banana,1272.0,15496.0
+14,379,2005,Whole Year,Banana,2617.0,52714.0
+14,379,2006,Whole Year,Banana,2650.0,53254.0
+14,379,2007,Whole Year,Banana,1833.0,58409.0
+14,379,2008,Whole Year,Banana,1606.0,24016.0
+14,379,2009,Whole Year,Banana,1889.0,47095.0
+14,379,2010,Whole Year,Banana,1779.0,51345.0
+14,379,2011,Whole Year,Banana,2107.0,62005.0
+14,403,1999,Whole Year,Banana,976.0,20468.0
+14,403,2000,Whole Year,Banana,1409.0,30423.0
+14,403,2002,Whole Year,Banana,1579.0,32041.0
+14,403,2003,Whole Year,Banana,2085.0,27931.0
+14,403,2004,Whole Year,Banana,1570.0,34482.0
+14,403,2005,Whole Year,Banana,2337.0,44669.0
+14,403,2006,Whole Year,Banana,2027.0,44570.0
+14,403,2007,Whole Year,Banana,2863.0,67366.0
+14,403,2008,Whole Year,Banana,3706.0,60286.0
+14,403,2009,Whole Year,Banana,4454.0,131054.0
+14,403,2010,Whole Year,Banana,5468.0,142523.0
+14,403,2011,Whole Year,Banana,5610.0,154656.0
+14,473,1999,Whole Year,Banana,20.0,469.0
+14,473,2000,Whole Year,Banana,23.0,423.0
+14,473,2002,Whole Year,Banana,36.0,616.0
+14,473,2003,Whole Year,Banana,25.0,325.0
+14,473,2004,Whole Year,Banana,22.0,276.0
+14,473,2005,Whole Year,Banana,8.0,95.0
+14,473,2006,Whole Year,Banana,8.0,160.0
+14,473,2007,Whole Year,Banana,93.0,1645.0
+14,473,2008,Whole Year,Banana,59.0,1025.0
+14,473,2009,Whole Year,Banana,65.0,1442.0
+14,473,2010,Whole Year,Banana,79.0,1855.0
+14,473,2011,Whole Year,Banana,71.0,1774.0
+14,483,2007,Whole Year,Banana,2920.0,72962.0
+14,483,2008,Whole Year,Banana,3655.0,136649.0
+14,483,2009,Whole Year,Banana,3376.0,100865.0
+14,483,2010,Whole Year,Banana,2127.0,64046.0
+14,483,2011,Whole Year,Banana,2163.0,71083.0
+14,535,1999,Whole Year,Banana,2994.0,76338.0
+14,535,2000,Whole Year,Banana,3463.0,52825.0
+14,535,2002,Whole Year,Banana,3044.0,39788.0
+14,535,2003,Whole Year,Banana,602.0,2239.0
+14,535,2004,Whole Year,Banana,3210.0,19485.0
+14,535,2005,Whole Year,Banana,4788.0,28335.0
+14,535,2006,Whole Year,Banana,4193.0,26416.0
+14,535,2007,Whole Year,Banana,5305.0,65618.0
+14,535,2008,Whole Year,Banana,6358.0,68972.0
+14,535,2009,Whole Year,Banana,5756.0,102399.0
+14,535,2010,Whole Year,Banana,5372.0,97341.0
+14,535,2011,Whole Year,Banana,5765.0,112031.0
+14,600,1999,Whole Year,Banana,2251.0,48766.0
+14,600,2000,Whole Year,Banana,2630.0,47840.0
+14,600,2002,Whole Year,Banana,2348.0,29662.0
+14,600,2003,Whole Year,Banana,2039.0,27210.0
+14,600,2004,Whole Year,Banana,4531.0,30779.0
+14,600,2005,Whole Year,Banana,3064.0,26890.0
+14,600,2006,Whole Year,Banana,2945.0,23357.0
+14,600,2007,Whole Year,Banana,3815.0,44285.0
+14,600,2008,Whole Year,Banana,4903.0,41298.0
+14,600,2009,Whole Year,Banana,5512.0,105748.0
+14,600,2010,Whole Year,Banana,5145.0,102257.0
+14,600,2011,Whole Year,Banana,4655.0,95339.0
+14,606,2000,Whole Year,Banana,1091.0,20308.0
+14,606,2002,Whole Year,Banana,1086.0,17924.0
+14,606,2003,Whole Year,Banana,2350.0,5866.0
+14,606,2004,Whole Year,Banana,1025.0,922.0
+14,606,2005,Whole Year,Banana,838.0,482.0
+14,606,2006,Whole Year,Banana,1627.0,1812.0
+14,606,2007,Whole Year,Banana,1298.0,6421.0
+14,606,2008,Whole Year,Banana,1345.0,11282.0
+14,606,2009,Whole Year,Banana,1305.0,23835.0
+14,606,2010,Whole Year,Banana,1337.0,26014.0
+14,606,2011,Whole Year,Banana,1339.0,28143.0
+14,615,1999,Whole Year,Banana,1238.0,39382.0
+14,615,2000,Whole Year,Banana,1315.0,24163.0
+14,615,2002,Whole Year,Banana,1613.0,24577.0
+14,615,2003,Whole Year,Banana,1819.0,1819.0
+14,615,2004,Whole Year,Banana,1254.0,4705.0
+14,615,2005,Whole Year,Banana,1731.0,2069.0
+14,615,2006,Whole Year,Banana,1986.0,4232.0
+14,615,2007,Whole Year,Banana,1980.0,5453.0
+14,615,2008,Whole Year,Banana,2186.0,10552.0
+14,615,2009,Whole Year,Banana,2236.0,22836.0
+14,615,2010,Whole Year,Banana,2316.0,26060.0
+14,615,2011,Whole Year,Banana,2375.0,28977.0
+15,10,1998,Whole Year,Banana,324.0,4493.0
+15,10,1999,Whole Year,Banana,536.0,5418.0
+15,10,2000,Whole Year,Banana,595.0,4134.0
+15,10,2001,Whole Year,Banana,553.0,3372.0
+15,10,2002,Whole Year,Banana,470.0,3815.0
+15,10,2003,Whole Year,Banana,553.0,3717.0
+15,10,2004,Whole Year,Banana,564.0,3725.0
+15,10,2005,Whole Year,Banana,578.0,3927.0
+15,10,2006,Whole Year,Banana,601.0,4310.0
+15,10,2007,Whole Year,Banana,635.0,4072.0
+15,10,2008,Whole Year,Banana,563.0,3790.0
+15,10,2009,Whole Year,Banana,538.0,4322.0
+15,10,2010,Whole Year,Banana,660.15,5202.36
+15,10,2011,Whole Year,Banana,454.95,3604.05
+15,10,2012,Whole Year,Banana,631.0,5002.0
+15,10,2013,Whole Year,Banana,472.0,4481.0
+15,10,2014,Whole Year,Banana,450.0,3733.0
+15,178,1998,Whole Year,Banana,3026.0,41314.0
+15,178,1999,Whole Year,Banana,4200.0,41312.0
+15,178,2000,Whole Year,Banana,4737.0,31880.0
+15,178,2001,Whole Year,Banana,5447.0,38650.0
+15,178,2002,Whole Year,Banana,6410.0,46806.0
+15,178,2003,Whole Year,Banana,5872.0,55367.0
+15,178,2004,Whole Year,Banana,6107.0,51869.0
+15,178,2005,Whole Year,Banana,6308.0,47906.0
+15,178,2006,Whole Year,Banana,6855.0,59908.0
+15,178,2007,Whole Year,Banana,6115.0,49537.0
+15,178,2008,Whole Year,Banana,6385.0,60775.0
+15,178,2009,Whole Year,Banana,6500.0,58787.0
+15,178,2010,Whole Year,Banana,6318.15,59939.5
+15,178,2011,Whole Year,Banana,5669.4,54434.51
+15,178,2012,Whole Year,Banana,5586.0,50746.0
+15,178,2013,Whole Year,Banana,5638.0,54056.0
+15,178,2014,Whole Year,Banana,4904.0,44953.0
+15,239,1998,Whole Year,Banana,1771.0,23692.0
+15,239,1999,Whole Year,Banana,1138.0,12190.0
+15,239,2000,Whole Year,Banana,1306.0,12372.0
+15,239,2001,Whole Year,Banana,1567.0,13252.0
+15,239,2002,Whole Year,Banana,1602.0,13608.0
+15,239,2003,Whole Year,Banana,1648.0,14473.0
+15,239,2004,Whole Year,Banana,1748.0,11458.0
+15,239,2005,Whole Year,Banana,1828.0,13883.0
+15,239,2006,Whole Year,Banana,1971.0,14654.0
+15,239,2007,Whole Year,Banana,2559.0,18733.0
+15,239,2008,Whole Year,Banana,2705.0,23662.0
+15,239,2009,Whole Year,Banana,2541.0,19506.0
+15,239,2010,Whole Year,Banana,2665.37,23265.38
+15,239,2011,Whole Year,Banana,2900.57,25338.1
+15,239,2012,Whole Year,Banana,3080.0,28844.0
+15,239,2013,Whole Year,Banana,3211.0,29664.0
+15,239,2014,Whole Year,Banana,3469.0,31893.0
+15,286,1998,Whole Year,Banana,1453.0,16634.0
+15,286,1999,Whole Year,Banana,1840.0,18024.0
+15,286,2000,Whole Year,Banana,2035.0,16436.0
+15,286,2001,Whole Year,Banana,2480.0,17736.0
+15,286,2002,Whole Year,Banana,2445.0,20280.0
+15,286,2003,Whole Year,Banana,2310.0,20157.0
+15,286,2004,Whole Year,Banana,2493.0,22089.0
+15,286,2005,Whole Year,Banana,2554.0,27532.0
+15,286,2006,Whole Year,Banana,2728.0,25124.0
+15,286,2007,Whole Year,Banana,2181.0,14353.0
+15,286,2008,Whole Year,Banana,2340.0,18192.0
+15,286,2009,Whole Year,Banana,2566.0,18640.0
+15,286,2010,Whole Year,Banana,2371.63,19283.92
+15,286,2011,Whole Year,Banana,2103.78,18292.24
+15,286,2012,Whole Year,Banana,2086.0,17936.0
+15,286,2013,Whole Year,Banana,1986.0,17663.0
+15,286,2014,Whole Year,Banana,2298.0,19593.0
+15,298,1998,Whole Year,Banana,727.0,9427.0
+15,298,1999,Whole Year,Banana,792.0,8778.0
+15,298,2000,Whole Year,Banana,983.0,8493.0
+15,298,2001,Whole Year,Banana,750.0,6442.0
+15,298,2002,Whole Year,Banana,764.0,7690.0
+15,298,2003,Whole Year,Banana,717.0,7272.0
+15,298,2004,Whole Year,Banana,780.0,6507.0
+15,298,2005,Whole Year,Banana,789.0,7130.0
+15,298,2006,Whole Year,Banana,778.0,7485.0
+15,298,2007,Whole Year,Banana,685.0,7704.0
+15,298,2008,Whole Year,Banana,401.0,3231.0
+15,298,2009,Whole Year,Banana,475.0,3715.0
+15,298,2010,Whole Year,Banana,384.46,4379.7
+15,298,2011,Whole Year,Banana,509.32,3188.9
+15,298,2012,Whole Year,Banana,529.0,4671.0
+15,298,2013,Whole Year,Banana,487.0,3420.0
+15,298,2014,Whole Year,Banana,665.0,4890.0
+15,326,1998,Whole Year,Banana,1390.0,17276.0
+15,326,1999,Whole Year,Banana,1489.0,15742.0
+15,326,2000,Whole Year,Banana,1743.0,10253.0
+15,326,2001,Whole Year,Banana,1613.0,12400.0
+15,326,2002,Whole Year,Banana,1800.0,14596.0
+15,326,2003,Whole Year,Banana,1600.0,12176.0
+15,326,2004,Whole Year,Banana,1713.0,11882.0
+15,326,2005,Whole Year,Banana,1772.0,12846.0
+15,326,2006,Whole Year,Banana,1917.0,11776.0
+15,326,2007,Whole Year,Banana,2053.0,13165.0
+15,326,2008,Whole Year,Banana,1806.0,12436.0
+15,326,2009,Whole Year,Banana,2068.0,13624.0
+15,326,2010,Whole Year,Banana,2053.96,15902.09
+15,326,2011,Whole Year,Banana,1693.98,12325.57
+15,326,2012,Whole Year,Banana,2295.0,16022.0
+15,326,2013,Whole Year,Banana,2763.0,19151.0
+15,326,2014,Whole Year,Banana,2443.0,17032.0
+15,333,1998,Whole Year,Banana,1813.0,27845.0
+15,333,1999,Whole Year,Banana,2655.0,30012.0
+15,333,2000,Whole Year,Banana,2885.0,25340.0
+15,333,2001,Whole Year,Banana,3260.0,25831.0
+15,333,2002,Whole Year,Banana,3394.0,32373.0
+15,333,2003,Whole Year,Banana,3107.0,30310.0
+15,333,2004,Whole Year,Banana,3200.0,29867.0
+15,333,2005,Whole Year,Banana,3342.0,28817.0
+15,333,2006,Whole Year,Banana,2637.0,23982.0
+15,333,2007,Whole Year,Banana,3061.0,28483.0
+15,333,2008,Whole Year,Banana,2904.0,27413.0
+15,333,2009,Whole Year,Banana,2839.0,25696.0
+15,333,2010,Whole Year,Banana,2853.22,25290.47
+15,333,2011,Whole Year,Banana,2520.52,22138.18
+15,333,2012,Whole Year,Banana,2518.0,21084.0
+15,333,2013,Whole Year,Banana,2498.0,22609.0
+15,333,2014,Whole Year,Banana,2734.0,23152.0
+15,334,1998,Whole Year,Banana,1519.0,16867.0
+15,334,1999,Whole Year,Banana,1667.0,16329.0
+15,334,2000,Whole Year,Banana,1839.0,15500.0
+15,334,2001,Whole Year,Banana,1949.0,14909.0
+15,334,2002,Whole Year,Banana,1963.0,16640.0
+15,334,2003,Whole Year,Banana,1993.0,17206.0
+15,334,2004,Whole Year,Banana,2092.0,18720.0
+15,334,2005,Whole Year,Banana,2165.0,15605.0
+15,334,2006,Whole Year,Banana,1880.0,15417.0
+15,334,2007,Whole Year,Banana,1983.0,14980.0
+15,334,2008,Whole Year,Banana,1412.0,10528.0
+15,334,2009,Whole Year,Banana,1476.0,11102.0
+15,334,2010,Whole Year,Banana,1586.17,11723.46
+15,334,2011,Whole Year,Banana,1533.27,12477.5
+15,334,2012,Whole Year,Banana,1700.0,13616.0
+15,334,2013,Whole Year,Banana,1633.0,11642.0
+15,334,2014,Whole Year,Banana,1832.0,14536.0
+15,372,1998,Whole Year,Banana,5083.0,59389.0
+15,372,1999,Whole Year,Banana,7049.0,65122.0
+15,372,2000,Whole Year,Banana,7136.0,48464.0
+15,372,2001,Whole Year,Banana,8420.0,55835.0
+15,372,2002,Whole Year,Banana,9804.0,67931.0
+15,372,2003,Whole Year,Banana,8963.0,71210.0
+15,372,2004,Whole Year,Banana,9498.0,71742.0
+15,372,2005,Whole Year,Banana,9897.0,69993.0
+15,372,2006,Whole Year,Banana,9048.0,69787.0
+15,372,2007,Whole Year,Banana,7308.0,51899.0
+15,372,2008,Whole Year,Banana,6391.0,47785.0
+15,372,2009,Whole Year,Banana,6516.0,45590.0
+15,372,2010,Whole Year,Banana,7843.57,57176.5
+15,372,2011,Whole Year,Banana,6865.81,61965.69
+15,372,2012,Whole Year,Banana,7529.0,62501.0
+15,372,2013,Whole Year,Banana,7740.0,67216.0
+15,372,2014,Whole Year,Banana,6986.0,58163.0
+15,437,1998,Whole Year,Banana,4612.0,54078.0
+15,437,1999,Whole Year,Banana,5279.0,52737.0
+15,437,2000,Whole Year,Banana,5931.0,40376.0
+15,437,2001,Whole Year,Banana,7414.0,66041.0
+15,437,2002,Whole Year,Banana,8155.0,65005.0
+15,437,2003,Whole Year,Banana,10096.0,74576.0
+15,437,2004,Whole Year,Banana,10705.0,86083.0
+15,437,2005,Whole Year,Banana,11248.0,82643.0
+15,437,2006,Whole Year,Banana,11007.0,80246.0
+15,437,2007,Whole Year,Banana,12940.0,93157.0
+15,437,2008,Whole Year,Banana,11517.0,103260.0
+15,437,2009,Whole Year,Banana,10593.0,80068.0
+15,437,2010,Whole Year,Banana,14231.5,123004.57
+15,437,2011,Whole Year,Banana,16458.23,145887.04
+15,437,2012,Whole Year,Banana,15243.0,140094.0
+15,437,2013,Whole Year,Banana,17427.0,147292.0
+15,437,2014,Whole Year,Banana,18628.0,175132.0
+15,450,1998,Whole Year,Banana,1213.0,16980.0
+15,450,1999,Whole Year,Banana,1669.0,16865.0
+15,450,2000,Whole Year,Banana,1975.0,13354.0
+15,450,2001,Whole Year,Banana,2083.0,15173.0
+15,450,2002,Whole Year,Banana,2055.0,18389.0
+15,450,2003,Whole Year,Banana,2343.0,18070.0
+15,450,2004,Whole Year,Banana,2483.0,17659.0
+15,450,2005,Whole Year,Banana,2583.0,23302.0
+15,450,2006,Whole Year,Banana,2599.0,21447.0
+15,450,2007,Whole Year,Banana,2513.0,20270.0
+15,450,2008,Whole Year,Banana,1994.0,15715.0
+15,450,2009,Whole Year,Banana,2032.0,16860.0
+15,450,2010,Whole Year,Banana,2061.47,16321.3
+15,450,2011,Whole Year,Banana,1966.23,15631.45
+15,450,2012,Whole Year,Banana,2020.0,15210.0
+15,450,2013,Whole Year,Banana,2096.0,15265.0
+15,450,2014,Whole Year,Banana,2182.0,17091.0
+15,587,1998,Whole Year,Banana,1389.0,15859.0
+15,587,1999,Whole Year,Banana,1599.0,16134.0
+15,587,2000,Whole Year,Banana,2149.0,13668.0
+15,587,2001,Whole Year,Banana,2333.0,13637.0
+15,587,2002,Whole Year,Banana,2496.0,16739.0
+15,587,2003,Whole Year,Banana,2353.0,18872.0
+15,587,2004,Whole Year,Banana,2492.0,15803.0
+15,587,2005,Whole Year,Banana,2575.0,17794.0
+15,587,2006,Whole Year,Banana,2257.0,15135.0
+15,587,2007,Whole Year,Banana,2078.0,13159.0
+15,587,2008,Whole Year,Banana,2689.0,18858.0
+15,587,2009,Whole Year,Banana,2349.0,17250.0
+15,587,2010,Whole Year,Banana,2891.63,16247.89
+15,587,2011,Whole Year,Banana,1794.19,10855.74
+15,587,2012,Whole Year,Banana,3567.0,24290.0
+15,587,2013,Whole Year,Banana,2343.0,18753.0
+15,587,2014,Whole Year,Banana,2329.0,15999.0
+15,590,1998,Whole Year,Banana,2475.0,35071.0
+15,590,1999,Whole Year,Banana,2791.0,33729.0
+15,590,2000,Whole Year,Banana,2810.0,20138.0
+15,590,2001,Whole Year,Banana,2828.0,17361.0
+15,590,2002,Whole Year,Banana,2844.0,19974.0
+15,590,2003,Whole Year,Banana,2532.0,18652.0
+15,590,2004,Whole Year,Banana,2713.0,19946.0
+15,590,2005,Whole Year,Banana,2919.0,25285.0
+15,590,2006,Whole Year,Banana,2980.0,26430.0
+15,590,2007,Whole Year,Banana,3107.0,19864.0
+15,590,2008,Whole Year,Banana,2773.0,25096.0
+15,590,2009,Whole Year,Banana,2464.0,19455.0
+15,590,2010,Whole Year,Banana,2283.36,17962.59
+15,590,2011,Whole Year,Banana,2240.37,20670.74
+15,590,2012,Whole Year,Banana,2141.0,20636.0
+15,590,2013,Whole Year,Banana,2388.0,21569.0
+15,590,2014,Whole Year,Banana,2297.0,18980.0
+15,630,1998,Whole Year,Banana,3726.0,47663.0
+15,630,1999,Whole Year,Banana,6342.0,65753.0
+15,630,2000,Whole Year,Banana,8935.0,67547.0
+15,630,2001,Whole Year,Banana,10174.0,75264.0
+15,630,2002,Whole Year,Banana,11466.0,77963.0
+15,630,2003,Whole Year,Banana,11819.0,80162.0
+15,630,2004,Whole Year,Banana,12278.0,108021.0
+15,630,2005,Whole Year,Banana,12842.0,115160.0
+15,630,2006,Whole Year,Banana,11885.0,88065.0
+15,630,2007,Whole Year,Banana,12123.0,90427.0
+15,630,2008,Whole Year,Banana,10859.0,65238.0
+15,630,2009,Whole Year,Banana,8318.0,71627.0
+15,630,2010,Whole Year,Banana,10466.5,87967.67
+15,630,2011,Whole Year,Banana,12358.78,107243.88
+15,630,2012,Whole Year,Banana,12086.0,94955.0
+15,630,2013,Whole Year,Banana,11579.0,98518.0
+15,630,2014,Whole Year,Banana,10719.0,100284.0
+16,28,2003,Whole Year,Banana,2.0,35.0
+16,28,2006,Whole Year,Banana,1.0,
+16,28,2007,Whole Year,Banana,1.0,20.0
+16,28,2009,Whole Year,Banana,2.0,45.0
+16,28,2012,Whole Year,Banana,2.0,
+16,28,2013,Whole Year,Banana,1.0,
+16,42,2001,Whole Year,Banana,16.0,168.0
+16,42,2002,Whole Year,Banana,23.0,769.0
+16,42,2003,Whole Year,Banana,25.0,479.0
+16,42,2006,Whole Year,Banana,25.0,863.0
+16,42,2007,Whole Year,Banana,11.0,527.0
+16,42,2008,Whole Year,Banana,24.0,923.0
+16,42,2009,Whole Year,Banana,5.0,298.0
+16,42,2010,Whole Year,Banana,4.0,190.0
+16,42,2011,Whole Year,Banana,16.0,760.0
+16,42,2012,Whole Year,Banana,11.0,141.0
+16,42,2013,Whole Year,Banana,16.0,1742.0
+16,65,2001,Whole Year,Banana,660.0,12673.0
+16,65,2002,Whole Year,Banana,656.0,13469.0
+16,65,2003,Whole Year,Banana,585.0,11721.0
+16,65,2006,Whole Year,Banana,403.0,5130.0
+16,65,2007,Whole Year,Banana,260.0,7910.0
+16,65,2008,Whole Year,Banana,114.0,2886.0
+16,65,2009,Whole Year,Banana,215.0,7097.0
+16,65,2010,Whole Year,Banana,158.0,4032.0
+16,65,2011,Whole Year,Banana,386.0,7903.0
+16,65,2012,Whole Year,Banana,500.0,17126.0
+16,65,2013,Whole Year,Banana,546.0,30318.0
+16,75,2001,Whole Year,Banana,3.0,39.0
+16,75,2002,Whole Year,Banana,4.0,74.0
+16,75,2003,Whole Year,Banana,2.0,38.0
+16,75,2012,Whole Year,Banana,2.0,
+16,101,2003,Whole Year,Banana,13840.0,408724.0
+16,101,2006,Whole Year,Banana,13486.0,439247.0
+16,101,2007,Whole Year,Banana,6832.0,438136.0
+16,101,2008,Whole Year,Banana,7334.0,377611.0
+16,101,2009,Whole Year,Banana,7336.0,467962.0
+16,101,2010,Whole Year,Banana,7633.0,416751.0
+16,101,2011,Whole Year,Banana,15830.0,567197.0
+16,101,2012,Whole Year,Banana,16536.0,605427.0
+16,101,2013,Whole Year,Banana,17000.0,1414642.0
+16,115,2001,Whole Year,Banana,6.0,169.0
+16,115,2002,Whole Year,Banana,6.0,166.0
+16,115,2003,Whole Year,Banana,4.0,0.0
+16,115,2006,Whole Year,Banana,5.0,
+16,115,2010,Whole Year,Banana,1.0,27.0
+16,115,2011,Whole Year,Banana,1.0,
+16,115,2012,Whole Year,Banana,1.0,
+16,115,2013,Whole Year,Banana,1.0,
+16,116,2001,Whole Year,Banana,2.0,177.0
+16,116,2002,Whole Year,Banana,1.0,0.0
+16,116,2003,Whole Year,Banana,1.0,84.0
+16,116,2006,Whole Year,Banana,5.0,368.0
+16,116,2007,Whole Year,Banana,3.0,198.0
+16,116,2011,Whole Year,Banana,3.0,151.0
+16,116,2012,Whole Year,Banana,2.0,
+16,132,2002,Whole Year,Banana,4.0,0.0
+16,132,2003,Whole Year,Banana,4.0,0.0
+16,132,2007,Whole Year,Banana,2.0,64.0
+16,132,2009,Whole Year,Banana,3.0,139.0
+16,132,2010,Whole Year,Banana,1.0,18.0
+16,132,2011,Whole Year,Banana,1.0,26.0
+16,132,2012,Whole Year,Banana,1.0,32.0
+16,145,2003,Whole Year,Banana,7.0,0.0
+16,145,2006,Whole Year,Banana,2.0,61.0
+16,149,2001,Whole Year,Banana,500.0,13095.0
+16,149,2002,Whole Year,Banana,564.0,12856.0
+16,149,2003,Whole Year,Banana,629.0,16083.0
+16,149,2006,Whole Year,Banana,464.0,13942.0
+16,149,2007,Whole Year,Banana,222.0,12796.0
+16,149,2008,Whole Year,Banana,202.0,9348.0
+16,149,2009,Whole Year,Banana,309.0,17715.0
+16,149,2010,Whole Year,Banana,123.0,5471.0
+16,149,2011,Whole Year,Banana,476.0,17850.0
+16,149,2012,Whole Year,Banana,593.0,7459.0
+16,149,2013,Whole Year,Banana,648.0,52571.0
+16,225,2002,Whole Year,Banana,6.0,256.0
+16,225,2003,Whole Year,Banana,8.0,0.0
+16,225,2006,Whole Year,Banana,5.0,103.0
+16,225,2007,Whole Year,Banana,1.0,49.0
+16,225,2010,Whole Year,Banana,2.0,93.0
+16,225,2011,Whole Year,Banana,14.0,
+16,225,2012,Whole Year,Banana,20.0,543.0
+16,225,2013,Whole Year,Banana,14.0,86.0
+16,235,2001,Whole Year,Banana,29.0,799.0
+16,235,2002,Whole Year,Banana,25.0,646.0
+16,235,2003,Whole Year,Banana,16.0,430.0
+16,235,2006,Whole Year,Banana,10.0,248.0
+16,235,2007,Whole Year,Banana,5.0,297.0
+16,235,2008,Whole Year,Banana,3.0,143.0
+16,235,2009,Whole Year,Banana,2.0,118.0
+16,235,2010,Whole Year,Banana,2.0,84.0
+16,243,2013,Whole Year,Banana,7.0,
+16,262,2001,Whole Year,Banana,1.0,40.0
+16,262,2002,Whole Year,Banana,1.0,0.0
+16,262,2006,Whole Year,Banana,1.0,
+16,302,2012,Whole Year,Banana,18.0,
+16,302,2013,Whole Year,Banana,19.0,2630.0
+16,308,2001,Whole Year,Banana,16087.0,515132.0
+16,308,2002,Whole Year,Banana,14076.0,319166.0
+16,308,2003,Whole Year,Banana,49.0,911.0
+16,308,2006,Whole Year,Banana,31.0,680.0
+16,308,2007,Whole Year,Banana,20.0,1282.0
+16,308,2008,Whole Year,Banana,7.0,248.0
+16,308,2009,Whole Year,Banana,20.0,1276.0
+16,308,2010,Whole Year,Banana,17.0,752.0
+16,308,2011,Whole Year,Banana,25.0,74.0
+16,308,2012,Whole Year,Banana,34.0,1150.0
+16,308,2013,Whole Year,Banana,36.0,1459.0
+16,309,2001,Whole Year,Banana,781.0,21478.0
+16,309,2002,Whole Year,Banana,705.0,14820.0
+16,309,2003,Whole Year,Banana,733.0,18103.0
+16,309,2006,Whole Year,Banana,370.0,7861.0
+16,309,2007,Whole Year,Banana,175.0,8728.0
+16,309,2008,Whole Year,Banana,153.0,5843.0
+16,309,2009,Whole Year,Banana,139.0,6364.0
+16,309,2010,Whole Year,Banana,150.0,5579.0
+16,309,2011,Whole Year,Banana,214.0,5711.0
+16,309,2012,Whole Year,Banana,276.0,6820.0
+16,309,2013,Whole Year,Banana,337.0,6570.0
+16,377,2012,Whole Year,Banana,1.0,
+16,378,2003,Whole Year,Banana,1.0,0.0
+16,420,2006,Whole Year,Banana,1.0,
+16,445,2001,Whole Year,Banana,11.0,355.0
+16,445,2002,Whole Year,Banana,3.0,0.0
+16,445,2003,Whole Year,Banana,2.0,51.0
+16,445,2008,Whole Year,Banana,1.0,24.0
+16,477,2002,Whole Year,Banana,4.0,0.0
+16,477,2003,Whole Year,Banana,13.0,0.0
+16,479,2002,Whole Year,Banana,1.0,0.0
+16,490,2001,Whole Year,Banana,6.0,255.0
+16,490,2002,Whole Year,Banana,7.0,271.0
+16,490,2006,Whole Year,Banana,6.0,281.0
+16,490,2007,Whole Year,Banana,1.0,45.0
+16,490,2008,Whole Year,Banana,1.0,36.0
+16,490,2009,Whole Year,Banana,5.0,225.0
+16,490,2011,Whole Year,Banana,5.0,
+16,490,2012,Whole Year,Banana,2.0,
+16,494,2001,Whole Year,Banana,2.0,58.0
+16,494,2002,Whole Year,Banana,1.0,28.0
+16,494,2003,Whole Year,Banana,2.0,27.0
+16,494,2006,Whole Year,Banana,1.0,30.0
+16,494,2009,Whole Year,Banana,1.0,28.0
+16,494,2010,Whole Year,Banana,1.0,19.0
+16,494,2011,Whole Year,Banana,2.0,19.0
+16,494,2012,Whole Year,Banana,2.0,24.0
+16,494,2013,Whole Year,Banana,1.0,
+16,503,2001,Whole Year,Banana,3.0,40.0
+16,503,2002,Whole Year,Banana,4.0,77.0
+16,503,2003,Whole Year,Banana,3.0,112.0
+16,503,2006,Whole Year,Banana,4.0,
+16,503,2007,Whole Year,Banana,1.0,33.0
+16,503,2008,Whole Year,Banana,1.0,26.0
+16,503,2011,Whole Year,Banana,4.0,85.0
+16,503,2012,Whole Year,Banana,2.0,44.0
+16,503,2013,Whole Year,Banana,2.0,115.0
+16,520,2001,Whole Year,Banana,2.0,22.0
+16,520,2002,Whole Year,Banana,2.0,50.0
+16,522,2001,Whole Year,Banana,3.0,118.0
+16,524,2010,Whole Year,Banana,1.0,46.0
+16,524,2011,Whole Year,Banana,1.0,53.0
+16,524,2012,Whole Year,Banana,3.0,
+16,524,2013,Whole Year,Banana,3.0,
+16,527,2001,Whole Year,Banana,6.0,81.0
+16,527,2002,Whole Year,Banana,6.0,43.0
+16,527,2003,Whole Year,Banana,4.0,42.0
+16,527,2006,Whole Year,Banana,4.0,20.0
+16,527,2007,Whole Year,Banana,3.0,57.0
+16,527,2010,Whole Year,Banana,3.0,31.0
+16,527,2011,Whole Year,Banana,3.0,42.0
+16,527,2012,Whole Year,Banana,3.0,
+16,527,2013,Whole Year,Banana,2.0,
+16,536,2003,Whole Year,Banana,37.0,0.0
+16,540,2001,Whole Year,Banana,14.0,21.0
+16,540,2002,Whole Year,Banana,9.0,166.0
+16,540,2003,Whole Year,Banana,10.0,122.0
+16,540,2006,Whole Year,Banana,6.0,112.0
+16,540,2007,Whole Year,Banana,3.0,66.0
+16,540,2008,Whole Year,Banana,1.0,18.0
+16,540,2009,Whole Year,Banana,1.0,22.0
+16,540,2011,Whole Year,Banana,2.0,14.0
+16,540,2012,Whole Year,Banana,3.0,
+16,540,2013,Whole Year,Banana,2.0,160.0
+16,544,2008,Whole Year,Banana,4.0,71.0
+16,544,2009,Whole Year,Banana,2.0,61.0
+16,544,2010,Whole Year,Banana,3.0,53.0
+16,544,2011,Whole Year,Banana,4.0,47.0
+16,544,2012,Whole Year,Banana,4.0,29.0
+16,544,2013,Whole Year,Banana,2.0,58.0
+16,591,2001,Whole Year,Banana,12.0,76.0
+16,591,2002,Whole Year,Banana,7.0,252.0
+16,591,2003,Whole Year,Banana,8.0,232.0
+16,591,2006,Whole Year,Banana,6.0,188.0
+16,591,2007,Whole Year,Banana,3.0,91.0
+16,591,2008,Whole Year,Banana,2.0,54.0
+16,591,2010,Whole Year,Banana,1.0,17.0
+16,591,2011,Whole Year,Banana,2.0,
+16,591,2012,Whole Year,Banana,2.0,28.0
+16,607,2002,Whole Year,Banana,2.0,0.0
+16,607,2010,Whole Year,Banana,2.0,100.0
+16,607,2012,Whole Year,Banana,1.0,47.0
+16,609,2001,Whole Year,Banana,1.0,22.0
+16,609,2011,Whole Year,Banana,1.0,
+17,6,2003,Whole Year,Banana,100.0,11170.0
+17,9,2003,Whole Year,Banana,500.0,26250.0
+17,19,2003,Whole Year,Banana,400.0,27990.0
+17,34,2003,Whole Year,Banana,200.0,8590.0
+17,69,2003,Whole Year,Banana,200.0,13130.0
+17,78,2003,Whole Year,Banana,100.0,2420.0
+17,99,2003,Whole Year,Banana,1200.0,57930.0
+17,156,2003,Whole Year,Banana,400.0,38960.0
+17,232,2003,Whole Year,Banana,3100.0,164450.0
+17,250,2003,Whole Year,Banana,35900.0,2390840.0
+17,251,2003,Whole Year,Banana,300.0,17960.0
+17,325,2003,Whole Year,Banana,500.0,23530.0
+17,349,2003,Whole Year,Banana,100.0,6430.0
+17,416,2003,Whole Year,Banana,6600.0,351750.0
+17,417,2003,Whole Year,Banana,3100.0,218170.0
+17,435,2003,Whole Year,Banana,100.0,7510.0
+17,447,2003,Whole Year,Banana,2300.0,122250.0
+17,467,2003,Whole Year,Banana,900.0,76350.0
+17,474,2003,Whole Year,Banana,100.0,1730.0
+17,491,2003,Whole Year,Banana,100.0,2330.0
+17,513,2003,Whole Year,Banana,100.0,5060.0
+17,519,2003,Whole Year,Banana,300.0,12880.0
+17,543,2003,Whole Year,Banana,100.0,2520.0
+17,554,2003,Whole Year,Banana,200.0,7910.0
+17,582,2003,Whole Year,Banana,500.0,11670.0
+17,628,2003,Whole Year,Banana,100.0,5570.0
+17,629,2003,Whole Year,Banana,100.0,13740.0
+17,644,2003,Whole Year,Banana,100.0,5630.0
+18,93,1999,Whole Year,Banana,440.0,5660.0
+18,93,2000,Whole Year,Banana,210.0,2710.0
+18,93,2001,Whole Year,Banana,510.0,6560.0
+18,93,2002,Whole Year,Banana,181.0,1300.0
+18,93,2003,Whole Year,Banana,191.0,1499.0
+18,93,2004,Whole Year,Banana,10.0,130.0
+18,93,2005,Whole Year,Banana,10.0,130.0
+18,93,2006,Whole Year,Banana,30.0,390.0
+18,93,2007,Whole Year,Banana,130.0,1670.0
+18,110,1997,Whole Year,Banana,1.0,12.0
+18,110,1998,Autumn,Banana,350.0,4510.0
+18,110,1998,Rabi,Banana,250.0,3210.0
+18,110,1998,Winter,Banana,300.0,3860.0
+18,110,1999,Whole Year,Banana,810.0,10420.0
+18,110,2000,Whole Year,Banana,750.0,9650.0
+18,110,2001,Whole Year,Banana,830.0,10670.0
+18,110,2002,Whole Year,Banana,286.0,2100.0
+18,110,2003,Whole Year,Banana,296.0,2324.0
+18,110,2004,Whole Year,Banana,1120.0,14400.0
+18,110,2005,Whole Year,Banana,1340.0,17240.0
+18,110,2006,Summer,Banana,390.0,5020.0
+18,110,2006,Whole Year,Banana,130.0,1670.0
+18,110,2007,Whole Year,Banana,110.0,1410.0
+18,124,1998,Autumn,Banana,130.0,1670.0
+18,124,1998,Rabi,Banana,80.0,1030.0
+18,124,1998,Winter,Banana,140.0,1800.0
+18,124,1999,Whole Year,Banana,390.0,5010.0
+18,124,2000,Whole Year,Banana,470.0,6050.0
+18,124,2001,Whole Year,Banana,340.0,4370.0
+18,124,2002,Whole Year,Banana,2690.0,1850.0
+18,124,2003,Whole Year,Banana,280.0,2198.0
+18,124,2004,Whole Year,Banana,290.0,3730.0
+18,124,2005,Whole Year,Banana,60.0,770.0
+18,124,2006,Summer,Banana,20.0,260.0
+18,124,2006,Whole Year,Banana,370.0,4760.0
+18,124,2007,Whole Year,Banana,4400.0,56590.0
+18,240,1998,Autumn,Banana,10.0,120.0
+18,240,1998,Summer,Banana,20.0,260.0
+18,240,1998,Winter,Banana,20.0,260.0
+18,240,1999,Whole Year,Banana,550.0,7070.0
+18,240,2000,Whole Year,Banana,500.0,6430.0
+18,240,2001,Whole Year,Banana,550.0,7070.0
+18,240,2002,Whole Year,Banana,54.0,378.0
+18,240,2003,Whole Year,Banana,83.0,652.0
+18,240,2004,Whole Year,Banana,80.0,1030.0
+18,240,2005,Whole Year,Banana,130.0,1670.0
+18,240,2006,Summer,Banana,40.0,520.0
+18,240,2006,Whole Year,Banana,410.0,5270.0
+18,240,2007,Whole Year,Banana,580.0,7460.0
+18,241,2000,Whole Year,Banana,30.0,380.0
+18,241,2001,Whole Year,Banana,30.0,390.0
+18,241,2002,Whole Year,Banana,190.0,1330.0
+18,241,2003,Whole Year,Banana,202.0,1586.0
+18,241,2004,Whole Year,Banana,40.0,510.0
+18,241,2005,Whole Year,Banana,160.0,2060.0
+18,241,2006,Summer,Banana,20.0,260.0
+18,241,2006,Whole Year,Banana,60.0,770.0
+18,241,2007,Whole Year,Banana,10.0,130.0
+18,523,1998,Autumn,Banana,300.0,3860.0
+18,523,1998,Rabi,Banana,210.0,2700.0
+18,523,1998,Winter,Banana,340.0,4370.0
+18,523,1999,Whole Year,Banana,670.0,8620.0
+18,523,2000,Whole Year,Banana,770.0,9900.0
+18,523,2001,Whole Year,Banana,740.0,9520.0
+18,523,2002,Whole Year,Banana,221.0,1820.0
+18,523,2003,Whole Year,Banana,229.0,1798.0
+18,523,2004,Whole Year,Banana,200.0,2570.0
+18,523,2005,Whole Year,Banana,520.0,6690.0
+18,523,2006,Summer,Banana,130.0,1670.0
+18,523,2006,Whole Year,Banana,760.0,9780.0
+18,523,2007,Whole Year,Banana,540.0,6940.0
+18,577,1998,Autumn,Banana,360.0,4630.0
+18,577,1998,Rabi,Banana,30.0,390.0
+18,577,1998,Winter,Banana,50.0,640.0
+18,577,1999,Whole Year,Banana,410.0,5270.0
+18,577,2000,Whole Year,Banana,370.0,4750.0
+18,577,2001,Whole Year,Banana,480.0,6170.0
+18,577,2002,Whole Year,Banana,467.0,4100.0
+18,577,2003,Whole Year,Banana,477.0,3744.0
+18,577,2004,Whole Year,Banana,1430.0,18390.0
+18,577,2005,Whole Year,Banana,990.0,12730.0
+18,577,2006,Summer,Banana,260.0,3340.0
+18,577,2006,Whole Year,Banana,1460.0,18780.0
+18,577,2007,Whole Year,Banana,1830.0,23540.0
+18,589,2002,Whole Year,Banana,131.0,1090.0
+18,589,2003,Whole Year,Banana,138.0,1083.0
+18,589,2004,Whole Year,Banana,20.0,260.0
+18,589,2007,Whole Year,Banana,10.0,130.0
+18,608,1998,Autumn,Banana,130.0,1670.0
+18,608,1998,Rabi,Banana,90.0,1160.0
+18,608,1998,Winter,Banana,90.0,1160.0
+18,608,1999,Whole Year,Banana,240.0,3090.0
+18,608,2000,Whole Year,Banana,320.0,4110.0
+18,608,2001,Whole Year,Banana,940.0,12090.0
+18,608,2002,Whole Year,Banana,50.0,393.0
+18,608,2003,Whole Year,Banana,54.0,424.0
+18,608,2004,Whole Year,Banana,680.0,8750.0
+18,608,2005,Whole Year,Banana,1210.0,15560.0
+18,608,2006,Summer,Banana,370.0,4750.0
+18,608,2006,Whole Year,Banana,980.0,12600.0
+18,608,2007,Whole Year,Banana,1750.0,22510.0
+19,171,1997,Whole Year,Banana,1075.0,13310.0
+19,171,1998,Whole Year,Banana,1032.0,13106.0
+19,171,1999,Whole Year,Banana,1089.0,13665.0
+19,171,2000,Whole Year,Banana,1097.0,13765.0
+19,171,2002,Whole Year,Banana,1102.0,14960.0
+19,171,2003,Whole Year,Banana,1158.0,15285.0
+19,171,2004,Whole Year,Banana,1538.0,15733.0
+19,171,2005,Whole Year,Banana,1568.0,18286.0
+19,171,2006,Kharif,Banana,1570.0,18314.0
+19,171,2008,Whole Year,Banana,1575.0,18412.0
+19,171,2009,Kharif,Banana,1739.0,23607.0
+19,171,2010,Kharif,Banana,1755.0,25128.0
+19,171,2011,Kharif,Banana,1852.0,26563.0
+19,171,2012,Kharif,Banana,1863.0,27159.0
+19,171,2013,Kharif,Banana,869.0,15283.0
+19,171,2014,Kharif,Banana,872.0,15372.0
+19,173,1997,Whole Year,Banana,309.0,1241.0
+19,173,1998,Whole Year,Banana,310.0,1245.0
+19,173,1999,Whole Year,Banana,315.0,1369.0
+19,173,2000,Whole Year,Banana,315.0,1470.0
+19,173,2002,Whole Year,Banana,325.0,1414.0
+19,173,2003,Whole Year,Banana,347.0,1413.0
+19,173,2004,Whole Year,Banana,376.0,1442.0
+19,173,2005,Whole Year,Banana,381.0,1448.0
+19,173,2006,Kharif,Banana,382.0,1457.0
+19,173,2008,Whole Year,Banana,384.0,1667.0
+19,173,2009,Kharif,Banana,403.0,1797.0
+19,173,2010,Kharif,Banana,349.0,1116.0
+19,173,2011,Kharif,Banana,350.0,1127.0
+19,173,2012,Kharif,Banana,352.0,1146.0
+19,173,2013,Kharif,Banana,102.0,335.0
+19,173,2014,Kharif,Banana,103.0,339.0
+19,175,1997,Whole Year,Banana,650.0,8614.0
+19,175,1998,Whole Year,Banana,652.0,8647.0
+19,175,1999,Whole Year,Banana,662.0,8844.0
+19,175,2000,Whole Year,Banana,672.0,9122.0
+19,175,2002,Whole Year,Banana,645.0,8478.0
+19,175,2003,Whole Year,Banana,703.0,8724.0
+19,175,2004,Whole Year,Banana,740.0,8716.0
+19,175,2005,Whole Year,Banana,766.0,8710.0
+19,175,2006,Kharif,Banana,765.0,8558.0
+19,175,2008,Whole Year,Banana,754.0,8024.0
+19,175,2009,Kharif,Banana,760.0,7990.0
+19,175,2010,Kharif,Banana,752.0,7619.0
+19,175,2011,Kharif,Banana,760.0,7870.0
+19,175,2012,Kharif,Banana,764.0,8056.0
+19,175,2013,Kharif,Banana,769.0,8238.0
+19,175,2014,Kharif,Banana,773.0,8345.0
+19,431,2013,Kharif,Banana,1007.0,12459.0
+19,431,2014,Kharif,Banana,1010.0,12533.0
+19,496,1997,Whole Year,Banana,772.0,13930.0
+19,496,1998,Whole Year,Banana,772.0,13950.0
+19,496,1999,Whole Year,Banana,775.0,13525.0
+19,496,2000,Whole Year,Banana,797.0,13907.0
+19,496,2002,Whole Year,Banana,805.0,14057.0
+19,496,2003,Whole Year,Banana,865.0,14632.0
+19,496,2004,Whole Year,Banana,893.0,14719.0
+19,496,2005,Whole Year,Banana,908.0,14851.0
+19,496,2006,Kharif,Banana,905.0,14802.0
+19,496,2008,Whole Year,Banana,910.0,14923.0
+19,496,2009,Kharif,Banana,872.0,14770.0
+19,496,2010,Kharif,Banana,897.0,15153.0
+19,496,2011,Kharif,Banana,898.0,15215.0
+19,496,2012,Kharif,Banana,913.0,15741.0
+19,496,2013,Kharif,Banana,919.0,16087.0
+19,496,2014,Kharif,Banana,924.0,16296.0
+19,561,1997,Whole Year,Banana,258.0,3203.0
+19,561,1998,Whole Year,Banana,259.0,3216.0
+19,561,1999,Whole Year,Banana,268.0,3327.0
+19,561,2000,Whole Year,Banana,272.0,3376.0
+19,561,2002,Whole Year,Banana,296.0,3675.0
+19,561,2003,Whole Year,Banana,324.0,3699.0
+19,561,2004,Whole Year,Banana,348.0,3699.0
+19,561,2005,Whole Year,Banana,376.0,3996.0
+19,561,2006,Kharif,Banana,380.0,4038.0
+19,561,2008,Whole Year,Banana,380.0,4020.0
+19,561,2009,Kharif,Banana,375.0,3677.0
+19,561,2010,Kharif,Banana,376.0,3713.0
+19,561,2011,Kharif,Banana,378.0,3776.0
+19,561,2012,Kharif,Banana,381.0,3869.0
+19,561,2013,Kharif,Banana,383.0,3950.0
+19,561,2014,Kharif,Banana,386.0,4005.0
+19,564,2013,Kharif,Banana,423.0,5223.0
+19,564,2014,Kharif,Banana,427.0,5284.0
+19,565,2013,Kharif,Banana,277.0,1467.0
+19,565,2014,Kharif,Banana,278.0,1475.0
+19,632,1997,Whole Year,Banana,1510.0,18776.0
+19,632,1998,Whole Year,Banana,1513.0,18815.0
+19,632,1999,Whole Year,Banana,1553.0,18735.0
+19,632,2000,Whole Year,Banana,1562.0,17285.0
+19,632,2002,Whole Year,Banana,1541.0,18740.0
+19,632,2003,Whole Year,Banana,1579.0,18872.0
+19,632,2004,Whole Year,Banana,1646.0,19266.0
+19,632,2005,Whole Year,Banana,1681.0,20068.0
+19,632,2006,Kharif,Banana,1675.0,20467.0
+19,632,2008,Whole Year,Banana,1769.0,22632.0
+19,632,2009,Kharif,Banana,1871.0,22845.0
+19,632,2010,Kharif,Banana,1881.0,22981.0
+19,632,2011,Kharif,Banana,1895.0,23293.0
+19,632,2012,Kharif,Banana,1929.0,24268.0
+19,632,2013,Kharif,Banana,1519.0,19563.0
+19,632,2014,Kharif,Banana,1523.0,19668.0
+19,634,2013,Kharif,Banana,253.0,829.0
+19,634,2014,Kharif,Banana,255.0,837.0
+19,636,1997,Whole Year,Banana,665.0,3937.0
+19,636,1998,Whole Year,Banana,656.0,3909.0
+19,636,1999,Whole Year,Banana,657.0,3918.0
+19,636,2000,Whole Year,Banana,662.0,5175.0
+19,636,2002,Whole Year,Banana,630.0,4335.0
+19,636,2003,Whole Year,Banana,652.0,4250.0
+19,636,2004,Whole Year,Banana,735.0,4263.0
+19,636,2005,Whole Year,Banana,746.0,4336.0
+19,636,2006,Kharif,Banana,745.0,4731.0
+19,636,2008,Whole Year,Banana,750.0,4636.0
+19,636,2009,Kharif,Banana,782.0,4136.0
+19,636,2010,Kharif,Banana,785.0,4244.0
+19,636,2011,Kharif,Banana,786.0,4281.0
+19,636,2012,Kharif,Banana,790.0,4374.0
+19,636,2013,Kharif,Banana,518.0,2998.0
+19,636,2014,Kharif,Banana,521.0,3032.0
+23,290,1999,Whole Year,Banana,12.0,300.0
+23,290,2000,Whole Year,Banana,11.0,308.0
+23,290,2001,Whole Year,Banana,10.0,300.0
+23,290,2002,Whole Year,Banana,14.0,350.0
+23,290,2003,Whole Year,Banana,13.0,332.0
+23,290,2004,Whole Year,Banana,13.0,520.0
+23,290,2005,Whole Year,Banana,13.0,260.0
+23,290,2006,Kharif,Banana,15.0,296.0
+23,290,2007,Kharif,Banana,15.0,300.0
+23,290,2008,Kharif,Banana,15.0,398.0
+23,290,2009,Kharif,Banana,16.0,418.0
+23,290,2010,Kharif,Banana,14.0,225.0
+23,290,2011,Kharif,Banana,15.0,112.0
+23,290,2012,Kharif,Banana,16.0,284.0
+23,290,2013,Kharif,Banana,15.0,113.0
+23,290,2014,Kharif,Banana,13.0,242.0
+23,367,1999,Whole Year,Banana,20.0,600.0
+23,367,2000,Whole Year,Banana,21.0,420.0
+23,367,2001,Whole Year,Banana,19.0,418.0
+23,367,2002,Whole Year,Banana,19.0,342.0
+23,367,2003,Whole Year,Banana,19.0,304.0
+23,367,2004,Whole Year,Banana,19.0,238.0
+23,367,2005,Whole Year,Banana,21.0,252.0
+23,367,2006,Kharif,Banana,22.0,268.0
+23,367,2007,Kharif,Banana,18.0,225.0
+23,367,2008,Kharif,Banana,23.0,308.0
+23,367,2009,Kharif,Banana,23.0,297.0
+23,367,2010,Kharif,Banana,24.0,300.0
+23,367,2011,Kharif,Banana,23.0,292.0
+23,460,1999,Whole Year,Banana,245.0,7840.0
+23,460,2000,Whole Year,Banana,204.0,6732.0
+23,460,2001,Whole Year,Banana,195.0,6728.0
+23,460,2002,Whole Year,Banana,240.0,7260.0
+23,460,2003,Whole Year,Banana,248.0,9459.0
+23,460,2004,Whole Year,Banana,270.0,9450.0
+23,460,2005,Whole Year,Banana,282.0,9870.0
+23,460,2006,Kharif,Banana,268.0,9326.0
+23,460,2007,Kharif,Banana,285.0,9932.0
+23,460,2008,Kharif,Banana,247.0,9818.0
+23,460,2009,Kharif,Banana,246.0,9656.0
+23,460,2010,Kharif,Banana,228.0,5843.0
+23,460,2011,Kharif,Banana,228.0,2859.0
+23,460,2012,Kharif,Banana,249.0,10617.0
+23,460,2013,Kharif,Banana,209.0,7059.0
+23,460,2014,Kharif,Banana,237.0,7079.0
+23,643,1999,Whole Year,Banana,5.0,150.0
+23,643,2000,Whole Year,Banana,3.0,72.0
+23,643,2001,Whole Year,Banana,1.0,15.0
+23,643,2002,Whole Year,Banana,1.0,13.0
+25,15,1999,Whole Year,Banana,2.0,
+25,15,2000,Whole Year,Banana,1.0,
+25,15,2001,Whole Year,Banana,1.0,
+25,15,2002,Whole Year,Banana,1.0,0.0
+25,15,2003,Whole Year,Banana,2.0,0.0
+25,15,2004,Whole Year,Banana,1.0,
+25,15,2005,Whole Year,Banana,2.0,
+25,15,2006,Whole Year,Banana,2.0,
+25,15,2007,Whole Year,Banana,4.0,
+25,15,2008,Whole Year,Banana,2.0,
+25,15,2009,Whole Year,Banana,4.0,
+25,15,2010,Whole Year,Banana,2.0,
+25,55,1999,Whole Year,Banana,2.0,
+25,55,2003,Whole Year,Banana,2.0,0.0
+25,55,2009,Whole Year,Banana,5.0,
+25,58,2000,Whole Year,Banana,1.0,
+25,58,2007,Whole Year,Banana,1.0,
+25,58,2008,Whole Year,Banana,1.0,
+25,90,2007,Whole Year,Banana,4.0,
+25,90,2008,Whole Year,Banana,4.0,
+25,123,2000,Whole Year,Banana,6.0,
+25,269,1999,Whole Year,Banana,1.0,
+25,291,2004,Whole Year,Banana,2.0,
+25,291,2005,Whole Year,Banana,1.0,
+25,291,2006,Whole Year,Banana,1.0,
+25,291,2007,Whole Year,Banana,2.0,
+25,291,2008,Whole Year,Banana,2.0,
+25,291,2010,Whole Year,Banana,1.0,
+25,408,1999,Whole Year,Banana,1.0,
+25,440,1999,Whole Year,Banana,6.0,
+25,440,2000,Whole Year,Banana,1.0,
+25,440,2001,Whole Year,Banana,1.0,
+25,440,2002,Whole Year,Banana,2.0,0.0
+25,440,2003,Whole Year,Banana,1.0,0.0
+25,464,1999,Whole Year,Banana,1.0,
+25,464,2001,Whole Year,Banana,2.0,
+25,482,2000,Whole Year,Banana,1.0,
+25,482,2002,Whole Year,Banana,1.0,0.0
+25,482,2003,Whole Year,Banana,3.0,0.0
+25,482,2004,Whole Year,Banana,2.0,
+25,482,2007,Whole Year,Banana,1.0,
+25,482,2008,Whole Year,Banana,1.0,
+25,482,2009,Whole Year,Banana,1.0,
+25,546,2007,Whole Year,Banana,5.0,
+25,602,2000,Whole Year,Banana,6.0,
+27,30,2008,Whole Year,Banana,190.0,
+27,30,2009,Whole Year,Banana,134.0,5761.0
+27,30,2011,Whole Year,Banana,144.0,6292.0
+27,30,2013,Whole Year,Banana,131.0,5441.0
+27,126,1997,Kharif,Banana,5619.0,183740.0
+27,126,1997,Whole Year,Banana,7269.0,285930.0
+27,126,1998,Whole Year,Banana,6189.0,243451.0
+27,126,1999,Whole Year,Banana,5619.0,183740.0
+27,126,2000,Whole Year,Banana,7050.0,230533.0
+27,126,2002,Whole Year,Banana,6499.0,212533.0
+27,126,2003,Whole Year,Banana,4983.0,145880.0
+27,126,2004,Whole Year,Banana,6102.0,285671.0
+27,126,2005,Whole Year,Banana,8056.0,395585.0
+27,126,2006,Whole Year,Banana,9948.0,396393.0
+27,126,2007,Whole Year,Banana,12126.0,442181.0
+27,126,2008,Whole Year,Banana,9805.0,487742.0
+27,126,2009,Whole Year,Banana,9617.0,392089.0
+27,126,2011,Whole Year,Banana,8634.0,339894.0
+27,126,2013,Whole Year,Banana,7412.0,324506.0
+27,128,1997,Kharif,Banana,3201.0,79293.0
+27,128,1997,Whole Year,Banana,3459.0,102500.0
+27,128,1998,Whole Year,Banana,3045.0,90226.0
+27,128,1999,Whole Year,Banana,3201.0,79293.0
+27,128,2000,Whole Year,Banana,4032.0,99878.0
+27,128,2002,Whole Year,Banana,3753.0,104971.0
+27,128,2003,Whole Year,Banana,3756.0,93525.0
+27,128,2004,Whole Year,Banana,3919.0,104663.0
+27,128,2005,Whole Year,Banana,3876.0,120554.0
+27,128,2006,Whole Year,Banana,4162.0,156690.0
+27,128,2007,Whole Year,Banana,4443.0,163768.0
+27,128,2008,Whole Year,Banana,4308.0,164032.0
+27,128,2009,Whole Year,Banana,4805.0,185329.0
+27,128,2011,Whole Year,Banana,4133.0,97421.0
+27,128,2013,Whole Year,Banana,4251.0,171740.0
+27,150,1997,Kharif,Banana,1354.0,53114.0
+27,150,1997,Whole Year,Banana,1871.0,140280.0
+27,150,1998,Whole Year,Banana,621.0,46561.0
+27,150,1999,Whole Year,Banana,1354.0,53114.0
+27,150,2000,Whole Year,Banana,1615.0,63352.0
+27,150,2002,Whole Year,Banana,1142.0,42200.0
+27,150,2003,Whole Year,Banana,385.0,13619.0
+27,150,2004,Whole Year,Banana,468.0,19879.0
+27,150,2005,Whole Year,Banana,628.0,30838.0
+27,150,2006,Whole Year,Banana,1141.0,61139.0
+27,150,2007,Whole Year,Banana,1313.0,62684.0
+27,150,2008,Whole Year,Banana,1432.0,64011.0
+27,150,2009,Whole Year,Banana,884.0,38009.0
+27,150,2011,Whole Year,Banana,838.0,36616.0
+27,150,2013,Whole Year,Banana,619.0,25710.0
+27,163,1997,Kharif,Banana,1224.0,21498.0
+27,163,1997,Whole Year,Banana,3091.0,55670.0
+27,163,1998,Whole Year,Banana,2557.0,46054.0
+27,163,1999,Whole Year,Banana,1224.0,21498.0
+27,163,2000,Whole Year,Banana,2156.0,37867.0
+27,163,2002,Whole Year,Banana,3325.0,85802.0
+27,163,2003,Whole Year,Banana,3018.0,106762.0
+27,163,2004,Whole Year,Banana,3102.0,131764.0
+27,163,2005,Whole Year,Banana,3756.0,184436.0
+27,163,2006,Whole Year,Banana,4539.0,243219.0
+27,163,2007,Whole Year,Banana,4826.0,229169.0
+27,163,2008,Whole Year,Banana,4846.0,164240.0
+27,163,2009,Whole Year,Banana,4680.0,190848.0
+27,163,2011,Whole Year,Banana,5307.0,130919.0
+27,163,2013,Whole Year,Banana,4037.0,111066.0
+27,179,1997,Kharif,Banana,2755.0,100639.0
+27,179,1997,Whole Year,Banana,4653.0,182310.0
+27,179,1998,Whole Year,Banana,2820.0,110493.0
+27,179,1999,Whole Year,Banana,2755.0,100639.0
+27,179,2000,Whole Year,Banana,2986.0,109077.0
+27,179,2002,Whole Year,Banana,4450.0,139630.0
+27,179,2003,Whole Year,Banana,4090.0,111558.0
+27,179,2004,Whole Year,Banana,6433.0,249044.0
+27,179,2005,Whole Year,Banana,7710.0,377037.0
+27,179,2006,Whole Year,Banana,8510.0,582228.0
+27,179,2007,Whole Year,Banana,10480.0,571018.0
+27,179,2008,Whole Year,Banana,10986.0,623763.0
+27,179,2009,Whole Year,Banana,10919.0,370426.0
+27,179,2011,Whole Year,Banana,5246.0,159356.0
+27,179,2013,Whole Year,Banana,10426.0,314123.0
+27,280,1997,Kharif,Banana,145.0,3004.0
+27,280,1997,Whole Year,Banana,242.0,9290.0
+27,280,1998,Whole Year,Banana,124.0,4760.0
+27,280,1999,Whole Year,Banana,145.0,3004.0
+27,280,2000,Whole Year,Banana,26.0,539.0
+27,280,2002,Whole Year,Banana,231.0,8536.0
+27,280,2003,Whole Year,Banana,153.0,5412.0
+27,280,2004,Whole Year,Banana,295.0,12531.0
+27,280,2005,Whole Year,Banana,333.0,16352.0
+27,280,2006,Whole Year,Banana,406.0,21755.0
+27,280,2007,Whole Year,Banana,339.0,16184.0
+27,280,2008,Whole Year,Banana,276.0,12269.0
+27,280,2009,Whole Year,Banana,287.0,12340.0
+27,280,2011,Whole Year,Banana,258.0,11273.0
+27,280,2013,Whole Year,Banana,223.0,9262.0
+27,285,1997,Kharif,Banana,5282.0,120433.0
+27,285,1997,Whole Year,Banana,4597.0,124600.0
+27,285,1998,Whole Year,Banana,4616.0,125117.0
+27,285,1999,Whole Year,Banana,5282.0,120433.0
+27,285,2000,Whole Year,Banana,4520.0,103059.0
+27,285,2002,Whole Year,Banana,4974.0,126152.0
+27,285,2003,Whole Year,Banana,5633.0,134686.0
+27,285,2004,Whole Year,Banana,5440.0,177531.0
+27,285,2005,Whole Year,Banana,5546.0,261682.0
+27,285,2006,Whole Year,Banana,6004.0,274669.0
+27,285,2007,Whole Year,Banana,5481.0,171633.0
+27,285,2008,Whole Year,Banana,6149.0,273338.0
+27,285,2009,Whole Year,Banana,6817.0,219970.0
+27,285,2011,Whole Year,Banana,5982.0,163039.0
+27,285,2013,Whole Year,Banana,6542.0,198178.0
+27,297,1997,Kharif,Banana,5092.0,181514.0
+27,297,1997,Whole Year,Banana,5566.0,352780.0
+27,297,1998,Whole Year,Banana,2828.0,179242.0
+27,297,1999,Whole Year,Banana,5092.0,181514.0
+27,297,2000,Whole Year,Banana,2733.0,97423.0
+27,297,2002,Whole Year,Banana,5151.0,104486.0
+27,297,2003,Whole Year,Banana,3580.0,75805.0
+27,297,2004,Whole Year,Banana,3394.0,112532.0
+27,297,2005,Whole Year,Banana,3947.0,179675.0
+27,297,2006,Whole Year,Banana,5005.0,222082.0
+27,297,2007,Whole Year,Banana,5028.0,181370.0
+27,297,2008,Whole Year,Banana,5304.0,235245.0
+27,297,2009,Whole Year,Banana,5277.0,234650.0
+27,297,2011,Whole Year,Banana,4812.0,212215.0
+27,297,2013,Whole Year,Banana,2666.0,160880.0
+27,336,2003,Whole Year,Banana,1024.0,36224.0
+27,336,2004,Whole Year,Banana,1050.0,44601.0
+27,336,2005,Whole Year,Banana,1813.0,89026.0
+27,336,2006,Whole Year,Banana,2176.0,116599.0
+27,336,2007,Whole Year,Banana,2170.0,103597.0
+27,336,2008,Whole Year,Banana,2251.0,100063.0
+27,336,2009,Whole Year,Banana,1832.0,78769.0
+27,336,2011,Whole Year,Banana,1768.0,77252.0
+27,336,2013,Whole Year,Banana,920.0,38211.0
+27,363,1997,Kharif,Banana,1769.0,54752.0
+27,363,1997,Whole Year,Banana,2077.0,139430.0
+27,363,1998,Whole Year,Banana,2126.0,142723.0
+27,363,1999,Whole Year,Banana,1769.0,54752.0
+27,363,2000,Whole Year,Banana,1577.0,48810.0
+27,363,2002,Whole Year,Banana,2136.0,76779.0
+27,363,2003,Whole Year,Banana,2436.0,86173.0
+27,363,2004,Whole Year,Banana,2733.0,116090.0
+27,363,2005,Whole Year,Banana,2831.0,139015.0
+27,363,2006,Whole Year,Banana,2766.0,148214.0
+27,363,2007,Whole Year,Banana,2792.0,133292.0
+27,363,2008,Whole Year,Banana,2680.0,134413.0
+27,363,2009,Whole Year,Banana,2504.0,107662.0
+27,363,2011,Whole Year,Banana,2370.0,103556.0
+27,363,2013,Whole Year,Banana,2427.0,100803.0
+27,407,1997,Kharif,Banana,575.0,14622.0
+27,407,1997,Whole Year,Banana,556.0,26820.0
+27,407,1998,Whole Year,Banana,541.0,15747.0
+27,407,1999,Whole Year,Banana,575.0,14622.0
+27,407,2000,Whole Year,Banana,38.0,966.0
+27,407,2002,Whole Year,Banana,750.0,27715.0
+27,407,2003,Whole Year,Banana,537.0,18996.0
+27,407,2004,Whole Year,Banana,533.0,22640.0
+27,407,2005,Whole Year,Banana,616.0,30248.0
+27,407,2006,Whole Year,Banana,613.0,32847.0
+27,407,2007,Whole Year,Banana,609.0,29074.0
+27,407,2008,Whole Year,Banana,578.0,25694.0
+27,407,2009,Whole Year,Banana,640.0,27518.0
+27,407,2011,Whole Year,Banana,645.0,28183.0
+27,407,2013,Whole Year,Banana,575.0,23882.0
+27,414,1997,Kharif,Banana,1239.0,27016.0
+27,414,1997,Whole Year,Banana,1280.0,42260.0
+27,414,1998,Whole Year,Banana,749.0,24727.0
+27,414,1999,Whole Year,Banana,1239.0,27016.0
+27,414,2000,Whole Year,Banana,4746.0,103484.0
+27,414,2002,Whole Year,Banana,898.0,33184.0
+27,414,2003,Whole Year,Banana,1523.0,53876.0
+27,414,2004,Whole Year,Banana,902.0,38314.0
+27,414,2005,Whole Year,Banana,2005.0,98454.0
+27,414,2006,Whole Year,Banana,2432.0,130317.0
+27,414,2007,Whole Year,Banana,2522.0,120402.0
+27,414,2008,Whole Year,Banana,2705.0,120244.0
+27,414,2009,Whole Year,Banana,2610.0,112220.0
+27,414,2011,Whole Year,Banana,2928.0,127938.0
+27,414,2013,Whole Year,Banana,1716.0,52243.0
+27,455,1997,Kharif,Banana,372.0,13261.0
+27,455,1997,Whole Year,Banana,260.0,16480.0
+27,455,1998,Whole Year,Banana,474.0,30043.0
+27,455,1999,Whole Year,Banana,372.0,13261.0
+27,455,2000,Whole Year,Banana,270.0,9625.0
+27,455,2002,Whole Year,Banana,277.0,10236.0
+27,455,2003,Whole Year,Banana,304.0,10754.0
+27,455,2004,Whole Year,Banana,344.0,14612.0
+27,455,2005,Whole Year,Banana,332.0,16303.0
+27,455,2006,Whole Year,Banana,335.0,17951.0
+27,455,2007,Whole Year,Banana,350.0,16709.0
+27,455,2008,Whole Year,Banana,196.0,17159.0
+27,455,2009,Whole Year,Banana,214.0,9201.0
+27,455,2011,Whole Year,Banana,188.0,8215.0
+27,455,2013,Whole Year,Banana,182.0,7559.0
+27,465,1997,Kharif,Banana,3558.0,106791.0
+27,465,1997,Whole Year,Banana,3520.0,170370.0
+27,465,1998,Whole Year,Banana,3546.0,171623.0
+27,465,1999,Whole Year,Banana,3558.0,106791.0
+27,465,2000,Whole Year,Banana,2550.0,76537.0
+27,465,2002,Whole Year,Banana,3443.0,170257.0
+27,465,2003,Whole Year,Banana,3519.0,177570.0
+27,465,2004,Whole Year,Banana,3996.0,187780.0
+27,465,2005,Whole Year,Banana,4050.0,204626.0
+27,465,2006,Whole Year,Banana,3736.0,238141.0
+27,465,2007,Whole Year,Banana,3135.0,174881.0
+27,465,2008,Whole Year,Banana,3617.0,165895.0
+27,465,2009,Whole Year,Banana,3426.0,219614.0
+27,465,2011,Whole Year,Banana,3123.0,206796.0
+27,465,2013,Whole Year,Banana,2303.0,94696.0
+27,484,1997,Kharif,Banana,88.0,3141.0
+27,484,1997,Whole Year,Banana,177.0,8540.0
+27,484,1998,Whole Year,Banana,39.0,1906.0
+27,484,1999,Whole Year,Banana,88.0,3141.0
+27,484,2000,Whole Year,Banana,74.0,2642.0
+27,484,2002,Whole Year,Banana,169.0,6245.0
+27,484,2003,Whole Year,Banana,147.0,5200.0
+27,484,2004,Whole Year,Banana,131.0,5563.0
+27,484,2005,Whole Year,Banana,88.0,4321.0
+27,484,2006,Whole Year,Banana,115.0,6162.0
+27,484,2007,Whole Year,Banana,115.0,5490.0
+27,484,2008,Whole Year,Banana,384.0,17070.0
+27,484,2009,Whole Year,Banana,73.0,3139.0
+27,484,2011,Whole Year,Banana,106.0,4632.0
+27,484,2013,Whole Year,Banana,155.0,6438.0
+27,508,1997,Kharif,Banana,1216.0,26514.0
+27,508,1997,Whole Year,Banana,1423.0,46980.0
+27,508,1998,Whole Year,Banana,1198.0,39550.0
+27,508,1999,Whole Year,Banana,1216.0,26514.0
+27,508,2000,Whole Year,Banana,839.0,18294.0
+27,508,2002,Whole Year,Banana,613.0,22652.0
+27,508,2003,Whole Year,Banana,1249.0,44183.0
+27,508,2004,Whole Year,Banana,1335.0,56707.0
+27,508,2005,Whole Year,Banana,1367.0,67126.0
+27,508,2006,Whole Year,Banana,2413.0,129298.0
+27,508,2007,Whole Year,Banana,2918.0,139308.0
+27,508,2008,Whole Year,Banana,3630.0,161363.0
+27,508,2009,Whole Year,Banana,3368.0,144811.0
+27,508,2011,Whole Year,Banana,2374.0,103949.0
+27,508,2013,Whole Year,Banana,1658.0,68864.0
+27,550,1997,Kharif,Banana,284.0,9941.0
+27,550,1997,Whole Year,Banana,472.0,22770.0
+27,550,1998,Whole Year,Banana,318.0,15539.0
+27,550,1999,Whole Year,Banana,284.0,9941.0
+27,550,2000,Whole Year,Banana,127.0,4445.0
+27,550,2002,Whole Year,Banana,690.0,25498.0
+27,550,2003,Whole Year,Banana,678.0,23984.0
+27,550,2004,Whole Year,Banana,990.0,42052.0
+27,550,2005,Whole Year,Banana,936.0,45962.0
+27,550,2006,Whole Year,Banana,624.0,33436.0
+27,550,2007,Whole Year,Banana,666.0,31795.0
+27,550,2008,Whole Year,Banana,735.0,32673.0
+27,550,2009,Whole Year,Banana,919.0,39513.0
+27,550,2011,Whole Year,Banana,1025.0,44787.0
+27,550,2013,Whole Year,Banana,1044.0,43362.0
+27,583,1997,Kharif,Banana,2937.0,75114.0
+27,583,1997,Whole Year,Banana,3549.0,103300.0
+27,583,1998,Whole Year,Banana,2969.0,86422.0
+27,583,1999,Whole Year,Banana,2937.0,75114.0
+27,583,2000,Whole Year,Banana,2471.0,63196.0
+27,583,2002,Whole Year,Banana,3726.0,102024.0
+27,583,2003,Whole Year,Banana,4158.0,160440.0
+27,583,2004,Whole Year,Banana,4764.0,121550.0
+27,583,2005,Whole Year,Banana,4921.0,242589.0
+27,583,2006,Whole Year,Banana,4341.0,184656.0
+27,583,2007,Whole Year,Banana,4200.0,164686.0
+27,583,2008,Whole Year,Banana,4179.0,183830.0
+27,583,2009,Whole Year,Banana,3603.0,132352.0
+27,583,2011,Whole Year,Banana,3212.0,121277.0
+27,583,2013,Whole Year,Banana,3176.0,161663.0
+27,584,1997,Kharif,Banana,106.0,3268.0
+27,584,1997,Whole Year,Banana,220.0,10610.0
+27,584,1998,Whole Year,Banana,217.0,10604.0
+27,584,1999,Whole Year,Banana,106.0,3268.0
+27,584,2000,Whole Year,Banana,147.0,4532.0
+27,584,2002,Whole Year,Banana,519.0,7447.0
+27,584,2003,Whole Year,Banana,314.0,11108.0
+27,584,2004,Whole Year,Banana,545.0,23150.0
+27,584,2005,Whole Year,Banana,612.0,30052.0
+27,584,2006,Whole Year,Banana,801.0,42921.0
+27,584,2007,Whole Year,Banana,755.0,36044.0
+27,584,2008,Whole Year,Banana,917.0,40763.0
+27,584,2009,Whole Year,Banana,1064.0,45748.0
+27,584,2011,Whole Year,Banana,883.0,38582.0
+27,584,2013,Whole Year,Banana,622.0,25834.0
+27,585,1997,Kharif,Banana,1970.0,34600.0
+27,585,1997,Whole Year,Banana,4478.0,300620.0
+27,585,1998,Whole Year,Banana,2377.0,159573.0
+27,585,1999,Whole Year,Banana,1970.0,34600.0
+27,585,2000,Whole Year,Banana,1530.0,26872.0
+27,585,2002,Whole Year,Banana,3702.0,136800.0
+27,585,2003,Whole Year,Banana,2592.0,91692.0
+27,585,2004,Whole Year,Banana,2842.0,120720.0
+27,585,2005,Whole Year,Banana,3328.0,163420.0
+27,585,2006,Whole Year,Banana,4102.0,219802.0
+27,585,2007,Whole Year,Banana,4577.0,194517.0
+27,585,2008,Whole Year,Banana,4846.0,432852.0
+27,585,2009,Whole Year,Banana,5779.0,449406.0
+27,585,2011,Whole Year,Banana,5767.0,453756.0
+27,585,2013,Whole Year,Banana,5996.0,398454.0
+27,586,1997,Kharif,Banana,5582.0,115644.0
+27,586,1997,Whole Year,Banana,1121.0,54080.0
+27,586,1998,Whole Year,Banana,747.0,28674.0
+27,586,1999,Whole Year,Banana,5582.0,115644.0
+27,586,2000,Whole Year,Banana,660.0,13673.0
+27,586,2002,Whole Year,Banana,917.0,33886.0
+27,586,2003,Whole Year,Banana,629.0,22251.0
+27,586,2004,Whole Year,Banana,1623.0,68940.0
+27,586,2005,Whole Year,Banana,2026.0,99486.0
+27,586,2006,Whole Year,Banana,1504.0,80591.0
+27,586,2007,Whole Year,Banana,1572.0,75048.0
+27,586,2008,Whole Year,Banana,1340.0,59566.0
+27,586,2009,Whole Year,Banana,1066.0,45834.0
+27,586,2011,Whole Year,Banana,1095.0,47846.0
+27,586,2013,Whole Year,Banana,710.0,29489.0
+27,588,1997,Kharif,Banana,342.0,8747.0
+27,588,1997,Whole Year,Banana,408.0,19680.0
+27,588,1998,Whole Year,Banana,564.0,16417.0
+27,588,1999,Whole Year,Banana,342.0,8747.0
+27,588,2000,Whole Year,Banana,340.0,8696.0
+27,588,2002,Whole Year,Banana,300.0,11086.0
+27,588,2003,Whole Year,Banana,328.0,11603.0
+27,588,2004,Whole Year,Banana,346.0,14697.0
+27,588,2005,Whole Year,Banana,420.0,20624.0
+27,588,2006,Whole Year,Banana,367.0,19665.0
+27,588,2007,Whole Year,Banana,469.0,22390.0
+27,588,2008,Whole Year,Banana,402.0,17870.0
+27,588,2009,Whole Year,Banana,382.0,16425.0
+27,588,2011,Whole Year,Banana,422.0,18439.0
+27,588,2013,Whole Year,Banana,359.0,14911.0
+27,594,1997,Kharif,Banana,11005.0,392293.0
+27,594,1997,Whole Year,Banana,8909.0,564660.0
+27,594,1998,Whole Year,Banana,13372.0,847531.0
+27,594,1999,Whole Year,Banana,11005.0,392293.0
+27,594,2000,Whole Year,Banana,9348.0,333226.0
+27,594,2002,Whole Year,Banana,9020.0,384166.0
+27,594,2003,Whole Year,Banana,7521.0,346490.0
+27,594,2004,Whole Year,Banana,8520.0,417825.0
+27,594,2005,Whole Year,Banana,8871.0,404377.0
+27,594,2006,Whole Year,Banana,8790.0,437633.0
+27,594,2007,Whole Year,Banana,9191.0,394532.0
+27,594,2008,Whole Year,Banana,8465.0,308928.0
+27,594,2009,Whole Year,Banana,8534.0,371673.0
+27,594,2011,Whole Year,Banana,8767.0,483495.0
+27,594,2013,Whole Year,Banana,7144.0,375877.0
+27,595,1997,Kharif,Banana,6049.0,187507.0
+27,595,1997,Whole Year,Banana,5262.0,232650.0
+27,595,1998,Whole Year,Banana,6462.0,285704.0
+27,595,1999,Whole Year,Banana,6049.0,187507.0
+27,595,2000,Whole Year,Banana,5844.0,181153.0
+27,595,2002,Whole Year,Banana,6817.0,316393.0
+27,595,2003,Whole Year,Banana,5924.0,197539.0
+27,595,2004,Whole Year,Banana,5820.0,279400.0
+27,595,2005,Whole Year,Banana,7139.0,255705.0
+27,595,2006,Whole Year,Banana,8121.0,375547.0
+27,595,2007,Whole Year,Banana,10005.0,384626.0
+27,595,2008,Whole Year,Banana,9519.0,299114.0
+27,595,2009,Whole Year,Banana,9446.0,235570.0
+27,595,2011,Whole Year,Banana,8854.0,211954.0
+27,595,2013,Whole Year,Banana,7193.0,211773.0
+27,596,2008,Whole Year,Banana,3939.0,
+27,596,2009,Whole Year,Banana,3364.0,133145.0
+27,596,2011,Whole Year,Banana,3057.0,112400.0
+27,596,2013,Whole Year,Banana,1815.0,86895.0
+27,597,1997,Kharif,Banana,1757.0,66962.0
+27,597,1997,Whole Year,Banana,2614.0,124980.0
+27,597,1998,Whole Year,Banana,1413.0,67556.0
+27,597,1999,Whole Year,Banana,1757.0,66962.0
+27,597,2000,Whole Year,Banana,1622.0,61817.0
+27,597,2002,Whole Year,Banana,1032.0,38134.0
+27,597,2003,Whole Year,Banana,664.0,23489.0
+27,597,2004,Whole Year,Banana,2600.0,110440.0
+27,597,2005,Whole Year,Banana,2814.0,138180.0
+27,597,2006,Whole Year,Banana,3132.0,304298.0
+27,597,2007,Whole Year,Banana,3106.0,233272.0
+27,597,2008,Whole Year,Banana,3147.0,232515.0
+27,597,2009,Whole Year,Banana,3044.0,130880.0
+27,597,2011,Whole Year,Banana,3205.0,140041.0
+27,597,2013,Whole Year,Banana,2972.0,169469.0
+27,601,1997,Kharif,Banana,17010.0,685918.0
+27,601,1997,Whole Year,Banana,9507.0,686640.0
+27,601,1998,Whole Year,Banana,9046.0,653338.0
+27,601,1999,Whole Year,Banana,17010.0,685918.0
+27,601,2000,Whole Year,Banana,14911.0,601277.0
+27,601,2002,Whole Year,Banana,8037.0,477145.0
+27,601,2003,Whole Year,Banana,8272.0,386862.0
+27,601,2004,Whole Year,Banana,8995.0,501460.0
+27,601,2005,Whole Year,Banana,9790.0,696235.0
+27,601,2006,Whole Year,Banana,10252.0,685773.0
+27,601,2007,Whole Year,Banana,10260.0,610430.0
+27,601,2008,Whole Year,Banana,9849.0,482959.0
+27,601,2009,Whole Year,Banana,9760.0,565224.0
+27,601,2011,Whole Year,Banana,9586.0,621672.0
+27,601,2013,Whole Year,Banana,9142.0,403882.0
+27,621,1997,Kharif,Banana,4121.0,137719.0
+27,621,1997,Whole Year,Banana,8661.0,309930.0
+27,621,1998,Whole Year,Banana,4888.0,174912.0
+27,621,1999,Whole Year,Banana,4121.0,137719.0
+27,621,2000,Whole Year,Banana,3789.0,126624.0
+27,621,2002,Whole Year,Banana,2051.0,75791.0
+27,621,2003,Whole Year,Banana,2049.0,72483.0
+27,621,2004,Whole Year,Banana,2754.0,116982.0
+27,621,2005,Whole Year,Banana,4926.0,241888.0
+27,621,2006,Whole Year,Banana,6712.0,359657.0
+27,621,2007,Whole Year,Banana,7155.0,572173.0
+27,621,2008,Whole Year,Banana,6918.0,192238.0
+27,621,2009,Whole Year,Banana,6645.0,284238.0
+27,621,2011,Whole Year,Banana,6179.0,297556.0
+27,621,2013,Whole Year,Banana,4206.0,128699.0
+27,623,1997,Kharif,Banana,1306.0,38416.0
+27,623,1997,Whole Year,Banana,1143.0,33360.0
+27,623,1998,Whole Year,Banana,507.0,14797.0
+27,623,1999,Whole Year,Banana,1306.0,38416.0
+27,623,2000,Whole Year,Banana,1025.0,30151.0
+27,623,2002,Whole Year,Banana,1215.0,22654.0
+27,623,2003,Whole Year,Banana,862.0,19680.0
+27,623,2004,Whole Year,Banana,1012.0,42987.0
+27,623,2005,Whole Year,Banana,1120.0,54997.0
+27,623,2006,Whole Year,Banana,1186.0,63551.0
+27,623,2007,Whole Year,Banana,1229.0,58673.0
+27,623,2008,Whole Year,Banana,1348.0,59922.0
+27,623,2009,Whole Year,Banana,1151.0,49489.0
+27,623,2011,Whole Year,Banana,1282.0,56016.0
+27,623,2013,Whole Year,Banana,975.0,40496.0
+27,624,1997,Kharif,Banana,491.0,16863.0
+27,624,1997,Whole Year,Banana,747.0,36040.0
+27,624,1998,Whole Year,Banana,328.0,16028.0
+27,624,1999,Whole Year,Banana,491.0,16863.0
+27,624,2000,Whole Year,Banana,459.0,15764.0
+27,624,2002,Whole Year,Banana,934.0,34514.0
+27,624,2003,Whole Year,Banana,760.0,26885.0
+27,624,2004,Whole Year,Banana,510.0,21663.0
+27,624,2005,Whole Year,Banana,791.0,38842.0
+27,624,2006,Whole Year,Banana,973.0,52137.0
+27,624,2007,Whole Year,Banana,961.0,45879.0
+27,624,2008,Whole Year,Banana,863.0,38363.0
+27,624,2009,Whole Year,Banana,837.0,35988.0
+27,624,2011,Whole Year,Banana,917.0,40068.0
+27,624,2013,Whole Year,Banana,866.0,35969.0
+28,2,2000,Whole Year,Banana,159.0,51.0
+28,2,2001,Whole Year,Banana,225.0,5063.0
+28,2,2002,Whole Year,Banana,13.0,317.0
+28,2,2003,Whole Year,Banana,110.0,1540.0
+28,2,2004,Whole Year,Banana,71.0,1757.0
+28,2,2006,Whole Year,Banana,41.0,998.0
+28,2,2009,Whole Year,Banana,188.0,5668.0
+28,2,2010,Whole Year,Banana,6.0,196.0
+28,2,2014,Kharif,Banana,11.0,464.0
+28,295,2000,Whole Year,Banana,1.0,
+28,295,2001,Whole Year,Banana,1.0,
+28,295,2002,Whole Year,Banana,9.0,220.0
+28,295,2004,Whole Year,Banana,12.0,297.0
+28,295,2005,Whole Year,Banana,33.0,690.0
+28,295,2006,Whole Year,Banana,16.0,389.0
+28,295,2013,Kharif,Banana,14.0,436.0
+28,295,2014,Kharif,Banana,31.0,1307.0
+28,307,2000,Whole Year,Banana,754.0,18152.0
+28,307,2001,Whole Year,Banana,673.0,13682.0
+28,307,2002,Whole Year,Banana,735.0,17937.0
+28,307,2003,Whole Year,Banana,859.0,12028.0
+28,307,2004,Whole Year,Banana,935.0,23134.0
+28,307,2005,Whole Year,Banana,497.0,
+28,307,2006,Whole Year,Banana,983.0,23929.0
+28,307,2008,Whole Year,Banana,517.0,13166.0
+28,307,2009,Whole Year,Banana,538.0,16220.0
+28,307,2010,Whole Year,Banana,1020.0,33270.0
+28,307,2011,Whole Year,Banana,991.0,36834.0
+28,307,2013,Kharif,Banana,668.0,20804.0
+28,307,2014,Kharif,Banana,358.0,15518.0
+28,366,2000,Whole Year,Banana,5.0,128.0
+28,366,2001,Whole Year,Banana,12.0,
+28,385,2000,Whole Year,Banana,333.0,6068.0
+28,385,2001,Whole Year,Banana,527.0,2160.0
+28,385,2002,Whole Year,Banana,297.0,7248.0
+28,385,2003,Whole Year,Banana,121.0,1694.0
+28,385,2004,Whole Year,Banana,48.0,1188.0
+28,385,2005,Whole Year,Banana,4.0,84.0
+28,385,2006,Whole Year,Banana,525.0,12780.0
+28,385,2008,Whole Year,Banana,552.0,14057.0
+28,385,2009,Whole Year,Banana,798.0,24058.0
+28,385,2010,Whole Year,Banana,727.0,23713.0
+28,385,2011,Whole Year,Banana,381.0,14161.0
+28,385,2013,Kharif,Banana,545.0,16973.0
+28,385,2014,Kharif,Banana,904.0,37703.0
+28,413,2000,Whole Year,Banana,13.0,333.0
+28,413,2001,Whole Year,Banana,9.0,
+28,413,2002,Whole Year,Banana,3.0,73.0
+28,413,2004,Whole Year,Banana,1.0,25.0
+28,413,2005,Whole Year,Banana,1.0,21.0
+28,413,2006,Whole Year,Banana,1.0,24.0
+28,413,2009,Whole Year,Banana,3.0,90.0
+28,413,2011,Whole Year,Banana,5.0,186.0
+28,413,2013,Kharif,Banana,11.0,343.0
+28,413,2014,Kharif,Banana,39.0,1645.0
+28,428,2000,Whole Year,Banana,478.0,4890.0
+28,428,2001,Whole Year,Banana,398.0,2070.0
+28,428,2002,Whole Year,Banana,405.0,9884.0
+28,428,2003,Whole Year,Banana,360.0,5041.0
+28,428,2004,Whole Year,Banana,392.0,9699.0
+28,428,2005,Whole Year,Banana,83.0,1735.0
+28,428,2006,Whole Year,Banana,109.0,2653.0
+28,428,2008,Whole Year,Banana,241.0,6137.0
+28,428,2009,Whole Year,Banana,150.0,4522.0
+28,428,2010,Whole Year,Banana,138.0,4501.0
+28,428,2011,Whole Year,Banana,178.0,6616.0
+28,428,2013,Kharif,Banana,46.0,1433.0
+28,428,2014,Kharif,Banana,44.0,1856.0
+28,489,2000,Whole Year,Banana,246.0,6042.0
+28,489,2001,Whole Year,Banana,249.0,3533.0
+28,489,2002,Whole Year,Banana,204.0,4978.0
+28,489,2003,Whole Year,Banana,86.0,1204.0
+28,489,2004,Whole Year,Banana,271.0,6705.0
+28,489,2005,Whole Year,Banana,40.0,836.0
+28,489,2006,Whole Year,Banana,83.0,2020.0
+28,489,2008,Whole Year,Banana,34.0,866.0
+28,489,2009,Whole Year,Banana,4.0,121.0
+28,489,2010,Whole Year,Banana,45.0,1468.0
+28,489,2011,Whole Year,Banana,49.0,1821.0
+28,489,2013,Kharif,Banana,63.0,1962.0
+28,489,2014,Kharif,Banana,56.0,2362.0
+28,627,2000,Whole Year,Banana,154.0,3943.0
+28,627,2001,Whole Year,Banana,277.0,6233.0
+28,627,2002,Whole Year,Banana,609.0,14862.0
+28,627,2003,Whole Year,Banana,436.0,6105.0
+28,627,2004,Whole Year,Banana,299.0,4478.0
+28,627,2005,Whole Year,Banana,111.0,2320.0
+28,627,2006,Whole Year,Banana,115.0,2799.0
+28,627,2008,Whole Year,Banana,174.0,4431.0
+28,627,2009,Whole Year,Banana,190.0,5728.0
+28,627,2010,Whole Year,Banana,150.0,4893.0
+28,627,2011,Whole Year,Banana,174.0,6467.0
+28,627,2013,Kharif,Banana,175.0,5450.0
+28,627,2014,Kharif,Banana,264.0,11133.0
+30,11,2005,Whole Year,Banana,2.0,77.0
+30,11,2008,Summer,Banana,2.0,77.0
+30,11,2009,Summer,Banana,1.0,41.0
+30,11,2012,Summer,Banana,1.0,45.0
+30,11,2013,Summer,Banana,1.0,44.0
+30,11,2014,Summer,Banana,1.0,45.0
+30,13,2004,Whole Year,Banana,7.0,255.0
+30,13,2005,Whole Year,Banana,9.0,343.0
+30,13,2006,Whole Year,Banana,10.0,388.0
+30,13,2008,Summer,Banana,9.0,343.0
+30,13,2009,Summer,Banana,14.0,576.0
+30,13,2011,Summer,Banana,2.0,87.0
+30,13,2013,Summer,Banana,6.0,261.0
+30,13,2014,Summer,Banana,5.0,226.0
+30,17,2009,Summer,Banana,6.0,246.0
+30,17,2014,Summer,Banana,17.0,767.0
+30,18,2011,Summer,Banana,1.0,43.0
+30,33,2005,Whole Year,Banana,1.0,38.0
+30,33,2008,Summer,Banana,1.0,38.0
+30,33,2009,Summer,Banana,12.0,493.0
+30,33,2012,Summer,Banana,3.0,134.0
+30,33,2013,Summer,Banana,4.0,174.0
+30,33,2014,Summer,Banana,6.0,271.0
+30,35,2004,Whole Year,Banana,8.0,291.0
+30,35,2005,Whole Year,Banana,1.0,38.0
+30,35,2008,Summer,Banana,1.0,38.0
+30,35,2009,Summer,Banana,2.0,82.0
+30,39,2012,Summer,Banana,1.0,45.0
+30,40,2004,Whole Year,Banana,26.0,946.0
+30,40,2005,Whole Year,Banana,38.0,1448.0
+30,40,2006,Whole Year,Banana,36.0,1397.0
+30,40,2008,Summer,Banana,38.0,1448.0
+30,40,2009,Summer,Banana,72.0,2961.0
+30,40,2011,Summer,Banana,128.0,5592.0
+30,40,2012,Summer,Banana,82.0,3661.0
+30,40,2013,Summer,Banana,96.0,4180.0
+30,40,2014,Summer,Banana,100.0,4511.0
+30,45,2009,Summer,Banana,4.0,165.0
+30,45,2011,Summer,Banana,18.0,786.0
+30,45,2012,Summer,Banana,18.0,804.0
+30,45,2013,Summer,Banana,5.0,218.0
+30,45,2014,Summer,Banana,7.0,316.0
+30,48,2006,Whole Year,Banana,2.0,78.0
+30,56,2004,Whole Year,Banana,3.0,109.0
+30,56,2006,Whole Year,Banana,4.0,155.0
+30,56,2011,Summer,Banana,27.0,1180.0
+30,56,2012,Summer,Banana,29.0,1295.0
+30,56,2013,Summer,Banana,163.0,7097.0
+30,56,2014,Summer,Banana,120.0,5413.0
+30,60,2011,Summer,Banana,1.0,44.0
+30,67,2004,Whole Year,Banana,8.0,291.0
+30,67,2005,Whole Year,Banana,7.0,267.0
+30,67,2006,Whole Year,Banana,8.0,311.0
+30,67,2008,Summer,Banana,7.0,267.0
+30,67,2009,Summer,Banana,7.0,288.0
+30,67,2011,Summer,Banana,6.0,262.0
+30,97,2004,Whole Year,Banana,4.0,146.0
+30,97,2006,Whole Year,Banana,4.0,155.0
+30,97,2011,Summer,Banana,3.0,131.0
+30,97,2012,Summer,Banana,5.0,223.0
+30,97,2014,Summer,Banana,6.0,271.0
+30,98,2013,Summer,Banana,4.0,174.0
+30,98,2014,Summer,Banana,6.0,271.0
+30,144,2009,Summer,Banana,5.0,206.0
+30,180,2004,Whole Year,Banana,9.0,328.0
+30,180,2005,Whole Year,Banana,10.0,381.0
+30,180,2006,Whole Year,Banana,8.0,310.0
+30,180,2008,Summer,Banana,10.0,381.0
+30,180,2009,Summer,Banana,9.0,370.0
+30,180,2011,Summer,Banana,2.0,87.0
+30,180,2012,Summer,Banana,8.0,356.0
+30,180,2013,Summer,Banana,7.0,304.0
+30,180,2014,Summer,Banana,7.0,316.0
+30,182,2004,Whole Year,Banana,1.0,36.0
+30,182,2005,Whole Year,Banana,2.0,76.0
+30,182,2006,Whole Year,Banana,1.0,39.0
+30,182,2008,Summer,Banana,2.0,76.0
+30,182,2009,Summer,Banana,15.0,617.0
+30,182,2013,Summer,Banana,13.0,566.0
+30,182,2014,Summer,Banana,16.0,722.0
+30,185,2004,Whole Year,Banana,62.0,2255.0
+30,185,2006,Whole Year,Banana,75.0,2911.0
+30,185,2009,Summer,Banana,22.0,905.0
+30,185,2012,Summer,Banana,19.0,848.0
+30,185,2013,Summer,Banana,20.0,871.0
+30,185,2014,Summer,Banana,22.0,992.0
+30,188,2004,Whole Year,Banana,93.0,3382.0
+30,188,2005,Whole Year,Banana,133.0,5068.0
+30,188,2006,Whole Year,Banana,132.0,5124.0
+30,188,2008,Summer,Banana,133.0,5068.0
+30,188,2009,Summer,Banana,149.0,6127.0
+30,188,2012,Summer,Banana,350.0,15629.0
+30,188,2013,Summer,Banana,410.0,17852.0
+30,188,2014,Summer,Banana,214.0,9654.0
+30,203,2009,Summer,Banana,62.0,2550.0
+30,210,2009,Summer,Banana,15.0,617.0
+30,210,2011,Summer,Banana,10.0,437.0
+30,210,2012,Summer,Banana,9.0,402.0
+30,210,2013,Summer,Banana,156.0,6793.0
+30,210,2014,Summer,Banana,39.0,1759.0
+30,213,2004,Whole Year,Banana,724.0,26331.0
+30,213,2005,Whole Year,Banana,804.0,30636.0
+30,213,2006,Whole Year,Banana,767.0,29772.0
+30,213,2008,Summer,Banana,804.0,30636.0
+30,213,2009,Summer,Banana,768.0,31581.0
+30,213,2011,Summer,Banana,667.0,29141.0
+30,213,2012,Summer,Banana,761.0,33981.0
+30,213,2013,Summer,Banana,529.0,23033.0
+30,213,2014,Summer,Banana,500.0,22556.0
+30,226,2011,Summer,Banana,9.0,393.0
+30,226,2012,Summer,Banana,4.0,178.0
+30,229,2011,Summer,Banana,1.0,44.0
+30,229,2012,Summer,Banana,1.0,45.0
+30,249,2009,Summer,Banana,1.0,41.0
+30,260,2004,Whole Year,Banana,3.0,109.0
+30,260,2005,Whole Year,Banana,3.0,114.0
+30,260,2006,Whole Year,Banana,9.0,349.0
+30,260,2008,Summer,Banana,3.0,114.0
+30,260,2009,Summer,Banana,1.0,41.0
+30,260,2011,Summer,Banana,1.0,44.0
+30,260,2012,Summer,Banana,4.0,179.0
+30,284,2009,Summer,Banana,2.0,83.0
+30,287,2004,Whole Year,Banana,1.0,36.0
+30,287,2005,Whole Year,Banana,1.0,38.0
+30,287,2008,Summer,Banana,1.0,38.0
+30,287,2009,Summer,Banana,1.0,41.0
+30,287,2012,Summer,Banana,3.0,134.0
+30,303,2004,Whole Year,Banana,191.0,6946.0
+30,303,2005,Whole Year,Banana,209.0,7964.0
+30,303,2006,Whole Year,Banana,395.0,15332.0
+30,303,2008,Summer,Banana,209.0,7964.0
+30,303,2009,Summer,Banana,264.0,10856.0
+30,303,2011,Summer,Banana,228.0,9962.0
+30,303,2012,Summer,Banana,262.0,11699.0
+30,303,2013,Summer,Banana,200.0,8709.0
+30,303,2014,Summer,Banana,245.0,11052.0
+30,311,2004,Whole Year,Banana,28.0,1019.0
+30,311,2005,Whole Year,Banana,49.0,1867.0
+30,311,2006,Whole Year,Banana,28.0,1087.0
+30,311,2008,Summer,Banana,49.0,1867.0
+30,311,2009,Summer,Banana,37.0,1521.0
+30,311,2011,Summer,Banana,103.0,4500.0
+30,311,2012,Summer,Banana,49.0,2188.0
+30,311,2013,Summer,Banana,100.0,4354.0
+30,311,2014,Summer,Banana,67.0,3023.0
+30,343,2004,Whole Year,Banana,194.0,7055.0
+30,343,2005,Whole Year,Banana,280.0,10670.0
+30,343,2006,Whole Year,Banana,155.0,6016.0
+30,343,2008,Summer,Banana,280.0,10670.0
+30,343,2009,Summer,Banana,440.0,18093.0
+30,343,2011,Summer,Banana,567.0,24771.0
+30,343,2012,Summer,Banana,435.0,19424.0
+30,343,2013,Summer,Banana,375.0,16328.0
+30,343,2014,Summer,Banana,548.0,24722.0
+30,358,2004,Whole Year,Banana,13.0,473.0
+30,358,2005,Whole Year,Banana,23.0,876.0
+30,358,2006,Whole Year,Banana,14.0,544.0
+30,358,2008,Summer,Banana,23.0,876.0
+30,358,2009,Summer,Banana,23.0,946.0
+30,358,2012,Summer,Banana,24.0,1072.0
+30,358,2013,Summer,Banana,77.0,3353.0
+30,358,2014,Summer,Banana,159.0,7173.0
+30,364,2004,Whole Year,Banana,181.0,6583.0
+30,364,2005,Whole Year,Banana,201.0,7659.0
+30,364,2006,Whole Year,Banana,252.0,9782.0
+30,364,2008,Summer,Banana,201.0,7659.0
+30,364,2009,Summer,Banana,208.0,8553.0
+30,364,2011,Summer,Banana,174.0,7602.0
+30,364,2012,Summer,Banana,159.0,7100.0
+30,364,2013,Summer,Banana,112.0,4877.0
+30,364,2014,Summer,Banana,73.0,3293.0
+30,371,2005,Whole Year,Banana,1.0,38.0
+30,371,2008,Summer,Banana,1.0,38.0
+30,371,2012,Summer,Banana,25.0,1116.0
+30,371,2013,Summer,Banana,13.0,566.0
+30,371,2014,Summer,Banana,27.0,1218.0
+30,382,2005,Whole Year,Banana,1.0,38.0
+30,382,2006,Whole Year,Banana,1.0,39.0
+30,382,2008,Summer,Banana,1.0,38.0
+30,382,2009,Summer,Banana,1.0,41.0
+30,383,2005,Whole Year,Banana,1.0,38.0
+30,383,2008,Summer,Banana,1.0,38.0
+30,383,2009,Summer,Banana,2.0,82.0
+30,390,2004,Whole Year,Banana,1.0,36.0
+30,390,2005,Whole Year,Banana,1.0,38.0
+30,390,2008,Summer,Banana,1.0,38.0
+30,390,2009,Summer,Banana,1.0,41.0
+30,390,2013,Summer,Banana,1.0,44.0
+30,394,2004,Whole Year,Banana,2.0,73.0
+30,394,2005,Whole Year,Banana,7.0,267.0
+30,394,2006,Whole Year,Banana,2.0,78.0
+30,394,2008,Summer,Banana,7.0,267.0
+30,394,2009,Summer,Banana,4.0,164.0
+30,394,2011,Summer,Banana,2.0,87.0
+30,394,2012,Summer,Banana,3.0,134.0
+30,401,2004,Whole Year,Banana,3.0,109.0
+30,401,2005,Whole Year,Banana,3.0,114.0
+30,401,2006,Whole Year,Banana,3.0,116.0
+30,401,2008,Summer,Banana,3.0,114.0
+30,401,2009,Summer,Banana,9.0,370.0
+30,401,2011,Summer,Banana,5.0,218.0
+30,401,2012,Summer,Banana,9.0,402.0
+30,401,2013,Summer,Banana,9.0,392.0
+30,401,2014,Summer,Banana,9.0,406.0
+30,458,2009,Summer,Banana,6.0,247.0
+30,458,2011,Summer,Banana,83.0,3626.0
+30,458,2012,Summer,Banana,18.0,804.0
+30,458,2013,Summer,Banana,1.0,44.0
+30,458,2014,Summer,Banana,22.0,992.0
+30,464,2005,Whole Year,Banana,2.0,76.0
+30,464,2008,Summer,Banana,2.0,76.0
+30,464,2009,Summer,Banana,3.0,123.0
+30,464,2012,Summer,Banana,1.0,45.0
+30,472,2004,Whole Year,Banana,1.0,36.0
+30,472,2005,Whole Year,Banana,1.0,38.0
+30,472,2008,Summer,Banana,1.0,38.0
+30,472,2009,Summer,Banana,9.0,370.0
+30,472,2011,Summer,Banana,23.0,1005.0
+30,472,2012,Summer,Banana,12.0,536.0
+30,487,2004,Whole Year,Banana,1.0,36.0
+30,512,2014,Summer,Banana,4.0,180.0
+30,515,2004,Whole Year,Banana,18.0,655.0
+30,515,2005,Whole Year,Banana,172.0,6554.0
+30,515,2006,Whole Year,Banana,24.0,932.0
+30,515,2008,Summer,Banana,172.0,6554.0
+30,515,2009,Summer,Banana,61.0,2508.0
+30,515,2011,Summer,Banana,42.0,1835.0
+30,515,2012,Summer,Banana,29.0,1295.0
+30,515,2013,Summer,Banana,31.0,1350.0
+30,515,2014,Summer,Banana,58.0,2616.0
+30,528,2004,Whole Year,Banana,2.0,73.0
+30,528,2006,Whole Year,Banana,2.0,78.0
+30,528,2009,Summer,Banana,9.0,370.0
+30,528,2012,Summer,Banana,3.0,134.0
+30,528,2014,Summer,Banana,4.0,180.0
+30,538,2004,Whole Year,Banana,6.0,218.0
+30,538,2005,Whole Year,Banana,4.0,153.0
+30,538,2006,Whole Year,Banana,10.0,388.0
+30,538,2008,Summer,Banana,4.0,153.0
+30,538,2009,Summer,Banana,8.0,329.0
+30,538,2011,Summer,Banana,10.0,437.0
+30,538,2013,Summer,Banana,8.0,348.0
+30,538,2014,Summer,Banana,7.0,316.0
+30,539,2004,Whole Year,Banana,9.0,327.0
+30,539,2005,Whole Year,Banana,1.0,38.0
+30,539,2006,Whole Year,Banana,9.0,349.0
+30,539,2008,Summer,Banana,1.0,38.0
+30,539,2009,Summer,Banana,46.0,1892.0
+30,539,2014,Summer,Banana,14.0,632.0
+30,549,2004,Whole Year,Banana,5.0,182.0
+30,549,2005,Whole Year,Banana,14.0,534.0
+30,549,2006,Whole Year,Banana,41.0,1591.0
+30,549,2008,Summer,Banana,14.0,534.0
+30,549,2009,Summer,Banana,15.0,617.0
+30,549,2011,Summer,Banana,35.0,1529.0
+30,549,2012,Summer,Banana,32.0,1429.0
+30,549,2013,Summer,Banana,278.0,12104.0
+30,549,2014,Summer,Banana,123.0,5549.0
+30,570,2004,Whole Year,Banana,10.0,364.0
+30,570,2005,Whole Year,Banana,10.0,381.0
+30,570,2006,Whole Year,Banana,9.0,349.0
+30,570,2008,Summer,Banana,10.0,381.0
+30,570,2009,Summer,Banana,22.0,905.0
+30,570,2011,Summer,Banana,27.0,1180.0
+30,570,2014,Summer,Banana,11.0,496.0
+30,612,2004,Whole Year,Banana,1.0,36.0
+30,612,2006,Whole Year,Banana,1.0,39.0
+30,612,2013,Summer,Banana,17.0,740.0
+30,612,2014,Summer,Banana,4.0,180.0

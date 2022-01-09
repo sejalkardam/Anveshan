@@ -1,0 +1,935 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+0,427,2002,Whole Year,Black pepper,63.0,13.5
+0,427,2003,Whole Year,Black pepper,75.5,15.86
+0,427,2004,Whole Year,Black pepper,85.0,15.86
+0,427,2005,Whole Year,Black pepper,41.0,0.1
+0,427,2006,Whole Year,Black pepper,22.16,0.68
+0,427,2010,Rabi,Black pepper,23.0,8.5
+0,429,2006,Whole Year,Black pepper,175.0,191.14
+0,429,2010,Rabi,Black pepper,168.0,13.5
+0,559,2002,Whole Year,Black pepper,487.0,102.5
+0,559,2003,Whole Year,Black pepper,497.0,104.37
+0,559,2004,Whole Year,Black pepper,570.0,104.36
+0,559,2005,Whole Year,Black pepper,656.45,35.95
+0,559,2006,Whole Year,Black pepper,413.1,20.18
+0,559,2010,Rabi,Black pepper,409.0,98.0
+3,41,2007,Whole Year,Black pepper,46.0,68.0
+3,41,2008,Whole Year,Black pepper,91.0,171.0
+3,41,2009,Whole Year,Black pepper,69.0,116.0
+3,41,2010,Whole Year,Black pepper,85.0,147.0
+3,41,2011,Rabi,Black pepper,82.0,142.0
+3,41,2012,Rabi,Black pepper,85.0,151.0
+3,41,2013,Rabi,Black pepper,90.0,160.0
+3,41,2014,Rabi,Black pepper,92.0,165.0
+3,64,2007,Whole Year,Black pepper,52.0,73.0
+3,64,2008,Whole Year,Black pepper,30.0,42.0
+3,64,2009,Whole Year,Black pepper,39.0,55.0
+3,64,2010,Whole Year,Black pepper,58.0,81.0
+3,64,2011,Rabi,Black pepper,46.0,64.0
+3,64,2012,Rabi,Black pepper,46.0,70.0
+3,64,2013,Rabi,Black pepper,47.0,72.0
+3,64,2014,Rabi,Black pepper,43.0,65.0
+3,95,2007,Whole Year,Black pepper,18.0,33.0
+3,95,2008,Whole Year,Black pepper,18.0,33.0
+3,95,2009,Whole Year,Black pepper,27.0,47.0
+3,95,2010,Whole Year,Black pepper,27.0,50.0
+3,95,2011,Rabi,Black pepper,30.0,55.0
+3,95,2012,Rabi,Black pepper,27.0,50.0
+3,95,2013,Rabi,Black pepper,29.0,54.0
+3,95,2014,Rabi,Black pepper,26.0,49.0
+3,103,2007,Whole Year,Black pepper,39.0,76.0
+3,103,2008,Whole Year,Black pepper,45.0,87.0
+3,103,2009,Whole Year,Black pepper,26.0,50.0
+3,103,2010,Whole Year,Black pepper,38.0,74.0
+3,103,2011,Rabi,Black pepper,43.0,102.0
+3,103,2012,Rabi,Black pepper,44.0,88.0
+3,103,2013,Rabi,Black pepper,45.0,90.0
+3,103,2014,Rabi,Black pepper,47.0,94.0
+3,119,2007,Whole Year,Black pepper,15.0,22.0
+3,119,2008,Whole Year,Black pepper,14.0,27.0
+3,119,2009,Whole Year,Black pepper,15.0,25.0
+3,119,2010,Whole Year,Black pepper,12.0,20.0
+3,119,2011,Rabi,Black pepper,14.0,24.0
+3,119,2012,Rabi,Black pepper,17.0,29.0
+3,119,2013,Rabi,Black pepper,16.0,28.0
+3,119,2014,Rabi,Black pepper,14.0,24.0
+3,137,2007,Whole Year,Black pepper,34.0,52.0
+3,137,2008,Whole Year,Black pepper,45.0,69.0
+3,137,2009,Whole Year,Black pepper,45.0,69.0
+3,137,2010,Whole Year,Black pepper,38.0,59.0
+3,137,2011,Rabi,Black pepper,33.0,51.0
+3,137,2012,Rabi,Black pepper,34.0,57.0
+3,137,2013,Rabi,Black pepper,38.0,63.0
+3,137,2014,Rabi,Black pepper,33.0,55.0
+3,152,2007,Whole Year,Black pepper,68.0,87.0
+3,152,2008,Whole Year,Black pepper,28.0,36.0
+3,152,2009,Whole Year,Black pepper,28.0,36.0
+3,152,2010,Whole Year,Black pepper,32.0,41.0
+3,152,2011,Rabi,Black pepper,29.0,36.0
+3,152,2012,Rabi,Black pepper,25.0,35.0
+3,152,2013,Rabi,Black pepper,25.0,35.0
+3,152,2014,Rabi,Black pepper,25.0,36.0
+3,155,2007,Whole Year,Black pepper,3.0,6.0
+3,155,2009,Whole Year,Black pepper,3.0,4.0
+3,155,2010,Whole Year,Black pepper,2.0,4.0
+3,155,2011,Rabi,Black pepper,2.0,4.0
+3,155,2012,Rabi,Black pepper,2.0,4.0
+3,155,2013,Rabi,Black pepper,2.0,4.0
+3,155,2014,Rabi,Black pepper,2.0,4.0
+3,158,2007,Whole Year,Black pepper,61.0,103.0
+3,158,2008,Whole Year,Black pepper,44.0,87.0
+3,158,2009,Whole Year,Black pepper,47.0,87.0
+3,158,2010,Whole Year,Black pepper,64.0,117.0
+3,158,2011,Rabi,Black pepper,65.0,119.0
+3,158,2012,Rabi,Black pepper,81.0,150.0
+3,158,2013,Rabi,Black pepper,103.0,191.0
+3,158,2014,Rabi,Black pepper,95.0,177.0
+3,159,2007,Whole Year,Black pepper,44.0,50.0
+3,159,2008,Whole Year,Black pepper,44.0,73.0
+3,159,2009,Whole Year,Black pepper,46.0,64.0
+3,159,2010,Whole Year,Black pepper,46.0,64.0
+3,159,2011,Rabi,Black pepper,48.0,68.0
+3,159,2012,Rabi,Black pepper,48.0,73.0
+3,159,2013,Rabi,Black pepper,48.0,73.0
+3,159,2014,Rabi,Black pepper,44.0,68.0
+3,206,2007,Whole Year,Black pepper,30.0,37.0
+3,206,2008,Whole Year,Black pepper,32.0,73.0
+3,206,2009,Whole Year,Black pepper,82.0,144.0
+3,206,2010,Whole Year,Black pepper,90.0,159.0
+3,206,2011,Rabi,Black pepper,100.0,177.0
+3,206,2012,Rabi,Black pepper,105.0,194.0
+3,206,2013,Rabi,Black pepper,110.0,204.0
+3,206,2014,Rabi,Black pepper,115.0,214.0
+3,208,2007,Whole Year,Black pepper,200.0,227.0
+3,208,2008,Whole Year,Black pepper,218.0,248.0
+3,208,2009,Whole Year,Black pepper,330.0,363.0
+3,208,2010,Whole Year,Black pepper,359.0,414.0
+3,208,2011,Rabi,Black pepper,370.0,495.0
+3,208,2012,Rabi,Black pepper,366.0,528.0
+3,208,2013,Rabi,Black pepper,295.0,426.0
+3,208,2014,Rabi,Black pepper,335.0,806.0
+3,221,2007,Whole Year,Black pepper,58.0,112.0
+3,221,2008,Whole Year,Black pepper,20.0,39.0
+3,221,2009,Whole Year,Black pepper,39.0,75.0
+3,221,2010,Whole Year,Black pepper,100.0,193.0
+3,221,2011,Rabi,Black pepper,22.0,43.0
+3,221,2012,Rabi,Black pepper,33.0,65.0
+3,221,2013,Rabi,Black pepper,34.0,67.0
+3,221,2014,Rabi,Black pepper,36.0,71.0
+3,270,2007,Whole Year,Black pepper,419.0,522.0
+3,270,2008,Whole Year,Black pepper,647.0,807.0
+3,270,2009,Whole Year,Black pepper,107.0,133.0
+3,270,2010,Whole Year,Black pepper,119.0,148.0
+3,270,2011,Rabi,Black pepper,95.0,117.0
+3,270,2012,Rabi,Black pepper,122.0,178.0
+3,270,2013,Rabi,Black pepper,103.0,151.0
+3,270,2014,Rabi,Black pepper,108.0,158.0
+3,278,2007,Whole Year,Black pepper,76.0,115.0
+3,278,2008,Whole Year,Black pepper,83.0,126.0
+3,278,2009,Whole Year,Black pepper,97.0,147.0
+3,278,2010,Whole Year,Black pepper,92.0,139.0
+3,278,2011,Rabi,Black pepper,102.0,155.0
+3,278,2012,Rabi,Black pepper,130.0,211.0
+3,278,2013,Rabi,Black pepper,119.0,193.0
+3,278,2014,Rabi,Black pepper,158.0,258.0
+3,279,2007,Whole Year,Black pepper,34.0,50.0
+3,279,2008,Whole Year,Black pepper,37.0,74.0
+3,279,2009,Whole Year,Black pepper,33.0,57.0
+3,279,2010,Whole Year,Black pepper,47.0,81.0
+3,279,2011,Rabi,Black pepper,48.0,84.0
+3,279,2012,Rabi,Black pepper,53.0,98.0
+3,279,2013,Rabi,Black pepper,53.0,98.0
+3,279,2014,Rabi,Black pepper,50.0,93.0
+3,292,2007,Whole Year,Black pepper,299.0,482.0
+3,292,2008,Whole Year,Black pepper,303.0,489.0
+3,292,2009,Whole Year,Black pepper,316.0,510.0
+3,292,2010,Whole Year,Black pepper,302.0,486.0
+3,292,2011,Rabi,Black pepper,320.0,199.0
+3,292,2012,Rabi,Black pepper,243.0,362.0
+3,292,2013,Rabi,Black pepper,264.0,393.0
+3,292,2014,Rabi,Black pepper,269.0,402.0
+3,294,2007,Whole Year,Black pepper,75.0,86.0
+3,294,2008,Whole Year,Black pepper,222.0,408.0
+3,294,2009,Whole Year,Black pepper,230.0,343.0
+3,294,2010,Whole Year,Black pepper,253.0,402.0
+3,294,2011,Rabi,Black pepper,275.0,439.0
+3,294,2012,Rabi,Black pepper,279.0,465.0
+3,294,2013,Rabi,Black pepper,279.0,465.0
+3,294,2014,Rabi,Black pepper,283.0,473.0
+3,322,2007,Whole Year,Black pepper,15.0,24.0
+3,322,2008,Whole Year,Black pepper,34.0,56.0
+3,322,2009,Whole Year,Black pepper,335.0,545.0
+3,322,2010,Whole Year,Black pepper,250.0,407.0
+3,322,2011,Rabi,Black pepper,344.0,395.0
+3,322,2012,Rabi,Black pepper,345.0,435.0
+3,322,2013,Rabi,Black pepper,348.0,439.0
+3,322,2014,Rabi,Black pepper,337.0,430.0
+3,345,2007,Whole Year,Black pepper,64.0,97.0
+3,345,2008,Whole Year,Black pepper,70.0,107.0
+3,345,2009,Whole Year,Black pepper,73.0,110.0
+3,345,2010,Whole Year,Black pepper,178.0,271.0
+3,345,2011,Rabi,Black pepper,554.0,865.0
+3,345,2012,Rabi,Black pepper,537.0,899.0
+3,345,2013,Rabi,Black pepper,534.0,1428.0
+3,345,2014,Rabi,Black pepper,485.0,817.0
+3,381,2007,Whole Year,Black pepper,131.0,224.0
+3,381,2008,Whole Year,Black pepper,81.0,138.0
+3,381,2009,Whole Year,Black pepper,106.0,181.0
+3,381,2010,Whole Year,Black pepper,107.0,183.0
+3,381,2011,Rabi,Black pepper,83.0,143.0
+3,381,2012,Rabi,Black pepper,85.0,157.0
+3,381,2013,Rabi,Black pepper,90.0,166.0
+3,381,2014,Rabi,Black pepper,66.0,123.0
+3,406,2007,Whole Year,Black pepper,141.0,201.0
+3,406,2008,Whole Year,Black pepper,268.0,383.0
+3,406,2009,Whole Year,Black pepper,249.0,356.0
+3,406,2010,Whole Year,Black pepper,77.0,111.0
+3,406,2011,Rabi,Black pepper,276.0,479.0
+3,406,2012,Rabi,Black pepper,275.0,436.0
+3,406,2013,Rabi,Black pepper,280.0,443.0
+3,406,2014,Rabi,Black pepper,282.0,450.0
+3,412,2007,Whole Year,Black pepper,10.0,19.0
+3,412,2008,Whole Year,Black pepper,25.0,48.0
+3,412,2009,Whole Year,Black pepper,10.0,19.0
+3,412,2010,Whole Year,Black pepper,26.0,50.0
+3,412,2011,Rabi,Black pepper,28.0,54.0
+3,412,2012,Rabi,Black pepper,28.0,55.0
+3,412,2013,Rabi,Black pepper,28.0,55.0
+3,412,2014,Rabi,Black pepper,22.0,44.0
+3,551,2007,Whole Year,Black pepper,292.0,532.0
+3,551,2008,Whole Year,Black pepper,296.0,539.0
+3,551,2009,Whole Year,Black pepper,42.0,76.0
+3,551,2010,Whole Year,Black pepper,55.0,99.0
+3,551,2011,Rabi,Black pepper,69.0,125.0
+3,551,2012,Rabi,Black pepper,78.0,144.0
+3,551,2013,Rabi,Black pepper,72.0,134.0
+3,551,2014,Rabi,Black pepper,78.0,145.0
+3,558,2007,Whole Year,Black pepper,369.0,579.0
+3,558,2008,Whole Year,Black pepper,376.0,590.0
+3,558,2009,Whole Year,Black pepper,255.0,400.0
+3,558,2010,Whole Year,Black pepper,255.0,399.0
+3,558,2011,Rabi,Black pepper,229.0,358.0
+3,558,2012,Rabi,Black pepper,99.0,166.0
+3,558,2013,Rabi,Black pepper,111.0,187.0
+3,558,2014,Rabi,Black pepper,125.0,211.0
+3,592,2007,Whole Year,Black pepper,58.0,62.0
+3,592,2008,Whole Year,Black pepper,268.0,287.0
+3,592,2009,Whole Year,Black pepper,255.0,273.0
+3,592,2010,Whole Year,Black pepper,270.0,289.0
+3,592,2011,Rabi,Black pepper,285.0,310.0
+3,592,2012,Rabi,Black pepper,288.0,344.0
+3,592,2013,Rabi,Black pepper,287.0,343.0
+3,592,2014,Rabi,Black pepper,288.0,345.0
+3,603,2007,Whole Year,Black pepper,172.0,273.0
+3,603,2008,Whole Year,Black pepper,54.0,107.0
+3,603,2009,Whole Year,Black pepper,63.0,113.0
+3,603,2010,Whole Year,Black pepper,59.0,101.0
+3,603,2011,Rabi,Black pepper,55.0,95.0
+3,603,2012,Rabi,Black pepper,56.0,97.0
+3,603,2013,Rabi,Black pepper,70.0,121.0
+3,603,2014,Rabi,Black pepper,70.0,121.0
+8,432,2004,Whole Year,Black pepper,334.0,55.0
+8,432,2005,Whole Year,Black pepper,355.0,77.0
+8,432,2006,Whole Year,Black pepper,370.0,96.0
+8,432,2007,Whole Year,Black pepper,383.0,119.0
+8,432,2013,Whole Year,Black pepper,421.0,135.0
+8,432,2014,Whole Year,Black pepper,443.0,146.0
+8,562,2004,Whole Year,Black pepper,255.0,43.0
+8,562,2005,Whole Year,Black pepper,271.0,60.0
+8,562,2006,Whole Year,Black pepper,278.0,73.0
+8,562,2007,Whole Year,Black pepper,283.0,89.0
+8,562,2013,Whole Year,Black pepper,316.0,99.0
+8,562,2014,Whole Year,Black pepper,321.0,98.0
+14,37,2013,Whole Year,Black pepper,6.0,15.0
+14,52,1999,Whole Year,Black pepper,5.0,12.0
+14,52,2000,Whole Year,Black pepper,8.0,19.0
+14,52,2001,Whole Year,Black pepper,5.0,12.0
+14,52,2002,Whole Year,Black pepper,2.0,5.0
+14,52,2003,Whole Year,Black pepper,3.0,7.0
+14,52,2004,Whole Year,Black pepper,26.0,63.0
+14,52,2005,Whole Year,Black pepper,1.0,2.0
+14,52,2007,Whole Year,Black pepper,1.0,3.0
+14,52,2008,Whole Year,Black pepper,1.0,4.0
+14,52,2009,Whole Year,Black pepper,1.0,4.0
+14,52,2010,Whole Year,Black pepper,1.0,0.6
+14,52,2012,Whole Year,Black pepper,1.0,3.0
+14,52,2013,Whole Year,Black pepper,1.0,2.0
+14,52,2014,Whole Year,Black pepper,1.0,6.0
+14,71,2012,Whole Year,Black pepper,5.0,14.0
+14,71,2013,Whole Year,Black pepper,5.0,12.0
+14,74,1997,Kharif,Black pepper,1.0,2.0
+14,74,2009,Whole Year,Black pepper,17.0,63.0
+14,74,2010,Whole Year,Black pepper,16.0,9.7
+14,74,2011,Whole Year,Black pepper,15.0,4.2
+14,74,2012,Whole Year,Black pepper,2.0,6.0
+14,74,2013,Whole Year,Black pepper,2.0,5.0
+14,74,2014,Whole Year,Black pepper,2.0,12.0
+14,87,1999,Whole Year,Black pepper,4.0,10.0
+14,87,2008,Whole Year,Black pepper,1.0,4.0
+14,104,2007,Whole Year,Black pepper,2.0,6.0
+14,104,2008,Whole Year,Black pepper,8.0,34.0
+14,104,2009,Whole Year,Black pepper,24.0,89.0
+14,104,2010,Whole Year,Black pepper,23.0,13.9
+14,104,2011,Whole Year,Black pepper,28.0,7.9
+14,104,2012,Whole Year,Black pepper,28.0,79.0
+14,104,2013,Whole Year,Black pepper,50.0,124.0
+14,104,2014,Whole Year,Black pepper,37.0,217.0
+14,118,1997,Kharif,Black pepper,383.0,42.0
+14,118,1998,Whole Year,Black pepper,647.0,711.0
+14,118,1999,Whole Year,Black pepper,961.0,1056.0
+14,118,2000,Whole Year,Black pepper,926.0,1018.0
+14,118,2001,Whole Year,Black pepper,1570.0,1725.0
+14,118,2002,Whole Year,Black pepper,1664.0,1829.0
+14,118,2003,Whole Year,Black pepper,1761.0,1935.0
+14,118,2004,Whole Year,Black pepper,1939.0,2131.0
+14,118,2005,Whole Year,Black pepper,2088.0,2295.0
+14,118,2006,Whole Year,Black pepper,2210.0,2429.0
+14,118,2007,Whole Year,Black pepper,2256.0,7035.0
+14,118,2008,Whole Year,Black pepper,2274.0,9635.0
+14,118,2009,Whole Year,Black pepper,3524.0,12978.0
+14,118,2010,Whole Year,Black pepper,3552.0,3488.3
+14,118,2011,Whole Year,Black pepper,3585.0,1015.1
+14,118,2012,Whole Year,Black pepper,7649.0,21657.0
+14,118,2013,Whole Year,Black pepper,7746.0,19248.0
+14,118,2014,Whole Year,Black pepper,7788.0,77795.0
+14,120,2013,Whole Year,Black pepper,8.0,20.0
+14,120,2014,Whole Year,Black pepper,48.0,282.0
+14,131,1997,Kharif,Black pepper,1059.0,245.0
+14,131,1998,Whole Year,Black pepper,860.0,1992.0
+14,131,1999,Whole Year,Black pepper,870.0,2015.0
+14,131,2000,Whole Year,Black pepper,912.0,2113.0
+14,131,2001,Whole Year,Black pepper,1930.0,4471.0
+14,131,2002,Whole Year,Black pepper,1945.0,4506.0
+14,131,2003,Whole Year,Black pepper,1973.0,4571.0
+14,131,2004,Whole Year,Black pepper,1986.0,4601.0
+14,131,2005,Whole Year,Black pepper,1976.0,4578.0
+14,131,2006,Whole Year,Black pepper,2008.0,4652.0
+14,131,2007,Whole Year,Black pepper,2014.0,4048.0
+14,131,2008,Whole Year,Black pepper,2059.0,8724.0
+14,131,2009,Whole Year,Black pepper,2092.0,7435.0
+14,131,2010,Whole Year,Black pepper,2112.0,1087.3
+14,131,2011,Whole Year,Black pepper,2146.0,1111.1
+14,131,2012,Whole Year,Black pepper,2183.0,11303.0
+14,131,2013,Whole Year,Black pepper,2241.0,10893.0
+14,131,2014,Whole Year,Black pepper,2546.0,13208.0
+14,140,1998,Whole Year,Black pepper,2.0,5.0
+14,140,1999,Whole Year,Black pepper,2.0,5.0
+14,140,2000,Whole Year,Black pepper,2.0,5.0
+14,140,2001,Whole Year,Black pepper,19.0,45.0
+14,140,2002,Whole Year,Black pepper,1.0,2.0
+14,140,2003,Whole Year,Black pepper,1.0,2.0
+14,140,2004,Whole Year,Black pepper,36.0,85.0
+14,140,2005,Whole Year,Black pepper,12.0,28.0
+14,140,2006,Whole Year,Black pepper,13.0,31.0
+14,140,2007,Whole Year,Black pepper,10.0,31.0
+14,140,2008,Whole Year,Black pepper,11.0,47.0
+14,140,2009,Whole Year,Black pepper,14.0,52.0
+14,140,2010,Whole Year,Black pepper,9.0,5.4
+14,140,2011,Whole Year,Black pepper,18.0,5.1
+14,140,2012,Whole Year,Black pepper,2.0,6.0
+14,140,2013,Whole Year,Black pepper,45.0,112.0
+14,140,2014,Whole Year,Black pepper,25.0,147.0
+14,151,1999,Whole Year,Black pepper,4.0,10.0
+14,151,2004,Whole Year,Black pepper,3.0,7.0
+14,151,2005,Whole Year,Black pepper,1.0,2.0
+14,151,2008,Whole Year,Black pepper,9.0,38.0
+14,214,2001,Whole Year,Black pepper,1.0,2.0
+14,214,2002,Whole Year,Black pepper,1.0,2.0
+14,228,1997,Kharif,Black pepper,198.0,21.0
+14,228,1998,Whole Year,Black pepper,211.0,232.0
+14,228,1999,Whole Year,Black pepper,361.0,397.0
+14,228,2000,Whole Year,Black pepper,414.0,455.0
+14,228,2001,Whole Year,Black pepper,802.0,881.0
+14,228,2002,Whole Year,Black pepper,1293.0,1421.0
+14,228,2003,Whole Year,Black pepper,1432.0,1574.0
+14,228,2004,Whole Year,Black pepper,1648.0,1811.0
+14,228,2005,Whole Year,Black pepper,2689.0,2955.0
+14,228,2006,Whole Year,Black pepper,2752.0,3024.0
+14,228,2007,Whole Year,Black pepper,2784.0,10280.0
+14,228,2008,Whole Year,Black pepper,2794.0,10732.0
+14,228,2009,Whole Year,Black pepper,3049.0,11712.0
+14,228,2010,Whole Year,Black pepper,3460.0,1233.1
+14,228,2011,Whole Year,Black pepper,3574.0,1040.2
+14,228,2012,Whole Year,Black pepper,4165.0,12123.0
+14,228,2013,Whole Year,Black pepper,4730.0,7445.0
+14,228,2014,Whole Year,Black pepper,4790.0,21102.0
+14,230,2014,Whole Year,Black pepper,21.0,123.0
+14,319,1997,Kharif,Black pepper,1385.0,393.0
+14,319,1998,Whole Year,Black pepper,1580.0,4489.0
+14,319,1999,Whole Year,Black pepper,3547.0,10078.0
+14,319,2000,Whole Year,Black pepper,3752.0,10661.0
+14,319,2001,Whole Year,Black pepper,4112.0,11683.0
+14,319,2002,Whole Year,Black pepper,4167.0,11840.0
+14,319,2003,Whole Year,Black pepper,4210.0,11962.0
+14,319,2004,Whole Year,Black pepper,5403.0,15352.0
+14,319,2005,Whole Year,Black pepper,6733.0,19130.0
+14,319,2006,Whole Year,Black pepper,5464.0,15525.0
+14,319,2007,Whole Year,Black pepper,7945.0,24855.0
+14,319,2008,Whole Year,Black pepper,8880.0,39385.0
+14,319,2009,Whole Year,Black pepper,9409.0,35210.0
+14,319,2010,Whole Year,Black pepper,10321.0,6038.7
+14,319,2011,Whole Year,Black pepper,10643.0,2497.2
+14,319,2012,Whole Year,Black pepper,10797.0,25333.0
+14,319,2013,Whole Year,Black pepper,11002.0,25814.0
+14,319,2014,Whole Year,Black pepper,14934.0,66531.0
+14,379,1998,Whole Year,Black pepper,3.0,7.0
+14,379,1999,Whole Year,Black pepper,3.0,7.0
+14,379,2000,Whole Year,Black pepper,4.0,10.0
+14,379,2001,Whole Year,Black pepper,4.0,10.0
+14,379,2002,Whole Year,Black pepper,2.0,5.0
+14,379,2003,Whole Year,Black pepper,2.0,5.0
+14,379,2004,Whole Year,Black pepper,2.0,5.0
+14,379,2005,Whole Year,Black pepper,2.0,5.0
+14,403,1997,Kharif,Black pepper,12.0,3.0
+14,403,1998,Whole Year,Black pepper,5.0,13.0
+14,403,1999,Whole Year,Black pepper,16.0,41.0
+14,403,2000,Whole Year,Black pepper,14.0,36.0
+14,403,2001,Whole Year,Black pepper,20.0,51.0
+14,403,2002,Whole Year,Black pepper,124.0,317.0
+14,403,2003,Whole Year,Black pepper,25.0,64.0
+14,403,2004,Whole Year,Black pepper,28.0,72.0
+14,403,2005,Whole Year,Black pepper,25.0,64.0
+14,403,2006,Whole Year,Black pepper,26.0,66.0
+14,403,2007,Whole Year,Black pepper,59.0,184.0
+14,403,2008,Whole Year,Black pepper,62.0,263.0
+14,403,2009,Whole Year,Black pepper,166.0,616.0
+14,403,2010,Whole Year,Black pepper,63.0,38.0
+14,403,2011,Whole Year,Black pepper,73.0,20.7
+14,403,2012,Whole Year,Black pepper,46.0,130.0
+14,403,2013,Whole Year,Black pepper,21.0,52.0
+14,403,2014,Whole Year,Black pepper,52.0,305.0
+14,483,2011,Whole Year,Black pepper,2.0,0.6
+14,483,2012,Whole Year,Black pepper,19.0,54.0
+14,483,2013,Whole Year,Black pepper,10.0,25.0
+14,483,2014,Whole Year,Black pepper,11.0,65.0
+14,535,1997,Kharif,Black pepper,668.0,189.0
+14,535,1998,Whole Year,Black pepper,732.0,2073.0
+14,535,1999,Whole Year,Black pepper,719.0,2036.0
+14,535,2000,Whole Year,Black pepper,839.0,2376.0
+14,535,2001,Whole Year,Black pepper,818.0,2316.0
+14,535,2002,Whole Year,Black pepper,814.0,2305.0
+14,535,2003,Whole Year,Black pepper,853.0,2415.0
+14,535,2004,Whole Year,Black pepper,814.0,2305.0
+14,535,2005,Whole Year,Black pepper,744.0,2107.0
+14,535,2006,Whole Year,Black pepper,705.0,1996.0
+14,535,2007,Whole Year,Black pepper,696.0,2660.0
+14,535,2008,Whole Year,Black pepper,725.0,2433.0
+14,535,2009,Whole Year,Black pepper,700.0,2349.0
+14,535,2010,Whole Year,Black pepper,742.0,492.2
+14,535,2011,Whole Year,Black pepper,838.0,237.3
+14,535,2012,Whole Year,Black pepper,973.0,2755.0
+14,535,2013,Whole Year,Black pepper,1116.0,2773.0
+14,535,2014,Whole Year,Black pepper,1255.0,5293.0
+14,600,2001,Whole Year,Black pepper,1.0,2.0
+14,600,2002,Whole Year,Black pepper,8.0,18.0
+14,600,2003,Whole Year,Black pepper,10.0,23.0
+14,600,2004,Whole Year,Black pepper,12.0,27.0
+14,600,2005,Whole Year,Black pepper,12.0,27.0
+14,600,2006,Whole Year,Black pepper,7.0,16.0
+14,600,2007,Whole Year,Black pepper,12.0,37.0
+14,600,2008,Whole Year,Black pepper,7.0,30.0
+14,600,2009,Whole Year,Black pepper,16.0,59.0
+14,600,2010,Whole Year,Black pepper,11.0,6.6
+14,600,2011,Whole Year,Black pepper,1.0,0.3
+14,600,2012,Whole Year,Black pepper,1.0,3.0
+14,600,2013,Whole Year,Black pepper,1.0,2.0
+14,600,2014,Whole Year,Black pepper,31.0,182.0
+14,606,1998,Whole Year,Black pepper,223.0,517.0
+14,606,2000,Whole Year,Black pepper,243.0,563.0
+14,606,2001,Whole Year,Black pepper,258.0,598.0
+14,606,2002,Whole Year,Black pepper,259.0,600.0
+14,606,2003,Whole Year,Black pepper,260.0,602.0
+14,606,2004,Whole Year,Black pepper,271.0,628.0
+14,606,2005,Whole Year,Black pepper,280.0,649.0
+14,606,2006,Whole Year,Black pepper,287.0,665.0
+14,606,2007,Whole Year,Black pepper,293.0,914.0
+14,606,2008,Whole Year,Black pepper,297.0,1258.0
+14,606,2009,Whole Year,Black pepper,294.0,1091.0
+14,606,2010,Whole Year,Black pepper,343.0,207.1
+14,606,2011,Whole Year,Black pepper,347.0,98.2
+14,606,2012,Whole Year,Black pepper,339.0,960.0
+14,606,2013,Whole Year,Black pepper,350.0,1015.0
+14,606,2014,Whole Year,Black pepper,352.0,2066.0
+14,615,1997,Kharif,Black pepper,119.0,29.0
+14,615,1998,Whole Year,Black pepper,124.0,303.0
+14,615,1999,Whole Year,Black pepper,141.0,345.0
+14,615,2000,Whole Year,Black pepper,135.0,330.0
+14,615,2001,Whole Year,Black pepper,159.0,389.0
+14,615,2002,Whole Year,Black pepper,134.0,328.0
+14,615,2003,Whole Year,Black pepper,164.0,401.0
+14,615,2004,Whole Year,Black pepper,176.0,430.0
+14,615,2005,Whole Year,Black pepper,234.0,572.0
+14,615,2006,Whole Year,Black pepper,254.0,621.0
+14,615,2007,Whole Year,Black pepper,247.0,814.0
+14,615,2008,Whole Year,Black pepper,323.0,1369.0
+14,615,2009,Whole Year,Black pepper,400.0,1485.0
+14,615,2010,Whole Year,Black pepper,408.0,96.1
+14,615,2011,Whole Year,Black pepper,431.0,110.9
+14,615,2012,Whole Year,Black pepper,627.0,1614.0
+14,615,2013,Whole Year,Black pepper,624.0,1903.0
+14,615,2014,Whole Year,Black pepper,772.0,4532.0
+15,10,1997,Whole Year,Black pepper,2235.0,248.0
+15,10,1998,Whole Year,Black pepper,2028.0,256.0
+15,10,1999,Whole Year,Black pepper,1943.0,242.0
+15,10,2000,Whole Year,Black pepper,2134.0,297.0
+15,10,2001,Whole Year,Black pepper,2054.0,196.0
+15,10,2002,Whole Year,Black pepper,1940.0,174.0
+15,10,2003,Whole Year,Black pepper,1997.0,167.0
+15,10,2004,Whole Year,Black pepper,2079.0,181.0
+15,10,2005,Whole Year,Black pepper,2000.0,177.0
+15,10,2006,Whole Year,Black pepper,1872.0,232.0
+15,10,2007,Whole Year,Black pepper,1790.0,207.0
+15,10,2008,Whole Year,Black pepper,1357.0,126.0
+15,10,2009,Whole Year,Black pepper,1387.0,134.0
+15,10,2010,Whole Year,Black pepper,1506.15,150.73
+15,10,2011,Whole Year,Black pepper,724.76,136.22
+15,10,2012,Whole Year,Black pepper,639.0,148.0
+15,10,2013,Whole Year,Black pepper,663.0,158.0
+15,10,2014,Whole Year,Black pepper,614.0,147.0
+15,178,1997,Whole Year,Black pepper,6659.0,1114.0
+15,178,1998,Whole Year,Black pepper,6039.0,1026.0
+15,178,1999,Whole Year,Black pepper,7002.0,906.0
+15,178,2000,Whole Year,Black pepper,7312.0,918.0
+15,178,2001,Whole Year,Black pepper,7941.0,1219.0
+15,178,2002,Whole Year,Black pepper,7309.0,1171.0
+15,178,2003,Whole Year,Black pepper,6973.0,1107.0
+15,178,2004,Whole Year,Black pepper,6825.0,1014.0
+15,178,2005,Whole Year,Black pepper,6700.0,1274.0
+15,178,2006,Whole Year,Black pepper,6637.0,1133.0
+15,178,2007,Whole Year,Black pepper,6106.0,995.0
+15,178,2008,Whole Year,Black pepper,5317.0,928.0
+15,178,2009,Whole Year,Black pepper,5273.0,798.0
+15,178,2010,Whole Year,Black pepper,5024.82,717.77
+15,178,2011,Whole Year,Black pepper,2456.42,619.85
+15,178,2012,Whole Year,Black pepper,2113.0,631.0
+15,178,2013,Whole Year,Black pepper,2026.0,599.0
+15,178,2014,Whole Year,Black pepper,1913.0,539.0
+15,239,1997,Whole Year,Black pepper,45566.0,18706.0
+15,239,1998,Whole Year,Black pepper,49749.0,29372.0
+15,239,1999,Whole Year,Black pepper,57211.0,13629.0
+15,239,2000,Whole Year,Black pepper,58209.0,23282.0
+15,239,2001,Whole Year,Black pepper,60537.0,24560.0
+15,239,2002,Whole Year,Black pepper,65142.0,35534.0
+15,239,2003,Whole Year,Black pepper,68595.0,36417.0
+15,239,2004,Whole Year,Black pepper,82316.0,38787.0
+15,239,2005,Whole Year,Black pepper,84219.0,52063.0
+15,239,2006,Whole Year,Black pepper,83652.0,35299.0
+15,239,2007,Whole Year,Black pepper,65333.0,23311.0
+15,239,2008,Whole Year,Black pepper,58290.0,16708.0
+15,239,2009,Whole Year,Black pepper,85739.0,25472.0
+15,239,2010,Whole Year,Black pepper,87273.78,30919.38
+15,239,2011,Whole Year,Black pepper,44010.47,22762.96
+15,239,2012,Whole Year,Black pepper,43755.0,30424.0
+15,239,2013,Whole Year,Black pepper,42924.0,15036.0
+15,239,2014,Whole Year,Black pepper,43852.0,23916.0
+15,286,1997,Whole Year,Black pepper,16488.0,4416.0
+15,286,1998,Whole Year,Black pepper,23419.0,5236.0
+15,286,1999,Whole Year,Black pepper,23301.0,3430.0
+15,286,2000,Whole Year,Black pepper,24569.0,5038.0
+15,286,2001,Whole Year,Black pepper,23341.0,4412.0
+15,286,2002,Whole Year,Black pepper,22492.0,4362.0
+15,286,2003,Whole Year,Black pepper,22089.0,4078.0
+15,286,2004,Whole Year,Black pepper,22727.0,4716.0
+15,286,2005,Whole Year,Black pepper,22659.0,5473.0
+15,286,2006,Whole Year,Black pepper,15068.0,3139.0
+15,286,2007,Whole Year,Black pepper,12533.0,1865.0
+15,286,2008,Whole Year,Black pepper,10211.0,2046.0
+15,286,2009,Whole Year,Black pepper,9631.0,2505.0
+15,286,2010,Whole Year,Black pepper,9568.71,1739.63
+15,286,2011,Whole Year,Black pepper,4960.73,1928.49
+15,286,2012,Whole Year,Black pepper,5018.0,2366.0
+15,286,2013,Whole Year,Black pepper,4765.0,1881.0
+15,286,2014,Whole Year,Black pepper,4626.0,2146.0
+15,298,1997,Whole Year,Black pepper,3947.0,793.0
+15,298,1998,Whole Year,Black pepper,6199.0,1287.0
+15,298,1999,Whole Year,Black pepper,7051.0,1568.0
+15,298,2000,Whole Year,Black pepper,6229.0,1226.0
+15,298,2001,Whole Year,Black pepper,6478.0,1376.0
+15,298,2002,Whole Year,Black pepper,6948.0,2052.0
+15,298,2003,Whole Year,Black pepper,7371.0,2136.0
+15,298,2004,Whole Year,Black pepper,6876.0,2015.0
+15,298,2005,Whole Year,Black pepper,6672.0,1950.0
+15,298,2006,Whole Year,Black pepper,6657.0,1957.0
+15,298,2007,Whole Year,Black pepper,6660.0,1583.0
+15,298,2008,Whole Year,Black pepper,5407.0,1386.0
+15,298,2009,Whole Year,Black pepper,4764.0,1098.0
+15,298,2010,Whole Year,Black pepper,6830.35,2538.97
+15,298,2011,Whole Year,Black pepper,2729.21,2192.7
+15,298,2012,Whole Year,Black pepper,2707.0,1596.0
+15,298,2013,Whole Year,Black pepper,2927.0,1809.0
+15,298,2014,Whole Year,Black pepper,3084.0,2077.0
+15,326,1997,Whole Year,Black pepper,10911.0,3554.0
+15,326,1998,Whole Year,Black pepper,9256.0,2828.0
+15,326,1999,Whole Year,Black pepper,10170.0,3269.0
+15,326,2000,Whole Year,Black pepper,10418.0,3713.0
+15,326,2001,Whole Year,Black pepper,11381.0,4275.0
+15,326,2002,Whole Year,Black pepper,10633.0,3235.0
+15,326,2003,Whole Year,Black pepper,11305.0,3301.0
+15,326,2004,Whole Year,Black pepper,13565.0,3743.0
+15,326,2005,Whole Year,Black pepper,13509.0,4625.0
+15,326,2006,Whole Year,Black pepper,10873.0,3158.0
+15,326,2007,Whole Year,Black pepper,8988.0,2018.0
+15,326,2008,Whole Year,Black pepper,8527.0,1613.0
+15,326,2009,Whole Year,Black pepper,8138.0,1501.0
+15,326,2010,Whole Year,Black pepper,7932.31,1311.97
+15,326,2011,Whole Year,Black pepper,3885.03,1395.06
+15,326,2012,Whole Year,Black pepper,3745.0,1486.0
+15,326,2013,Whole Year,Black pepper,3236.0,1263.0
+15,326,2014,Whole Year,Black pepper,3244.0,1195.0
+15,333,1997,Whole Year,Black pepper,8357.0,1489.0
+15,333,1998,Whole Year,Black pepper,7727.0,1102.0
+15,333,1999,Whole Year,Black pepper,8499.0,777.0
+15,333,2000,Whole Year,Black pepper,8581.0,1153.0
+15,333,2001,Whole Year,Black pepper,9139.0,1372.0
+15,333,2002,Whole Year,Black pepper,9245.0,1436.0
+15,333,2003,Whole Year,Black pepper,9097.0,1801.0
+15,333,2004,Whole Year,Black pepper,9828.0,2074.0
+15,333,2005,Whole Year,Black pepper,9482.0,1695.0
+15,333,2006,Whole Year,Black pepper,10418.0,1754.0
+15,333,2007,Whole Year,Black pepper,9866.0,1605.0
+15,333,2008,Whole Year,Black pepper,9573.0,1347.0
+15,333,2009,Whole Year,Black pepper,6711.0,967.0
+15,333,2010,Whole Year,Black pepper,6770.6,866.53
+15,333,2011,Whole Year,Black pepper,3335.5,1145.33
+15,333,2012,Whole Year,Black pepper,3192.0,1179.0
+15,333,2013,Whole Year,Black pepper,3120.0,1172.0
+15,333,2014,Whole Year,Black pepper,3135.0,1078.0
+15,334,1997,Whole Year,Black pepper,11378.0,2354.0
+15,334,1998,Whole Year,Black pepper,11976.0,3288.0
+15,334,1999,Whole Year,Black pepper,11869.0,1806.0
+15,334,2000,Whole Year,Black pepper,11939.0,2277.0
+15,334,2001,Whole Year,Black pepper,12775.0,2722.0
+15,334,2002,Whole Year,Black pepper,12365.0,1765.0
+15,334,2003,Whole Year,Black pepper,13094.0,1800.0
+15,334,2004,Whole Year,Black pepper,13993.0,1934.0
+15,334,2005,Whole Year,Black pepper,13923.0,1869.0
+15,334,2006,Whole Year,Black pepper,10652.0,1313.0
+15,334,2007,Whole Year,Black pepper,9665.0,884.0
+15,334,2008,Whole Year,Black pepper,8421.0,823.0
+15,334,2009,Whole Year,Black pepper,7972.0,1010.0
+15,334,2010,Whole Year,Black pepper,7613.27,823.04
+15,334,2011,Whole Year,Black pepper,3419.87,614.67
+15,334,2012,Whole Year,Black pepper,3332.0,1098.0
+15,334,2013,Whole Year,Black pepper,3345.0,824.0
+15,334,2014,Whole Year,Black pepper,3428.0,1056.0
+15,372,1997,Whole Year,Black pepper,7010.0,665.0
+15,372,1998,Whole Year,Black pepper,7086.0,1145.0
+15,372,1999,Whole Year,Black pepper,7885.0,914.0
+15,372,2000,Whole Year,Black pepper,8253.0,1053.0
+15,372,2001,Whole Year,Black pepper,8996.0,616.0
+15,372,2002,Whole Year,Black pepper,9846.0,979.0
+15,372,2003,Whole Year,Black pepper,10525.0,1014.0
+15,372,2004,Whole Year,Black pepper,11661.0,1146.0
+15,372,2005,Whole Year,Black pepper,11371.0,1456.0
+15,372,2006,Whole Year,Black pepper,9187.0,1114.0
+15,372,2007,Whole Year,Black pepper,7858.0,1014.0
+15,372,2008,Whole Year,Black pepper,5998.0,590.0
+15,372,2009,Whole Year,Black pepper,6147.0,581.0
+15,372,2010,Whole Year,Black pepper,5732.39,477.9
+15,372,2011,Whole Year,Black pepper,2589.77,519.81
+15,372,2012,Whole Year,Black pepper,2517.0,542.0
+15,372,2013,Whole Year,Black pepper,2631.0,613.0
+15,372,2014,Whole Year,Black pepper,2913.0,650.0
+15,437,1997,Whole Year,Black pepper,4302.0,540.0
+15,437,1998,Whole Year,Black pepper,4733.0,826.0
+15,437,1999,Whole Year,Black pepper,4844.0,818.0
+15,437,2000,Whole Year,Black pepper,4916.0,598.0
+15,437,2001,Whole Year,Black pepper,5063.0,723.0
+15,437,2002,Whole Year,Black pepper,5482.0,778.0
+15,437,2003,Whole Year,Black pepper,6079.0,875.0
+15,437,2004,Whole Year,Black pepper,7305.0,991.0
+15,437,2005,Whole Year,Black pepper,7457.0,1129.0
+15,437,2006,Whole Year,Black pepper,8368.0,1447.0
+15,437,2007,Whole Year,Black pepper,7081.0,985.0
+15,437,2008,Whole Year,Black pepper,5661.0,870.0
+15,437,2009,Whole Year,Black pepper,5758.0,1121.0
+15,437,2010,Whole Year,Black pepper,5465.22,953.99
+15,437,2011,Whole Year,Black pepper,2559.28,869.87
+15,437,2012,Whole Year,Black pepper,2723.0,914.0
+15,437,2013,Whole Year,Black pepper,2772.0,1109.0
+15,437,2014,Whole Year,Black pepper,2695.0,969.0
+15,450,1997,Whole Year,Black pepper,4420.0,1767.0
+15,450,1998,Whole Year,Black pepper,3793.0,1097.0
+15,450,1999,Whole Year,Black pepper,4224.0,912.0
+15,450,2000,Whole Year,Black pepper,5059.0,1228.0
+15,450,2001,Whole Year,Black pepper,5613.0,1455.0
+15,450,2002,Whole Year,Black pepper,5214.0,1231.0
+15,450,2003,Whole Year,Black pepper,5154.0,1356.0
+15,450,2004,Whole Year,Black pepper,5651.0,1328.0
+15,450,2005,Whole Year,Black pepper,5529.0,1419.0
+15,450,2006,Whole Year,Black pepper,4919.0,1434.0
+15,450,2007,Whole Year,Black pepper,3934.0,1191.0
+15,450,2008,Whole Year,Black pepper,3612.0,986.0
+15,450,2009,Whole Year,Black pepper,3598.0,850.0
+15,450,2010,Whole Year,Black pepper,3420.93,782.1
+15,450,2011,Whole Year,Black pepper,1733.21,858.93
+15,450,2012,Whole Year,Black pepper,1692.0,753.0
+15,450,2013,Whole Year,Black pepper,1653.0,738.0
+15,450,2014,Whole Year,Black pepper,1661.0,705.0
+15,587,1997,Whole Year,Black pepper,5559.0,1492.0
+15,587,1998,Whole Year,Black pepper,5800.0,1953.0
+15,587,1999,Whole Year,Black pepper,5775.0,1377.0
+15,587,2000,Whole Year,Black pepper,5668.0,1705.0
+15,587,2001,Whole Year,Black pepper,6376.0,1642.0
+15,587,2002,Whole Year,Black pepper,6569.0,1790.0
+15,587,2003,Whole Year,Black pepper,6915.0,1758.0
+15,587,2004,Whole Year,Black pepper,7320.0,2028.0
+15,587,2005,Whole Year,Black pepper,6980.0,1710.0
+15,587,2006,Whole Year,Black pepper,6295.0,1450.0
+15,587,2007,Whole Year,Black pepper,5557.0,1423.0
+15,587,2008,Whole Year,Black pepper,5683.0,1201.0
+15,587,2009,Whole Year,Black pepper,4902.0,1031.0
+15,587,2010,Whole Year,Black pepper,4760.82,938.82
+15,587,2011,Whole Year,Black pepper,2344.39,988.51
+15,587,2012,Whole Year,Black pepper,2441.0,873.0
+15,587,2013,Whole Year,Black pepper,2529.0,909.0
+15,587,2014,Whole Year,Black pepper,2401.0,916.0
+15,590,1997,Whole Year,Black pepper,5958.0,1046.0
+15,590,1998,Whole Year,Black pepper,4369.0,919.0
+15,590,1999,Whole Year,Black pepper,3861.0,563.0
+15,590,2000,Whole Year,Black pepper,3938.0,526.0
+15,590,2001,Whole Year,Black pepper,4174.0,589.0
+15,590,2002,Whole Year,Black pepper,4583.0,787.0
+15,590,2003,Whole Year,Black pepper,4959.0,1032.0
+15,590,2004,Whole Year,Black pepper,5950.0,1126.0
+15,590,2005,Whole Year,Black pepper,6033.0,1282.0
+15,590,2006,Whole Year,Black pepper,5623.0,1006.0
+15,590,2007,Whole Year,Black pepper,4766.0,811.0
+15,590,2008,Whole Year,Black pepper,4829.0,841.0
+15,590,2009,Whole Year,Black pepper,4898.0,895.0
+15,590,2010,Whole Year,Black pepper,4093.65,614.46
+15,590,2011,Whole Year,Black pepper,2164.81,776.44
+15,590,2012,Whole Year,Black pepper,1888.0,582.0
+15,590,2013,Whole Year,Black pepper,1947.0,546.0
+15,590,2014,Whole Year,Black pepper,1801.0,502.0
+15,630,1997,Whole Year,Black pepper,41065.0,17336.0
+15,630,1998,Whole Year,Black pepper,40210.0,18175.0
+15,630,1999,Whole Year,Black pepper,44771.0,17332.0
+15,630,2000,Whole Year,Black pepper,44908.0,17915.0
+15,630,2001,Whole Year,Black pepper,40088.0,13083.0
+15,630,2002,Whole Year,Black pepper,40839.0,12064.0
+15,630,2003,Whole Year,Black pepper,42287.0,12173.0
+15,630,2004,Whole Year,Black pepper,41573.0,13897.0
+15,630,2005,Whole Year,Black pepper,41464.0,11483.0
+15,630,2006,Whole Year,Black pepper,36488.0,9828.0
+15,630,2007,Whole Year,Black pepper,25542.0,4060.0
+15,630,2008,Whole Year,Black pepper,20825.0,4526.0
+15,630,2009,Whole Year,Black pepper,16571.0,4497.0
+15,630,2010,Whole Year,Black pepper,16188.55,2431.28
+15,630,2011,Whole Year,Black pepper,8421.93,2691.7
+15,630,2012,Whole Year,Black pepper,8945.0,3706.0
+15,630,2013,Whole Year,Black pepper,9527.0,2751.0
+15,630,2014,Whole Year,Black pepper,10064.0,4794.0
+19,171,2004,Whole Year,Black pepper,58.0,96.0
+19,171,2008,Rabi,Black pepper,56.0,14.0
+19,171,2009,Whole Year,Black pepper,58.0,16.0
+19,171,2010,Whole Year,Black pepper,62.0,23.0
+19,171,2011,Whole Year,Black pepper,65.0,25.0
+19,171,2012,Whole Year,Black pepper,68.0,33.0
+19,171,2013,Whole Year,Black pepper,42.0,20.0
+19,171,2014,Whole Year,Black pepper,43.0,21.0
+19,173,2004,Whole Year,Black pepper,34.0,26.0
+19,173,2008,Rabi,Black pepper,34.0,17.0
+19,173,2009,Whole Year,Black pepper,35.0,16.0
+19,173,2010,Whole Year,Black pepper,34.0,16.0
+19,173,2011,Whole Year,Black pepper,35.0,18.0
+19,173,2012,Whole Year,Black pepper,37.0,25.0
+19,173,2013,Whole Year,Black pepper,32.0,22.0
+19,173,2014,Whole Year,Black pepper,33.0,23.0
+19,175,2004,Whole Year,Black pepper,173.0,112.0
+19,175,2008,Rabi,Black pepper,168.0,104.0
+19,175,2009,Whole Year,Black pepper,167.0,105.0
+19,175,2010,Whole Year,Black pepper,165.0,103.0
+19,175,2011,Whole Year,Black pepper,172.0,112.0
+19,175,2012,Whole Year,Black pepper,179.0,151.0
+19,175,2013,Whole Year,Black pepper,182.0,154.0
+19,175,2014,Whole Year,Black pepper,183.0,158.0
+19,431,2013,Whole Year,Black pepper,27.0,14.0
+19,431,2014,Whole Year,Black pepper,27.0,15.0
+19,496,2004,Whole Year,Black pepper,147.0,88.0
+19,496,2008,Rabi,Black pepper,145.0,85.0
+19,496,2009,Whole Year,Black pepper,146.0,87.0
+19,496,2010,Whole Year,Black pepper,144.0,85.0
+19,496,2011,Whole Year,Black pepper,147.0,87.0
+19,496,2012,Whole Year,Black pepper,153.0,118.0
+19,496,2013,Whole Year,Black pepper,156.0,121.0
+19,496,2014,Whole Year,Black pepper,160.0,125.0
+19,561,2004,Whole Year,Black pepper,42.0,34.0
+19,561,2008,Rabi,Black pepper,43.0,22.0
+19,561,2009,Whole Year,Black pepper,44.0,21.0
+19,561,2010,Whole Year,Black pepper,45.0,22.0
+19,561,2011,Whole Year,Black pepper,46.0,23.0
+19,561,2012,Whole Year,Black pepper,48.0,31.0
+19,561,2013,Whole Year,Black pepper,49.0,32.0
+19,561,2014,Whole Year,Black pepper,50.0,33.0
+19,564,2013,Whole Year,Black pepper,58.0,33.0
+19,564,2014,Whole Year,Black pepper,59.0,34.0
+19,565,2013,Whole Year,Black pepper,84.0,72.0
+19,565,2014,Whole Year,Black pepper,85.0,74.0
+19,632,2004,Whole Year,Black pepper,338.0,154.0
+19,632,2008,Rabi,Black pepper,336.0,151.0
+19,632,2009,Whole Year,Black pepper,336.0,148.0
+19,632,2010,Whole Year,Black pepper,337.0,150.0
+19,632,2011,Whole Year,Black pepper,341.0,159.0
+19,632,2012,Whole Year,Black pepper,355.0,214.0
+19,632,2013,Whole Year,Black pepper,303.0,186.0
+19,632,2014,Whole Year,Black pepper,304.0,192.0
+19,634,2013,Whole Year,Black pepper,6.0,4.0
+19,634,2014,Whole Year,Black pepper,7.0,6.0
+19,636,2004,Whole Year,Black pepper,103.0,68.0
+19,636,2008,Rabi,Black pepper,102.0,69.0
+19,636,2009,Whole Year,Black pepper,104.0,68.0
+19,636,2010,Whole Year,Black pepper,102.0,66.0
+19,636,2011,Whole Year,Black pepper,105.0,69.0
+19,636,2012,Whole Year,Black pepper,110.0,93.0
+19,636,2013,Whole Year,Black pepper,28.0,23.0
+19,636,2014,Whole Year,Black pepper,29.0,24.0
+23,367,1998,Kharif,Black pepper,12.0,7.0
+23,367,1999,Whole Year,Black pepper,12.0,7.0
+23,367,2000,Whole Year,Black pepper,12.0,7.0
+23,367,2001,Whole Year,Black pepper,12.0,11.0
+23,367,2002,Whole Year,Black pepper,12.0,8.0
+23,367,2003,Whole Year,Black pepper,12.0,8.0
+23,367,2004,Whole Year,Black pepper,12.0,7.0
+23,367,2005,Whole Year,Black pepper,12.0,7.0
+23,367,2006,Kharif,Black pepper,12.0,7.0
+23,367,2007,Kharif,Black pepper,12.0,7.0
+23,367,2008,Kharif,Black pepper,12.0,8.0
+23,367,2009,Kharif,Black pepper,12.0,8.0
+23,367,2010,Kharif,Black pepper,11.0,6.0
+23,367,2011,Kharif,Black pepper,11.0,5.0
+27,126,1997,Whole Year,Black pepper,131.0,30.0
+27,126,1998,Whole Year,Black pepper,130.0,26.0
+27,126,2003,Whole Year,Black pepper,127.0,25.0
+27,126,2005,Whole Year,Black pepper,128.0,25.0
+27,126,2006,Whole Year,Black pepper,129.0,25.0
+27,126,2007,Whole Year,Black pepper,129.0,25.0
+27,126,2008,Whole Year,Black pepper,127.0,25.0
+27,126,2009,Whole Year,Black pepper,129.0,27.0
+27,126,2011,Whole Year,Black pepper,129.0,27.0
+27,126,2013,Whole Year,Black pepper,128.0,26.0
+27,150,1998,Whole Year,Black pepper,17.0,3.0
+27,150,1999,Whole Year,Black pepper,1.0,
+27,150,2007,Whole Year,Black pepper,1.0,
+27,150,2009,Whole Year,Black pepper,1.0,
+27,150,2011,Whole Year,Black pepper,5.0,1.0
+27,163,1997,Whole Year,Black pepper,636.0,230.0
+27,163,1998,Whole Year,Black pepper,106.0,38.0
+27,163,1999,Whole Year,Black pepper,92.0,33.0
+27,163,2000,Whole Year,Black pepper,790.0,286.0
+27,163,2003,Whole Year,Black pepper,791.0,286.0
+27,163,2005,Whole Year,Black pepper,755.0,273.0
+27,163,2006,Whole Year,Black pepper,753.0,273.0
+27,163,2007,Whole Year,Black pepper,684.0,248.0
+27,163,2008,Whole Year,Black pepper,659.0,239.0
+27,163,2009,Whole Year,Black pepper,716.0,259.0
+27,163,2011,Whole Year,Black pepper,949.0,344.0
+27,163,2013,Whole Year,Black pepper,782.0,283.0
+27,179,1998,Whole Year,Black pepper,35.0,8.0
+27,179,2000,Whole Year,Black pepper,1.0,
+27,179,2003,Whole Year,Black pepper,1.0,
+27,179,2005,Whole Year,Black pepper,3.0,1.0
+27,179,2006,Whole Year,Black pepper,3.0,1.0
+27,179,2007,Whole Year,Black pepper,2.0,
+27,179,2008,Whole Year,Black pepper,6.0,1.0
+27,179,2009,Whole Year,Black pepper,3.0,
+27,179,2011,Whole Year,Black pepper,7.0,2.0
+27,179,2013,Whole Year,Black pepper,3.0,1.0
+27,285,1997,Whole Year,Black pepper,73.0,10.0
+27,285,1998,Whole Year,Black pepper,77.0,11.0
+27,285,2003,Whole Year,Black pepper,115.0,17.0
+27,285,2005,Whole Year,Black pepper,83.0,13.0
+27,285,2006,Whole Year,Black pepper,113.0,17.0
+27,285,2007,Whole Year,Black pepper,90.0,14.0
+27,285,2008,Whole Year,Black pepper,40.0,6.0
+27,285,2009,Whole Year,Black pepper,97.0,15.0
+27,285,2011,Whole Year,Black pepper,153.0,23.0
+27,285,2013,Whole Year,Black pepper,226.0,35.0
+27,336,1999,Whole Year,Black pepper,1.0,
+27,336,2003,Whole Year,Black pepper,2.0,
+27,336,2005,Whole Year,Black pepper,2.0,
+27,336,2006,Whole Year,Black pepper,6.0,1.0
+27,336,2007,Whole Year,Black pepper,5.0,1.0
+27,336,2008,Whole Year,Black pepper,2.0,
+27,336,2009,Whole Year,Black pepper,2.0,
+27,336,2011,Whole Year,Black pepper,2.0,
+27,414,1997,Whole Year,Black pepper,137.0,20.0
+27,414,1998,Whole Year,Black pepper,17.0,3.0
+27,414,1999,Whole Year,Black pepper,208.0,38.0
+27,414,2000,Whole Year,Black pepper,169.0,31.0
+27,414,2003,Whole Year,Black pepper,581.0,107.0
+27,414,2005,Whole Year,Black pepper,79.0,15.0
+27,414,2006,Whole Year,Black pepper,33.0,6.0
+27,414,2007,Whole Year,Black pepper,144.0,26.0
+27,414,2008,Whole Year,Black pepper,193.0,36.0
+27,414,2009,Whole Year,Black pepper,292.0,54.0
+27,414,2011,Whole Year,Black pepper,621.0,114.0
+27,414,2013,Whole Year,Black pepper,635.0,117.0
+27,465,2003,Whole Year,Black pepper,1.0,
+27,465,2005,Whole Year,Black pepper,2.0,
+27,465,2006,Whole Year,Black pepper,2.0,
+27,465,2007,Whole Year,Black pepper,1.0,
+27,508,1997,Whole Year,Black pepper,436.0,80.0
+27,508,1998,Whole Year,Black pepper,147.0,27.0
+27,508,1999,Whole Year,Black pepper,64.0,12.0
+27,508,2000,Whole Year,Black pepper,12.0,2.0
+27,508,2003,Whole Year,Black pepper,19.0,3.0
+27,508,2005,Whole Year,Black pepper,25.0,5.0
+27,508,2006,Whole Year,Black pepper,20.0,4.0
+27,508,2007,Whole Year,Black pepper,44.0,8.0
+27,508,2008,Whole Year,Black pepper,53.0,10.0
+27,508,2009,Whole Year,Black pepper,71.0,13.0
+27,508,2011,Whole Year,Black pepper,816.0,150.0
+27,508,2013,Whole Year,Black pepper,813.0,150.0
+27,583,2003,Whole Year,Black pepper,2.0,
+27,583,2005,Whole Year,Black pepper,6.0,1.0
+27,583,2006,Whole Year,Black pepper,11.0,2.0
+27,583,2007,Whole Year,Black pepper,8.0,2.0
+27,583,2008,Whole Year,Black pepper,8.0,2.0
+27,583,2009,Whole Year,Black pepper,8.0,2.0
+27,583,2011,Whole Year,Black pepper,11.0,2.0
+27,583,2013,Whole Year,Black pepper,8.0,1.0
+27,584,1997,Whole Year,Black pepper,2033.0,390.0
+27,584,1998,Whole Year,Black pepper,2100.0,403.0
+27,584,1999,Whole Year,Black pepper,185.0,36.0
+27,584,2000,Whole Year,Black pepper,637.0,123.0
+27,584,2003,Whole Year,Black pepper,2434.0,470.0
+27,584,2005,Whole Year,Black pepper,2543.0,491.0
+27,584,2006,Whole Year,Black pepper,2526.0,488.0
+27,584,2007,Whole Year,Black pepper,1908.0,368.0
+27,584,2008,Whole Year,Black pepper,1919.0,370.0
+27,584,2009,Whole Year,Black pepper,1358.0,244.0
+27,584,2011,Whole Year,Black pepper,960.0,162.0
+27,584,2013,Whole Year,Black pepper,1069.0,190.0
+27,585,1999,Whole Year,Black pepper,12.0,3.0
+27,585,2000,Whole Year,Black pepper,24.0,6.0
+27,585,2003,Whole Year,Black pepper,63.0,16.0
+27,585,2005,Whole Year,Black pepper,67.0,17.0
+27,585,2006,Whole Year,Black pepper,64.0,17.0
+27,585,2007,Whole Year,Black pepper,71.0,19.0
+27,585,2008,Whole Year,Black pepper,73.0,19.0
+27,585,2009,Whole Year,Black pepper,72.0,21.0
+27,585,2011,Whole Year,Black pepper,72.0,23.0
+27,585,2013,Whole Year,Black pepper,64.0,19.0
+27,594,1998,Whole Year,Black pepper,4.0,1.0
+27,594,2007,Whole Year,Black pepper,1.0,
+27,594,2008,Whole Year,Black pepper,1.0,
+27,594,2009,Whole Year,Black pepper,1.0,
+27,594,2011,Whole Year,Black pepper,1.0,
+27,594,2013,Whole Year,Black pepper,1.0,
+27,595,2000,Whole Year,Black pepper,7.0,1.0
+27,595,2003,Whole Year,Black pepper,43.0,9.0
+27,595,2005,Whole Year,Black pepper,51.0,10.0
+27,595,2006,Whole Year,Black pepper,42.0,9.0
+27,595,2007,Whole Year,Black pepper,41.0,8.0
+27,595,2008,Whole Year,Black pepper,39.0,8.0
+27,595,2009,Whole Year,Black pepper,40.0,8.0
+27,595,2011,Whole Year,Black pepper,40.0,8.0
+27,595,2013,Whole Year,Black pepper,188.0,38.0
+27,596,2008,Whole Year,Black pepper,1.0,
+27,596,2011,Whole Year,Black pepper,1.0,
+27,596,2013,Whole Year,Black pepper,1.0,
+27,621,2005,Whole Year,Black pepper,1.0,
+27,621,2006,Whole Year,Black pepper,1.0,
+27,621,2007,Whole Year,Black pepper,1.0,
+27,621,2008,Whole Year,Black pepper,1.0,
