@@ -101,7 +101,7 @@ def signin(request):
         if user is not None:
             login(request,user)
             fname=user.first_name
-            return render(request,"cropyield2/information.html",{'fname':fname})
+            return render(request, "templates/cropyield2/information.html", {'fname':fname})
         
         else:
             messages.error(request,"Credential Not Matched !!!")
