@@ -1,1 +1,1 @@
-web: gunicorn Anveshan.wsgi
+web: gunicorn cropyield1.wsgi
