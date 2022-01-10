@@ -7,14 +7,16 @@ import numpy as np
 from statsmodels.tsa.stattools import grangercausalitytests
 from statsmodels.tsa.stattools import adfuller
 
-def adfuller_test(series, sig=0.05, name=''):
+def adfuller_test(series, sig=0.1, name=''):
     res = adfuller(series, autolag='AIC')    
     p_value = round(res[1], 3) 
 
     if p_value <= sig:
         print(f" {name} : P-Value = {p_value} => Stationary. ")
+        return 1
     else:
         print(f" {name} : P-Value = {p_value} => Non-stationary.")
+        return 0
 main_df=pd.read_csv(os.getcwd()+"/Output/rice.csv")
 
 for dist in main_df.Dist.unique():
@@ -44,22 +46,30 @@ for dist in main_df.Dist.unique():
             matrix.columns = [var + '_x' for var in variables]
             matrix.index = [var + '_y' for var in variables]
             print(matrix)
-            
+
             for name, column in dist_df.iteritems():
-                adfuller_test(column, name=column.name)
-            print("Adifullar test to check differencing")
-            data_differenced = dist_df.diff().dropna()
-            print("First Differencing")
-            for name, column in data_differenced.iteritems():
-                adfuller_test(column, name=column.name)
-            print("Doing Second Differencing")
-            data_differenced2 = data_differenced.diff().dropna()
-            for name, column in data_differenced2.iteritems():
-                adfuller_test(column, name=column.name)
+                stationary_count =  adfuller_test(column, name=column.name)
+
+            diff = 0
+            stationary_count = 0
+            data_diff = dist_df
+            cmd = 1
+            while (stationary_count!=5 and cmd==1) :
+                stationary_count = 0
+                diff += 1
+                print(str(diff)+" Difference")
+                data_diff = data_diff.diff().dropna()
+                for name, column in data_diff.iteritems():
+                    stationary_count += adfuller_test(column, name=column.name)
+                if (stationary_count==5):
+                    break
+                cmd = int(input("Go for next level differencing (1 for yes): "))
+                
+
                             
         except:
             print("Data Insufficient for this district")
-    n=input()
+    n=input("Check for next district (press enter):")
     if(n=="break"):
         break
 
