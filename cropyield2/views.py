@@ -9,7 +9,7 @@ from django.template.loader import render_to_string
 from django.utils.http import urlsafe_base64_encode
 from django.utils.encoding import force_bytes
 from django.utils.encoding import force_str
-from . tokens import generate_token
+# from . tokens import generate_token
 from django.contrib import messages
 from django.core.mail import EmailMessage, send_mail
 
