@@ -1,0 +1,27 @@
+name: Deploy testing to Heroku-dev
+'on':
+  push:
+
+jobs:
+
+  Deploy-testing-to-Heroku:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Adding local bin to PATH
+        run: echo "$HOME/.local/bin" >> $GITHUB_PATH
+
+      - name: Installing dpl
+        run: sudo gem install dpl --pre
+
+
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+
+      - name: Heroku deploy
+        env:
+          HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
+          HEROKU_APP: ${{ secrets.HEROKU_APP_NAME }}
+        run: dpl --provider=heroku --app=$HEROKU_APP --api-key=$HEROKU_API_KEY
+        shell: bash -ieo pipefail {0}
