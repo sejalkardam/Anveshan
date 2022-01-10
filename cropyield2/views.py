@@ -1,3 +1,4 @@
+from Tools.pynche.pyColorChooser import save
 from django.shortcuts import render, redirect
 from django.http import HttpResponse
 from django.contrib.auth.models import User
@@ -6,12 +7,14 @@ from cropyield1 import settings
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.sites.shortcuts import get_current_site
 from django.template.loader import render_to_string
-from django.utils.http import urlsafe_base64_encode
+from django.utils.http import urlsafe_base64_encode, urlsafe_base64_decode
 from django.utils.encoding import force_bytes
 from django.utils.encoding import force_str
 # from . tokens import generate_token
 from django.contrib import messages
 from django.core.mail import EmailMessage, send_mail
+
+from cropyield2.tokens import generate_token
 
 
 def home(request):
@@ -42,7 +45,7 @@ def signup(request):
             
         if not username.isalnum():
             messages.error(request, "Username Must be Alpha-Numberic !!!")
-            return redirecr('home')
+            return redirect('home')
         
             
         myuser=User.objects.create_user(username,email,pass1)
@@ -116,7 +119,7 @@ def signout(request):
 
 def activate(request,uidb64,token):
     try:
-        uid=force_text(urlsafe_base64_decode(uidb64))
+        uid=force_str(urlsafe_base64_decode(uidb64))
         myuser=User.objects.get(pk=uid)
     except (TypeError,ValueError,OverflowError,User.DoesNotExist):
         myuser=None
