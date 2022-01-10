@@ -1,1 +1,1 @@
-web: gunicorn splanti.wsgi
+web: gunicorn cropyield1.wsgi
