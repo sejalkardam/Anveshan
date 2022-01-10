@@ -1,1 +1,1 @@
-release: python manage.py migrate --noinput
+web: gunicorn splanti.wsgi
