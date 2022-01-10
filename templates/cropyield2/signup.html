@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+</head>
+<style>
+    
+    #username {
+        font-family: "Times New Roman", Times, serif;
+        color: black;
+        font-size: 0.7cm;
+        margin-top: 0.67em;
+        margin-bottom: 0.67em;
+        text-align: center;
+        font-weight: bold;
+        align-self: center;
+    }
+    #fname {
+        font-family: "Times New Roman", Times, serif;
+        color: black;
+        font-size: 0.7cm;
+        margin-top: 0.67em;
+        margin-bottom: 0.67em;
+        text-align: center;
+        font-weight: bold;
+        text-align: center;
+    }
+    #lname {
+        font-family: "Times New Roman", Times, serif;
+        color: black;
+        font-size: 0.7cm;
+        margin-top: 0.67em;
+        margin-bottom: 0.67em;
+        font-weight: bold;
+        text-align: center;
+        align-self: center;
+    }
+    #email {
+        font-family: "Times New Roman", Times, serif;
+        color: black;
+        font-size: 0.7cm;
+        margin-top: 0.67em;
+        margin-bottom: 0.67em;
+        text-align: center;
+        font-weight: bold;
+        text-align: center;
+    }
+    #pass1 {
+        font-family: "Times New Roman", Times, serif;
+        color: black;
+        font-size: 0.7cm;
+        margin-top: 0.67em;
+        margin-bottom: 0.67em;
+        text-align: center;
+        font-weight: bold;
+        text-align: center;
+    }
+    #pass2 {
+        
+        color: black;
+        font-size: 0.7cm;
+        margin-top: 0.67em;
+        margin-bottom: 0.67em;
+        text-align: center;
+        font-weight: bold;
+        text-align: center;
+        font-family: "Times New Roman", Times, serif;
+    }
+    h1{
+        font-weight: bold;
+        display: block;
+        font-size: 5em;
+        margin-top: 0.67em;
+        margin-bottom: 0.67em;
+        margin-left: 0;
+        margin-right: 0;
+        text-align: center;
+        font-family: "Times New Roman", Times, serif;
+        text-decoration-style: double;
+        text-shadow: 2px 1px #fffbfb;
+        animation-name: example;
+        animation-duration: 10s;
+    }
+    h2{
+        font-weight: bold;
+        font-size: 2em;
+        margin-top: 0.67em;
+        margin-bottom: 0.67em;
+        margin-left: 0;
+        margin-right: 0;
+        text-align: center;
+        font-family: "Times New Roman", Times, serif;
+        text-decoration: underline;
+
+    }
+    @keyframes example {
+        0%   {text-color: red;}
+        25%  {text-color: yellow;}
+        50%  {text-color: blue;}
+        100% {text-color: green;}
+        
+}
+.button {
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+</style>
+<body>
+    <h1>PLANTi</h1>
+    <h2>Sign Up Page</h2>
+    <form action="/signup" method="post">
+    {% csrf_token %}
+        <br>
+        <label id="username">Username :</label>
+        <input type="text" id="username" name="username" placeholder="Username (only letters and numbers)"Required>
+        <br>
+
+        <label id="fname">First Name : </label>
+        <input type="text" id="fname" name="fname" placeholder="Enter your First Name"Required>
+        <br>
+
+        <label id="lname">Last Name :</label>
+        <input type="text" id="lname" name="lname" placeholder="Enter your Last Name"Required>
+        <br>
+
+        <label id="email" >Email Address :</label>
+        <input type="email" id="email" name="email" placeholder="Enter your Email Id"Required>
+        <br>
+
+        <label id="pass1">Password :</label>
+        <input type="password" id="pass1" name="pass1" placeholder="Enter your Password "Required>
+        <br>
+
+        <label id="pass2">Confirm your Password :</label>
+        <input type="password" id="pass2" name="pass2" placeholder="Confirm Your Password"Required>
+        <br>
+
+        <button type="submit" class="button">Sign Up</button>
+    </form>
+
+    
+</body>
+
+</html>

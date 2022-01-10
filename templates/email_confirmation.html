@@ -1,0 +1,12 @@
+{% autoescape off %}
+
+Welcome to Crop Yield Prediction , Login Page 
+
+Hello {{name}}!
+
+Please Confirm Your Email Id by Clicking on the Following Link 
+
+Confirmation Link: http://{{ domain }}{% url 'activate' uidb64=uid token=token %}
+
+{% endautoescape %}
+
